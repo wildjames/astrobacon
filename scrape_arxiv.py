@@ -2,7 +2,7 @@ import numpy as np
 import pandas as pd
 
 import requests
-from urllib.request import Request, urlopen
+from urllib3.request import Request, urlopen
 from bs4 import BeautifulSoup
 import feedparser
 from lxml import etree, html
