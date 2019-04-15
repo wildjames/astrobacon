@@ -102,3 +102,6 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+proxyURL.txt
+ArXiv_Scrape.txt
+proxies.tmp
