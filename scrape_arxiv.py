@@ -19,7 +19,8 @@ import time
 def get_proxies():
     global proxies
 
-    url = ''
+    with open('proxyURL.txt', 'r') as f:
+        url = f.read().strip()
     response = requests.get(url)
     new_proxies = response.text.split()
     
