@@ -4,6 +4,7 @@ import pandas as pd
 import requests
 from urllib.request import Request, urlopen
 from bs4 import BeautifulSoup
+import feedparser
 from lxml import etree, html
 from io import StringIO
 
@@ -18,7 +19,7 @@ import time
 def get_proxies():
     global proxies
 
-    url = 'https://api.proxyscrape.com/?request=getproxies&proxytype=http&timeout=1500&country=all&ssl=all&anonymity=elite&uptime=80'
+    url = 'https://api.proxyscrape.com/?request=getproxies&proxytype=http&timeout=500&country=all&ssl=all&anonymity=elite&uptime=90'
     response = requests.get(url)
     new_proxies = response.text.split()
     
@@ -26,7 +27,7 @@ def get_proxies():
     for p in new_proxies[:10]:
         print(" - {}".format(p))
     
-    proxies = set(new_proxies)
+    proxies = new_proxies
 
     if len(proxies):
         print("Got my proxy list! {} proxies".format(len(proxies)))
@@ -35,28 +36,44 @@ def get_proxies():
         print("Failed to get proxies!")
         exit()
 
-def retrieve_url(url):
-    global proxies
-
-    if len(proxies) < 100:
-        get_proxies()
-
+def retrieve_url(url, use_proxy=True):
+    
     # Don't slam the arxiv too hard
     sleep = np.random.rand() * 10.
-    print("Waiting {:.2f}s to obfuscate crawling".format(sleep))
     time.sleep(sleep)
-    proxy = proxies.pop()
 
-    print("Querying {} with the proxy {}".format(url, proxy))
-    # print("Querying {} with no proxy".format(url))
+    if use_proxy:
+        global proxies
+        global ua
+
+        if len(proxies) < 100:
+            get_proxies()
+
+        headers = {'User-Agent':str(ua.chrome)}
+        proxy = random.choice(proxies)
+
+        print("Querying {} with the proxy {}".format(url, proxy))
+    else:
+        print("Querying {} with no proxy".format(url))
 
     try:
-        response = requests.get(url, proxies={'https': proxy, 'http': proxy})
-        print("The request return code {}".format(response.status_code))
-        # If the proxy worked, put it back in the list of proxies.
-        proxies.add(proxy)
+        if use_proxy:
+            response = requests.get(url, 
+                proxies={'https': proxy, 'http': proxy}, 
+                headers=headers,
+                timeout=30)
+            if response.status_code == 503:
+                print("The proxy {} is banned :(".format(proxy))
+                raise Exception
+            if response.status_code == 504: # server error
+                raise Exception
+        else:
+            response = requests.get(url, timeout=30)
+        print("The url {} request returned: code {}".format(url, response.status_code))
     except:
         print("Failed to retrieve {} with the proxy: {}\n".format(url, proxy))
+        proxies.remove(proxy)
+        print("Removed {} from the proxy list.".format(proxy))
         response = retrieve_url(url)
 
     return response
@@ -77,40 +94,44 @@ def scrape_authors(YYMM):
     '''
 
     # Templates to crawl over
-    urlTemplate = "https://arxiv.org/abs/{}"
+    urlTemplate = "http://export.arxiv.org/api/query?id_list={}"
     codeTemplate = "{:4s}.{:05d}"
 
     print("Getting the year and month: {}".format(YYMM))
 
     data = {}
 
-    N = 0
-    while True:
-        N += 100
+    Ns = np.arange(1 ,100)
+    random.shuffle(Ns)
+    for N in Ns:
         # Construct the URL
         code = codeTemplate.format(YYMM, N)
         url = urlTemplate.format(code)
 
         # Get the page
-        page = retrieve_url(url)
+        page = retrieve_url(url, True)
 
         print("Got the page from the url")
 
-        soup = BeautifulSoup(page.content, 'lxml')
+        ## Check that the page returned a paper
 
-        # Find the div that contains the list of authors
-        authorBox = soup.find('div', {'class': 'authors'})
+        content = feedparser.parse(page.text)
 
-        if authorBox is None:
-            print("Finished {}".format(YYMM))
-            break
-        else:
-            # Extract the author names from that list.
-            authorNames = authorBox.find_all('a')
-            authorNames = [author.getText() for author in authorNames]
-
+        try:
+            entries = content.entries[0]
+        except:
+            print("!!FAILED!! The ArXiv ID http://arxiv.org/abs/{}".format(code))
+            continue
+        
+        authors = entries['authors']
+        authorNames = [a['name'] for a in authors]
+        # print(authorNames)
+        
+        if len(authorNames) > 1:
             data[code] = authorNames
-            print("Got {} authors from {}".format(len(authorNames), url))
+            print("Successfully got the author list from http://arxiv.org/abs/{}".format(code))
+        elif len(authorNames) == 1:
+            print("Only 1 author for paper http://arxiv.org/abs/{}".format(code))
 
     return data
 
@@ -126,24 +147,19 @@ if __name__ in "__main__":
     get_proxies()
 
 
-    # Test the new implimentation
-    YYMM = '1001'
-    records = scrape_authors(YYMM)
-
-    from pprint import pprint
-    pprint(records)
-
-
     codes = []
-    for Y in range(9, 20):
+    for Y in range(18, 20):
         for M in range(1, 13):
             codes.append("{:02d}{:02d}".format(Y, M))
-    p = Pool(100)
-    records = p.map(scrape_authors, codes)
 
-    # Graceful process shutdown
+
+    # Call the arxiv API and get the author lists of each ID in each month.
+    p = Pool(4)
+    records = p.map(scrape_authors, codes)
+    # Graceful finish
     p.terminate()
     p.join()
+
 
     with open('ArXiv_Scrape.txt', 'w') as f:
         for entry in records:
