@@ -21,6 +21,7 @@ def get_proxies():
         f = open('proxyURL.txt', 'w')
         f.write('Put your proxy URL here')
         f.close()
+        exit()
     response = requests.get(url)
     new_proxies = response.text.split()
     
@@ -47,6 +48,10 @@ def retrieve_url(url, use_proxy=True):
     time.sleep(sleep)
 
     if use_proxy:
+
+        if random.randint(0, 10000) == 4224:
+            get_proxies()
+
         with open("proxies.tmp", 'r') as f:
             proxies = f.read().split()
 
@@ -83,13 +88,14 @@ def retrieve_url(url, use_proxy=True):
     return response
 
 def scrape_authors(YYMM):
-    '''Takes a year, month and arxiv index, and grabs the author list from it.
+    '''Takes a year and month as a string, and grabs the author list from ArXiv.
     Returns a list of the authors, and the arxiv code of the paper. If the code is invalid,
     None is returned instead of a list of authors
     
     Arguments:
     ----------
     YYMM: str
+        Year and month code, YYMM format, exact.
     
     Returns:
     --------
