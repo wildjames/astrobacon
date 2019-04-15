@@ -161,7 +161,7 @@ if __name__ in "__main__":
 
 
     codes = []
-    for Y in [18]:
+    for Y in range(7, 19):
         for M in range(1, 13):
             codes.append("{:02d}{:02d}".format(Y, M))
 
@@ -177,6 +177,5 @@ if __name__ in "__main__":
     with open('ArXiv_Scrape.txt', 'w') as f:
         for entry in records:
             for key in entry.keys():
-                f.write(str(entry[key]))
-                f.write('\n')
+                f.write(key + str(entry[key]) + '\n')
 
