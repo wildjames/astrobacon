@@ -1,12 +1,7 @@
 import numpy as np
-import pandas as pd
 
 import requests
-from urllib3.request import Request, urlopen
-from bs4 import BeautifulSoup
 import feedparser
-from lxml import etree, html
-from io import StringIO
 
 from fake_useragent import UserAgent
 import random
