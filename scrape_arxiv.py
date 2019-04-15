@@ -142,7 +142,7 @@ def scrape_authors(YYMM):
             print("!!FAILED!! The ArXiv ID http://arxiv.org/abs/{}".format(code))
             # If I encounter two broken links in a row, I've probably finished.
             if not broken:
-                broken == True
+                broken = True
             if broken:
                 break
         
@@ -167,7 +167,7 @@ if __name__ in "__main__":
 
 
     # Call the arxiv API and get the author lists of each ID in each month.
-    p = Pool( 8)
+    p = Pool(16)
     records = p.map(scrape_authors, codes)
     # Graceful finish
     p.terminate()
