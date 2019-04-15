@@ -161,7 +161,7 @@ if __name__ in "__main__":
 
 
     codes = []
-    for Y in range(17, 19):
+    for Y in [18]:
         for M in range(1, 13):
             codes.append("{:02d}{:02d}".format(Y, M))
 
