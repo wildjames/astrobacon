@@ -19,7 +19,7 @@ import time
 def get_proxies():
     global proxies
 
-    url = 'https://api.proxyscrape.com/?request=getproxies&proxytype=http&timeout=500&country=all&ssl=all&anonymity=elite&uptime=90'
+    url = ''
     response = requests.get(url)
     new_proxies = response.text.split()
     
@@ -35,6 +35,9 @@ def get_proxies():
     else:
         print("Failed to get proxies!")
         exit()
+    
+    with open("proxies.tmp", 'w') as f:
+        f.write(response.text)
 
 def retrieve_url(url, use_proxy=True):
     
@@ -43,11 +46,8 @@ def retrieve_url(url, use_proxy=True):
     time.sleep(sleep)
 
     if use_proxy:
-        global proxies
-        global ua
-
-        if len(proxies) < 100:
-            get_proxies()
+        with open("proxies.tmp", 'r') as f:
+            proxies = f.read().split()
 
         headers = {'User-Agent':str(ua.chrome)}
         proxy = random.choice(proxies)
@@ -71,9 +71,12 @@ def retrieve_url(url, use_proxy=True):
             response = requests.get(url, timeout=30)
         print("The url {} request returned: code {}".format(url, response.status_code))
     except:
-        print("Failed to retrieve {} with the proxy: {}\n".format(url, proxy))
+        print("Failed to retrieve {} with the proxy: {}".format(url, proxy))
         proxies.remove(proxy)
-        print("Removed {} from the proxy list.".format(proxy))
+        with open("proxies.tmp", 'w') as f:
+            for p in proxies:
+                if p != proxy:
+                    f.write("{}\n".format(p))
         response = retrieve_url(url)
 
     return response
@@ -101,7 +104,7 @@ def scrape_authors(YYMM):
 
     data = {}
 
-    Ns = np.arange(1 ,100)
+    Ns = np.arange(15000)
     random.shuffle(Ns)
     for N in Ns:
         # Construct the URL
@@ -111,12 +114,8 @@ def scrape_authors(YYMM):
         # Get the page
         page = retrieve_url(url, True)
 
-        print("Got the page from the url")
-
         ## Check that the page returned a paper
-
         content = feedparser.parse(page.text)
-
         try:
             entries = content.entries[0]
         except:
@@ -129,9 +128,9 @@ def scrape_authors(YYMM):
         
         if len(authorNames) > 1:
             data[code] = authorNames
-            print("Successfully got the author list from http://arxiv.org/abs/{}".format(code))
+            print("\nSuccessfully got the author list from http://arxiv.org/abs/{}\n".format(code))
         elif len(authorNames) == 1:
-            print("Only 1 author for paper http://arxiv.org/abs/{}".format(code))
+            print("\nOnly 1 author for paper http://arxiv.org/abs/{}\n".format(code))
 
     return data
 
@@ -148,13 +147,13 @@ if __name__ in "__main__":
 
 
     codes = []
-    for Y in range(18, 20):
+    for Y in range(17, 19):
         for M in range(1, 13):
             codes.append("{:02d}{:02d}".format(Y, M))
 
 
     # Call the arxiv API and get the author lists of each ID in each month.
-    p = Pool(4)
+    p = Pool(40)
     records = p.map(scrape_authors, codes)
     # Graceful finish
     p.terminate()
