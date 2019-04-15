@@ -23,10 +23,12 @@ def get_proxies():
         f.close()
         exit()
     response = requests.get(url)
-    new_proxies = response.text.split()
+    new_proxies = response.text.split()[1:-1]
     
     print("First 10 proxies:")
-    for p in new_proxies[:10]:
+    for p in new_proxies[:5]:
+        print(" - {}".format(p))
+    for p in new_proxies[-5:]
         print(" - {}".format(p))
     
     proxies = new_proxies
