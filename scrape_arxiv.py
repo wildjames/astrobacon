@@ -47,7 +47,7 @@ def get_proxies():
 
 def retrieve_url(url, use_proxy=True):
     
-    # Don't slam the arxiv too hard
+    # Don't slam the arxiv too hard
     sleep = np.random.rand() * 10.
     time.sleep(sleep)
 
@@ -71,7 +71,7 @@ def retrieve_url(url, use_proxy=True):
             if response.status_code == 503:
                 print("The proxy {} is banned :(".format(proxy))
                 raise Exception
-            if response.status_code == 504: # server error
+            if response.status_code == 504: # server error
                 raise Exception
         else:
             response = requests.get(url, timeout=30)
@@ -113,11 +113,11 @@ def scrape_authors(YYMM):
     Ns = np.arange(1, 15000, 100)
     random.shuffle(Ns)
     for N in Ns:
-        # Construct the URL
+        # Construct the URL
         code = codeTemplate.format(YYMM, N)
         url = urlTemplate.format(code)
 
-        # Get the page
+        # Get the page
         page = retrieve_url(url, True)
 
         ## Check that the page returned a paper
@@ -142,7 +142,7 @@ def scrape_authors(YYMM):
 
 
 if __name__ in "__main__":
-    ## Bits and bobs to stop my getting blocked by the site's robo-racist
+    ## Bits and bobs to stop my getting blocked by the site's robo-racist
     ua = UserAgent() # From here we generate a random user agent
     proxies = [] # Will contain proxies [ip, port]
 
