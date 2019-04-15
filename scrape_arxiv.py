@@ -140,7 +140,7 @@ def scrape_authors(YYMM):
             broken = False
         except:
             print("!!FAILED!! The ArXiv ID http://arxiv.org/abs/{}".format(code))
-            # If I encounter two broken links in a row, I've probably finished.
+            # If I encounter two broken links in a row, I've probably finished.
             if not broken:
                 broken == True
             if broken:
