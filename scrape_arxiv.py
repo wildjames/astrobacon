@@ -119,20 +119,20 @@ def scrape_authors(YYMM):
         content = feedparser.parse(page.text)
         try:
             entries = content.entries[0]
+        
+            authors = entries['authors']
+            authorNames = [a['name'] for a in authors]
+            # print(authorNames)
+            
+            if len(authorNames) > 1:
+                data[code] = authorNames
+                print("\nSuccessfully got the author list from http://arxiv.org/abs/{}\n".format(code))
+            elif len(authorNames) == 1:
+                print("\nOnly 1 author for paper http://arxiv.org/abs/{}\n".format(code))
         except:
             print("!!FAILED!! The ArXiv ID http://arxiv.org/abs/{}".format(code))
             continue
         
-        authors = entries['authors']
-        authorNames = [a['name'] for a in authors]
-        # print(authorNames)
-        
-        if len(authorNames) > 1:
-            data[code] = authorNames
-            print("\nSuccessfully got the author list from http://arxiv.org/abs/{}\n".format(code))
-        elif len(authorNames) == 1:
-            print("\nOnly 1 author for paper http://arxiv.org/abs/{}\n".format(code))
-
     return data
 
 
