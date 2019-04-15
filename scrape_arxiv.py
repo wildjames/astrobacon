@@ -165,7 +165,7 @@ if __name__ in "__main__":
 
 
     # Call the arxiv API and get the author lists of each ID in each month.
-    p = Pool(40)
+    p = Pool( 8)
     records = p.map(scrape_authors, codes)
     # Graceful finish
     p.terminate()
