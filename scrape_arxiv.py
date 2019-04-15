@@ -28,7 +28,7 @@ def get_proxies():
     print("First 10 proxies:")
     for p in new_proxies[:5]:
         print(" - {}".format(p))
-    for p in new_proxies[-5:]
+    for p in new_proxies[-5:]:
         print(" - {}".format(p))
     
     proxies = new_proxies
