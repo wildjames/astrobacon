@@ -113,7 +113,7 @@ def scrape_authors(YYMM):
 
     data = {}
 
-    Ns = np.arange(1, 15000)
+    Ns = np.arange(1, 100000)
     broken = False
     for N in Ns:
         # Construct the URL
