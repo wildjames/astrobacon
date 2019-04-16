@@ -1,0 +1,1609 @@
+0704.01001, A. Losev, S. Shadrin, I. Shneiberg
+0704.00501, B. Dubrovin, T. Grava, C. Klein
+0704.00001, C. Balázs, E. L. Berger, P. M. Nadolsky, C. -P. Yuan
+0704.01101, Emmanuel Briand, Mercedes Rosas, Mike Zabrocki
+0704.00901, Jacob J. H. Simmons, Peter Kleban, Kevin Dahlberg, Robert M. Ziff
+0704.00401, A. Lançon, J. S. Gallagher, R. de Grijs, P. Hauschildt, D. Ladjal, M. Mouhcine, L. J. Smith, P. R. Wood, N. Förster Schreiber
+0704.01501, A. Gozar, G. Logvenov, V. Y. Butko, I. Bozovic
+0704.01701, Ming-chang Kang, Shou-Jen Hu
+0704.00201, Ta Khongsap, Weiqiang Wang
+0704.01201, Stephen L. Adler, F. J. Yndurain
+0704.01601, M. Matuszewski, B. A. Malomed, M. Trippenbach
+0704.01301, T. R. Hunter, Q. Zhang, T. K. Sridharan
+0704.00701, Sebastien Chenais, Frederic Druon, Sebastien Forget, Francois Balembois, Patrick Georges
+0704.01901, Saikat Guha, Jeffrey H. Shapiro
+0704.00601, Chuan-Hung Chen, Chao-Qiang Geng, Tzu-Chiang Yuan
+0705.00201, Jesse D Bloom, Philip A Romero, Zhongyi Lu, Frances H Arnold
+0705.00001, Aravind Natarajan, Pierre Sikivie
+0705.00301, R. Howl, S. F. King
+0706.00401, Metin Gurses, Ismagil Habibullin, Kostyantyn Zheltukhin
+0706.01501, M. Unger, R. Engel, F. Schüssler, R. Ulrich
+0706.01401, J. R. Lockwood, Daniel F. McCaffrey
+0706.01301, Paolo Aluffi, Carel Faber
+0706.00501, Leonid P. Pryadko, Gregory Quiroz
+0706.01601, Dagny L. Looper, J. Davy Kirkpatrick, Adam J. Burgasser
+0706.01201, Jose Eduardo M. Lobo, Jorge Luis Risco Becerra, Matthias R. Brust, Steffen Rothkugel, Christian M. Adriano
+0706.01801, Elizabeth R. Fernandez, Eiichiro Komatsu
+0706.00601, Mauro Antezza, Franco Dalfovo, Lev P. Pitaevskii, Sandro Stringari
+0706.01901, Victor Katsnelson, Bernd Kirstein
+0706.00301, P. S. Bisht, O. P. S. Negi, Jivan Singh
+0706.00201, Greg Piepmeyer, Mark E. Walker
+0706.00901, A. K. H. Kong, Y. J. Yang, P. -Y. Hsieh, D. S. Y. Mak, C. S. J. Pun
+0706.00001, Z. C. Tu, Z. C. Ou-Yang
+0708.00401, Ta Thi Hoai An, William Cherry, Julie Tzu-Yueh Wang
+0708.00301, Shuangli Dong, Tao Huang, Yuan Liu, Jun Wang, Guofeng Zhang, Liantuan Xiao+, Suotang Jia
+0708.00001, Tristan L. Smith, Adrienne L. Erickcek, Robert R. Caldwell, Marc Kamionkowski
+0708.00201, Alexander K. Popov, Sergey A. Myslivets, Thomas F. George, Vladimir M. Shalaev
+0708.00101, N. S. Oreshkina, D. A. Glazov, A. V. Volotka, V. M. Shabaev, I. I. Tupitsyn, G. Plunien
+0708.00501, Charles Bonatto, Eduardo Bica, Sergio Ortolani, Beatriz Barbuy
+0709.00601, Andrey Gandman, Lev Chuntonov, Leonid Rybak, Zohar Amitay
+0709.02001, Jan Hendrik Bruinier, Winfried Kohnen
+0709.01701, Xinde Li, Xinhan Huang, Florentin Smarandache, Jean Dezert
+0709.02101, A. J. Bennett, D. J. P. Ellis, A. J. Shields, P. Atkinson, I. Farrer, D. A. Ritchie
+0709.00001, Markus Andres, Imke Schneider, Sebastian Eggert
+0709.01401, Thierry Coquand, Arnaud Spiwack
+0709.01001, T. Morita, T. Zh. Esirkepov, S. V. Bulanov, J. Koga, M. Yamagiwa
+0709.00301, D. Cavalcanti, P. L. Saldanha, O. Cosme, F. G. S. L. Brandao, C. H. Monken, S. Padua, M. Franca Santos, M. O. Terra Cunha
+0709.01801, David Dereudre, Frédéric Lavancier
+0709.01601, D. Cabrera Solana, L. R. Bellot Rubio, J. M. Borrero, J. C. del Toro Iniesta
+0709.00401, M. R. Templeton, A. A. Henden
+0709.01501, M. Hicken, P. M. Garnavich, J. L. Prieto, S. Blondin, D. L. DePoy, R. P. Kirshner, J. Parrent
+0709.00501, Yu Lu, Yong-Zhong Qian
+0709.01301, H. E. Bignall, D. L. Jauncey, J. E. J. Lovell, A. K. Tzioumis, J-P. Macquart, L. Kedziora-Chudczer
+0709.02301, Alexey Boyarsky, Dmytro Iakubovskyi, Oleg Ruchayskiy, Vladimir Savchenko
+0709.02601, S. Verley, L. K. Hunt, E. Corbelli, C. Giovanardi
+0709.00901, A. Afanasev, M. Strikman, C. Weiss
+0709.01201, Paola Bruscoli, Alessio Guglielmi
+0709.00101, D. D. Long, A. Lubotzky, A. W. Reid
+0709.01901, M. Carbonell, J. Terradas, R. Oliver, J. L. Ballester
+0709.00201, Julia Fornleitner, Gerhard Kahl
+0709.00801, Uma N. Iyer, Timothy C. McCune
+0710.00001, Yu Nakayama, Masahito Yamazaki, T. T. Yanagida
+0710.00101, John A. Toth, Steve Zelditch
+0711.00001, Charlie Conroy, Alice E. Shapley, Jeremy L. Tinker, Michael R. Santos, Gerard Lemson
+0711.00701, Bruno Chiarellotto, Andrea Pulita
+0711.01201, Junichiro Miura, Masahiro Tsujimoto, Yohko Tsuboi, Yoshitomo Maeda, Yasuharu Sugawara, Katsuji Koyama, Shigeo Yamauchi
+0711.00901, Sergey Melnik, Oleg Rasskazov, Guillaume Huyet
+0711.01101, J. Escrig, D. Altbir, K. Nielsch
+0711.01001, Y. H. Ahn, Sin Kyu Kang, C. S. Kim, Jake Lee
+0711.00101, T. Kurtukian-Nieto, J. Benlliure, L. Audouin, F. Becker, B. Blank, I. N. Borzov, E. Casarejos, M. Fernandez-Ordonez, J. Giovinazzo, D. Henzlova, B. Jurado, K. Langanke, G. Martinez-Pinedo, J. Pereira, F. Rejmund, K. -H. Schmidt, O. Yordanov
+0711.01301, N. Tristan, V. Zestrea, G. Behr, R. Klingeler, B. Buechner, H. A. Krug von Nidda, A. Loidl, V. Tsurkan
+0711.00401, T. A. Johnson, E. Urban, T. Henage, L. Isenhower, D. D. Yavuz, T. G. Walker, M. Saffman
+0711.00601, F. Baudin, T. Appourchaux, P. Boumier, R. Kuschnig, J. W. Leibacher, J. M. Matthews
+0711.00301, Reuven Cohen, Niloofar Fazlollahi, David Starobinski
+0711.00801, Michael C. Cushing, Mark S. Marley, D. Saumon, Brandon C. Kelly, William D. Vacca, John T. Rayner, Richard S. Freedman, Katharina Lodders, Thomas L. Roellig
+0712.01601, K. M. Flaherty, J. Muzerolle
+0712.00101, L. Marrucci, C. Manzo, D. Paparo
+0712.00701, M. Di Criscienzo, M. Marconi, F. Caputo, S. Cassisi
+0712.00301, A. Bik, A. Lenorzer, W-. F. Thi, E. Puga-Antolin, L. B. F. M. Waters, L. Kaper, L. N. Martin-Hernandez
+0712.01101, I. Fachruddin, I. Abdulrahman
+0712.00901, Jiming Jiang, Yihui Luan, You-Gan Wang
+0712.00001, Francisco Jesus Castro-Jimenez, Nobuki Takayama
+0801.00101, S. Graser, P. J. Hirschfeld, D. J. Scalapino
+0801.00201, Orfeu Bertolami, Francisco Gil Pedro, Morgan Le Delliou
+0802.00501, Rima Stonkute, Vladas Vansevicius, Nobuo Arimoto, Takashi Hasegawa, Donatas Narbutis, Naoyuki Tamura, Pascale Jablonka, Kouji Ohta, Yoshihiko Yamada
+0802.00201, Ryuichi Kurosawa, M. M. Romanova, Tim J. Harries
+0802.00101, Daniele Tommasini, Albert Ferrando, Humberto Michinel, Marcos Seco
+0802.00001, "Elena D, Onghia", , George Lake
+0802.00901, S. Schmidt, Y. Alhassid
+0802.00401, D. A. Abdushukurov, D. V. Bondarenko, Kh. Kh. Muminov, D. Yu. Chistyakov
+0803.00001, R. H. K. Kadala, P. G. Mercadante, J. K. Mizukoshi, Xerxes Tata
+0804.04701, Chao Wang, Yijia Fan, Ioannis Krikidis, John S. Thompson, H. Vincent Poor
+0804.03301, Davide Astolfi, Gianluca Grignani, Troels Harmark, Marta Orselli
+0804.03601, Vernon Barger, Danny Marfatia, Azar Mustafayev
+0804.04601, A. Mischke, for the STAR Collaboration
+0804.04201, Fumitaka Nakamura, Zhi-Yun Li
+0804.00801, Michele Frigerio, Pierre Hosteins, Stephane Lavignac, Andrea Romanino
+0804.01501, P. A. Boyle, A. Juttner, C. Kelly, R. D. Kenway
+0804.01701, S. Savo, E. Di Gennaro, C. Miletto, A. Andreone, P. Dardano, L. Moretti, V. Mocella
+0804.00301, Yun Soo Myung, Yong-Wan Kim, Young-Jai Park
+0804.04101, N. I. Cade, F. Culfaz, L. Eligal, T. Ritman-Meer, F-M. Huang, F. Festy, D. Richards
+0804.02601, Antonio Dobado, Felipe J. Llanes-Estrada, Juan Miguel Torres Rincon
+0804.02501, Ue-Li Pen, Tzu-Ching Chang, Jeff B. Peterson, Jayanta Roy, Yashwant Gupta, Kevin Bandura
+0804.02901, T. Huberman, D. A. Tennant, R. A. Cowley, R. Coldea, C. D. Frost
+0804.02301, Sang-Koog Kim, Jun-Young Lee, Youn-Seok Choi, Konstantin Yu. Guslienko, Ki-Suk Lee
+0804.02801, Kostadin Gribachev, Mancho Manev, Dimitar Mekerov
+0804.00001, V. V. Mkhitaryan, M. E. Raikh
+0804.02701, Anne Gentil-Beccot, Salvatore Mele, Annette Holtkamp, , "Heath B. O, Connell", , Travis C. Brooks
+0804.04801, Writambhara Chakraborty, Ujjal Debnath
+0804.02101, D. N. H. Nam, H. S. Hong, N. V. Khien, N. V. Dai, T. D. Thanh, L. T. C. Tuong, L. V. Hong, N. X. Phuc
+0804.00701, Kentaro Saji, Masaaki Umehara, Kotaro Yamada
+0804.01801, V. R. Misko, , "S. Savel, ev", , A. L. Rakhmanov, Franco Nori
+0804.01201, Jean-Charles Boisson, Laetitia Jourdan, El-Ghazali Talbi, Christian Rolando
+0804.02201, Eric A. Bergshoeff, Mees de Roo, Olaf Hohm
+0804.00901, Hao Pan, Li-Lu Zhao
+0804.03801, Paul M. Saffin, Antonio Padilla, Edmund J. Copeland
+0804.04501, Adi Armoni, Biagio Lucini, Agostino Patella, Claudio Pica
+0804.04401, Sara Bolognesi, Giuseppe Bozzi, Andrea Di Simone
+0804.00601, P. N. Dowling, B. Randrianantoanina, B. Turett
+0804.00501, S. V. Mousavi, M. Golshani
+0804.01101, Andrea P. Buccino, Pablo J. D. Mauas
+0804.01301, S. I. Denisov, Werner Horsthemke, Peter Hänggi
+0804.04301, "Piero D, Ancona", , Damiano Foschi, Sigmund Selberg
+0804.02001, Shouchuan Zhang, Peng Wang, Jing Cheng, Hui Yang
+0804.03101, D. J. W. Simpson, J. D. Meiss
+0805.00701, O. Stahl, G. Wade, V. Petit, B. Stober, L. Schanne
+0805.00201, S. Vegetti, L. V. E. Koopmans
+0805.00101, J. Ireland, C. A. Young, R. T. J. McAteer, C. Whelan, R. J. Hewett, P. T. Gallagher
+0805.00801, F. Heitsch, L. Hartmann, A. Burkert, ;
+0805.00501, Christian Senger, Vladimir Sidorenko, Martin Bossert, Victor Zyablov
+0805.00301, Minchul Lee, Thibaut Jonckheere, Thierry Martin
+0805.00901, R. Voicu, R. Muller, L. Eftime
+0805.00001, Anudeep Kanwar, Luc Simard, David Schade, Stephen D. J. Gwyn
+0805.00401, Wan-lei Guo, Li-ming Wang, Yue-liang Wu, Ci Zhuang
+0806.01101, Raymond Fresard, Thilo Kopp
+0806.01801, D. Docenko, R. A. Sunyaev
+0806.00801, S. K. Adhikari, M. S. Hussein
+0806.01301, K. Sasmal, B. Lv, B. Lorenz, A. Guloy, F. Chen, Y. Xue, C. W. Chu
+0806.01401, Gilberto Bini, Claudio Fontanari
+0806.01201, M. Ogren, G. M. Kavoulakis
+0806.02201, H. Nobukane, K. Inagaki, K. Ichimura, K. Yamaya, S. Takayanagi, I. Kawasaki, K. Tenya, H. Amitsuka, K. Konno, Y. Asano, S. Tanda
+0806.00701, Shu-Chiuan Chang, Lung-Chi Chen
+0806.02001, R. A. Windhorst, S. H. Cohen, N. P. Hathi, R. A. Jansen, R. E. Ryan Jr
+0806.01901, Pablo M. Chacon, David L. Johnson
+0806.00401, Zoran Ristivojevic, Zoran Lj. Petrović
+0806.01701, Marina Battaglia, Arnold O. Benz
+0806.02101, Jop Briët, Ronald de Wolf
+0806.02301, R. Bonciani, A. Ferroglia, T. Gehrmann, D. Maitre, C. Studerus
+0806.00101, M. Hashimoto, T. Yoshida, K. Tanaka, A. Fujimori, M. Okusawa, S. Wakimoto, K. Yamada, T. Kakeshita, H. Eisaki, S. Uchida
+0806.01601, V. V. Anisovich, A. V. Sarantsev
+0806.02401, Alain Connes, Caterina Consani, Matilde Marcolli
+0807.00301, Markus Janson, Sabine Reffert, Wolfgang Brandner, Thomas Henning, Rainer Lenzen, Stefan Hippler
+0807.00001, Andreea S. Font, Richard G. Bower, Ian G. McCarthy, Andrew J. Benson, Carlos S. Frenk, John C. Helly, Cedric G. Lacey, Carlton M. Baugh, Shaun Cole
+0807.00101, Taichi Morioka, Aki Nakajima, Yoshiaki Taniguchi, Yasuhiro Shioya, Takashi Murayama, Shunji S. Sasaki
+0807.00201, S. Berta, S. Rubele, A. Franceschini, E. Held, L. Rizzi, G. Rodighiero, A. Cimatti, J. E. Dias, C. Feruglio, F. La Franca, C. J. Lonsdale, R. Maiolino, I. Matute, M. Rowan-Robinson, N. Sacchi, G. Zamorani
+0807.00401, Edward W. Kolb, Valerio Marra, Sabino Matarrese
+0808.00201, Martin M. Block, Loyal Durand, Douglas W. McKay
+0808.00101, V. E. Adler, V. V. Postnikov
+0808.00001, Deokkeun An, Jennifer A. Johnson, James L. Clem, Brian Yanny, Constance M. Rockosi, Heather L. Morrison, Paul Harding, James E. Gunn, Carlos Allende Prieto, Timothy C. Beers, Kyle M. Cudworth, Inese I. Ivans, Zeljko Ivezic, Young Sun Lee, Robert H. Lupton, Dmitry Bizyaev, Howard Brewington, Elena Malanushenko, Viktor Malanushenko, Dan Oravetz, Kaike Pan, Audrey Simmons, Stephanie Snedden, Shannon Watters, Donald G. York
+0809.00301, Ernst Eberlein, Antonis Papapantoleon, Albert N. Shiryaev
+0809.00801, K. Mukherjee, A. Banerjee
+0809.00701, Melissa Anholm, Stefan Ballmer, Jolien D. E. Creighton, Larry R. Price, Xavier Siemens
+0809.00601, Jonay I. González Hernández, Pilar Ruiz-Lapuente, Alexei V. Filippenko, Ryan J. Foley, Avishay Gal-Yam, Joshua D. Simon
+0809.00901, Emmanuel Van Hese, Maarten Baes, Herwig Dejonghe
+0809.00401, Julius Borcea, Petter Brändén
+0809.00001, E. Berger, R. E. Rutledge, N. Phan-Bao, G. Basri, M. S. Giampapa, J. E. Gizis, J. Liebert, E. Martin, T. A. Fleming
+0809.01001, Yu. B. Ivanov, V. N. Russkikh
+0810.00001, Dimitrios Galanakis, Tudor Stanescu, Philip Phillips
+0811.00701, Y. Xu, M. J. Reid, K. M. Menten, A. Brunthaler, X. W. Zheng, L. Moscadelli
+0811.00801, Yves Elskens, Etienne Pardoux
+0811.00401, Hans Johnston, Charles R. Doering
+0811.00201, R. Candelier, O. Dauchot, G. Biroli
+0811.00101, Chandni. U, Arindam Ghosh, H. S. Vijaya, S. Mohan
+0811.00601, Bradley A. Chase, J. M. Geremia
+0811.00001, Dimitri Veras, Eric B. Ford
+0811.00301, V. M. Kolomietz, S. V. Lukyanov, O. I. Davidovskaya
+0811.01001, Jørgen Christensen-Dalsgaard, Maria Pia Di Mauro, Günter Houdek, Frank Pijpers
+0811.00501, M. Boettcher, K. Fultz
+0812.00501, T. L. Riethmueller, D. Rosenkranz, L. Schimansky-Geier
+0812.00101, Ana L. C. Pereira, Peter A. Schulz
+0812.00001, Keith S. M. Lee, Frank J. Tackmann
+0812.00301, Joachim Kalden, Kathrin Sebald, Juergen Gutowski, Christian Tessarek, Timo Aschenbrenner, Stephan Figge, Detlef Hommel
+0812.00401, Timur Zh. Esirkepov, Sergei V. Bulanov, Alexei G. Zhidkov, Alexander S. Pirozhkov, Masaki Kando
+0901.00501, Morten Kühnrich, Stefan Schwoon, Jiří Srba, Stefan Kiefer
+0901.00601, "A. S. Mel, nikov", , A. V. Samokhvalov, M. N. Zubarev
+0901.00101, Frauke M. Bleher, Ted Chinburg
+0902.00301, M. F. Bode, M. J. Darnley, A. W. Shafter, K. L. Page, O. Smirnova, G. C. Anupama, T. Hilton
+0902.00201, R. Prozorov, M. A. Tanatar, E. C. Blomberg, P. Prommapan, R. T. Gordon, N. Ni, , "S. L. Bud, ko", , P. C. Canfield
+0902.00101, Michael Ummels, Dominik Wojtczak
+0902.00001, Duy Cuong Nguyen, Ray Jayawardhana, Marten H. van Kerkwijk, Alexis Brandeker, Alexander Scholz, Ivana Damjanov
+0902.00401, J. M. Pons, D. C. Salisbury, K. A. Sundermeyer
+0902.01101, R. van Boekel, M. Guedel, Th. Henning, F. Lahuis, E. Pantin
+0902.00901, Lisa Brouwers, Martin Camitz, Baki Cakici, Kalle Mäkilä, Paul Saretok
+0902.01001, Geoffrey Compère, Keiju Murata, Tatsuma Nishioka
+0902.01201, A. A. Minzoni, L. R. Juarez, M. Rosenbaum
+0902.01501, Ariel Amir, Yuval Oreg, Yoseph Imry
+0902.00701, I. Santamaria-Holek, M. H. Vainstein, J. M. Rubi, F. A. Oliveira
+0902.00801, M. Mastnak, J. Pevtsova, P. Schauenburg, S. Witherspoon
+0902.01401, A. Colaiuda, H. Beyer, K. D. Kokkotas
+0903.00901, David F. Anderson, Anne Shiu
+0903.01501, Benjamin Graham, Geoffrey Grimmett
+0903.01901, Y. -M. Chen, J. -M. Wang, C. -S. Yan, C. Hu, S. Zhang
+0903.00001, Yungui Gong, Mustapha Ishak, Anzhong Wang
+0903.00401, S. T. Myers, C. Pfrommer, J. Aguirre, J. R. Bond, J. O. Burns, T. Clarke, M. Devlin, A. Evrard, S. Golwala, S. Habib, K. Heitmann, W. L. Holzapfel, N. E. Kassim, A. Kravtsov, A. T. Lee, M. Markevich, D. Marrone, D. Nagai, L. Page, E. Pierpaoli, L. Rudnick, J. Sievers, G. Taylor, M. Voit
+0903.01201, Rohit Dhir, R. C. Verma, Avinash Sharma
+0903.00801, Juerg Gasser, Christoph Haefeli, Mikhail A. Ivanov, Martin Schmid
+0903.00201, Shane T. Jensen, Ibrahim Erkan, Erna S. Arnardottir, Dylan S. Small
+0903.00601, The CLEO Collaboration, J. Yelton
+0903.00701, Shigeji Fujita, Rohit Singh, Salvador Godoy, Kei Ito
+0903.01601, Sean A. Barton, Ian L. Winger
+0903.01101, A. Lecavelier des Etangs, A. Vidal-Madjar
+0903.00101, Katherine Freese, Douglas Spolyar, Peter Bodenheimer, Paolo Gondolo
+0903.01301, The CLEO Collaboration, R. E. Mitchell
+0903.00501, Ibrar Hussain, F. M. Mahomed, Asghar Qadir
+0903.00301, Hai Qing Zhou, Dian Yong Chen, Yu Bing Dong
+0903.01701, Natalia Castellana, Juan A. Crespo, Jerome Scherer
+0904.03701, Guillaume Erétéo, Fabien Gandon, Olivier Corby, Michel Buffa
+0904.00401, Eduardo Guendelman, Alexander Kaganovich, Emil Nissimov, Svetlana Pacheva
+0904.01601, A. Bostan, S. Boukraa, A. J. Guttmann, S. Hassani, I. Jensen, J. -M. Maillard, N. Zenine
+0904.02301, Xiao-Gang He, Jusak Tandean, G. Valencia
+0904.01801, D. M. Andrade, M. S. Hussein
+0904.03001, S. Lopez-Rosa, D. Manzano, J. S. Dehesa
+0904.02601, Mathieu Desbrun, Roger D. Donaldson, Houman Owhadi
+0904.01401, Sébastien Darses, Ivan Nourdin, David Nualart
+0904.03101, Jonathan J. Heckman, Cumrun Vafa
+0904.00801, Wissam Chemissany, Pietro Fre, Alexander S. Sorin
+0904.02201, Ilia Gogoladze, Nobuchika Okada, Qaisar Shafi
+0904.01201, Mark J. Devlin, Peter A. R. Ade, Itziar Aretxaga, James J. Bock, Edward L. Chapin, Matthew Griffin, Joshua O. Gundersen, Mark Halpern, Peter C. Hargrave, David H. Hughes, Jeff Klein, Gaelen Marsden, Peter G. Martin, Philip Mauskopf, Lorenzo Moncelsi, Calvin B. Netterfield, Henry Ngo, Luca Olmi, Enzo Pascale, Guillaume Patanchon, Marie Rex, Douglas Scott, Christopher Semisch, Nicholas Thomas, Matthew D. P. Truch, Carole Tucker, Gregory S. Tucker, Marco P. Viero, Donald V. Wiebe
+0904.03901, Harry I. Ringermacher, Lawrence R. Mead
+0904.00001, Michael Bortz, Michael Karbach, Imke Schneider, Sebastian Eggert
+0904.03801, Y. Tsue, C. Providencia, J. da Providencia, M. Yamamura
+0904.02701, J. T. Mendonça, B. Thidé, H. Then
+0904.02001, V. Barger, Y. Gao, W. -Y. Keung, D. Marfatia, G. Shaughnessy
+0904.00901, M. Gurses, A. Karasu, R. Turhan
+0904.01501, Shengjun Yuan, Mikhail I. Katsnelson, Hans De Raedt
+0904.01901, Xiao chuan Xue, Jinhua Zhao, Fei Liu, Zhong-can Ou-Yang
+0904.00101, E. Schisano, E. Covino, , "J. M. Alcala, ", , M. Esposito, D. Gandolfi, E. W. Guenther
+0904.01101, Feng Qi, Bai-Ni Guo
+0904.02801, Changbong Hyeon, Stefan Klumpp, José N. Onuchic
+0904.02901, Donat J. Adams, W. M. Temmerman, Z. Szotek
+0904.01001, Rita Tojeiro, Stephen Wilkins, Alan F. Heavens, Ben Panter, Raul Jimenez
+0904.02501, Mostafa Adimy, Fabien Crauste, Shigui Ruan
+0904.03201, Giulia Gubitosi, Luca Pagano, Giovanni Amelino-Camelia, Alessandro Melchiorri, Asantha Cooray
+0904.04001, Nicusor Costea, Cezar Lupu
+0904.00601, Vincenzo Calò, Gianni Tallarita, Steven Thomas
+0904.03501, Sayan Bhattacharya, Vincent Conitzer, Kamesh Munagala, Lirong Xia
+0904.02401, S. M. Sadegh Tabatabaei Yazdi, Serap A. Savari
+0904.00701, C. Cabanac, R. P. Fender, R. J. H. Dunn, E. G. Koerding
+0904.01301, Domenico Fiorenza, Donatella Iacono, Elena Martinengo
+0905.00001, D. A. Perley, S. B. Cenko, J. S. Bloom, H. -W. Chen, N. R. Butler, D. Kocevski, J. X. Prochaska, M. Brodwin, K. Glazebrook, M. M. Kasliwal, S. R. Kulkarni, S. Lopez, E. O. Ofek, M. Pettini, A. M. Soderberg, D. Starr
+0905.00601, Hashem Zoubi, Helmut Ritsch
+0905.00801, Georgi Dzhelepov, Iva Dokuzova, Dimitar Razpopov
+0905.00901, Dave Bacon, Steven T. Flammia
+0905.00301, Domenico Orlando, Susanne Reffert
+0905.00501, Olivier Doré, Tingting Lu, Ue-Li Pen
+0905.00101, B. Adeva, L. Afanasyev, Y. Allkofer, C. Amsler, A. Anania, A. Benelli, V. Brekhovskikh, G. Caragheorgheopol, T. Cechak, M. Chiba, P. Chliapnikov, C. Ciocarlan, S. Constantinescu, C. Curceanu, C. Detraz, D. Dreossi, D. Drijard, A. Dudarev, M. Duma, D. Dumitriu, J. L. Fungueiriño, J. Gerndt, A. Gorin, O. Gorchakov, K. Gritsay, C. Guaraldo, M. Gugiu, M. Hansroul, Z. Hons, S. Horikawa, M. Iliescu, V. Karpukhin, J. Kluson, M. Kobayashi, V. Komarov, V. Kruglov, L. Kruglova, A. Kulikov, A. Kuptsov, I. Kurochkin, A. Lamberto, A. Lanaro, V. Lapshin, R. Lednicky, P. Levi Sandri, A. Lopez Aguera, V. Lucherini, I. Manuilov, C. Mariñas, L. Nemenov, M. Nikitin, K. Okada, V. Olchevskii, M. Pentia, A. Penzo, M. Pló, G. F. Rappazzo, C. Regenfus, J. Rochet, A. Romero, V. Ronjin, A. Ryazantsev, V. Rykalin, J. Saborido, J. Schacher, A. Sidorov, J. Smolik, S. Sugimoto, F. Takeutchi, A. Tarasov, L. Tauscher, T. Trojek, S. Trusov, V. Utkin, O. Vázquez Doce, T. Vrba, V. Yazkov, Y. Yoshimura, M. Zhabitsky, P. Zrelov
+0905.01001, Barbara Ercolano, Cathie J. Clarke, Jeremy J. Drake
+0905.00701, Alex Roxin, Ernest Montbrio
+0906.01001, Jesus Gonzalez, Peter Landweber, Thomas Shimkus
+0906.01401, Ilijas Farah, Takeshi Katsura
+0906.00401, Gary W. Gibbons, Koji Hashimoto, Shinji Hirano
+0906.00901, T. Verhoelst, L. B. F. M. Waters, A. Verhoeff, C. Dijkstra, H. van Winckel, J. W. Pel, R. F. Peletier
+0906.01301, M. Deveaux, S. Amar-Youcef, C. Dritsa, I. Froehlich, C. Muentz, S. Seddiki, J. Stroth, T. Tischler, C. Trageser
+0906.00301, D. A. Adams, L. M. Sander, E. Somfai, R. M. Ziff
+0906.00001, Stefano Profumo, Tesla E. Jeltema
+0906.00801, N. Canosa, R. Rossignoli
+0906.01201, Cristiano Germani, Alex Kehagias, Konstadinos Sfetsos
+0906.01801, Jonathan M. Edge, N. R. Cooper
+0906.00101, Owen Cotton-Barratt, Henry Wilton
+0906.02001, Richard L. Hall, Wolfgang Lucha
+0906.01501, Julien Barral, Xiong Jin
+0906.00701, C. D. Westbrook, A. J. Illingworth, , "E. J. O, Connor", , R. J. Hogan
+0906.00201, R. A. Gutermuth, S. T. Megeath, P. C. Myers, L. E. Allen, J. L. Pipher, G. G. Fazio
+0906.01601, Darryl McCullough, Kashyap Rajeevsarathy
+0906.01701, L. Magaud, F. Hiebel, F. Varchon, P. Mallet, J. -Y. Veuillen
+0907.00901, Naoki Masuda, Yoji Kawamura, Hiroshi Kori
+0907.00201, J. Mitra, Lei Feng, Michael G. Boyle, P. Dawson
+0907.01201, Nir Avni, Benjamin Weiss
+0907.00101, M. Razzano, A. K. Harding, L. Baldini, R. Bellazzini, J. Bregeon, T. Burnett, J. Chiang, S. W. Digel, R. Dubois, M. W. Kuss, L. Latronico, J. E. McEnery, N. Omodei, M. Pesce-Rollins, , "C. Sgro, ", , G. Spandre, D. J. Thompson
+0907.00501, Mehmet Topsakal, Salim Ciraci
+0907.01401, A. Foertig, A. Baumann, D. Rauh, V. Dyakonov, C. Deibel
+0907.01001, Markus Garczarczyk, Markus Gaug, Angelo Antonelli, Denis Bastieri, Josefa Becerra-Gonzalez, Stefano Covino, Antonio La Barbera, Alessandro Carosi, Nicola Galante, Francesco Longo, Valeria Scapin, Susanna Spiro, for the MAGIC Collaboration
+0907.01301, Michael Attard, Martin Houde, Giles Novak, Hua-bai Li, John E. Vaillancourt, C. Darren Dowell, Jacqueline Davidson, Hiroko Shinnaga
+0907.01501, Dobrinka Gribacheva, Dimitar Mekerov
+0907.01701, G. de Berredo-Peixoto, E. A. de Freitas
+0907.00601, Anatoly Klimyk, Jiri Patera
+0908.00001, Cristiano Germani, Alex Kehagias
+0908.00301, Yun Li, Houjun Mo
+0908.00201, Xueqin Huang, Dexin Ye, Shiyi Xiao, Jiangtao Huangfu, Zhiyu Wang, Lixin Ran, Lei Zhou
+0908.00101, Hua Wu, Richard E. George, Arzhang Ardavan, Janus H. Wesenberg, Klaus Mølmer, David I. Schuster, Robert J. Schoelkopf, Kohei M. Itoh, John J. L. Morton, G. Andrew D. Briggs
+0908.00501, A. Hernando, D. Puigdomenech, D. Villuendas, C. Vesperinas, A. Plastino
+0909.00201, François Sausset, Gilles Tarjus
+0909.00401, Andreas Ziehl, Jochen Bammert, Lukas Holzer, Christian Wagner, Walter Zimmermann
+0909.00301, John Cloutier, Kathryn L. Nyman, Francis Edward Su
+0909.00001, Max Tegmark, Matias Zaldarriaga
+0910.00001, R. J. Bouwens, G. D. Illingworth, P. A. Oesch, M. Trenti, M. Stiavelli, M. Carollo, M. Franx, P. G. van Dokkum, I. Labbe, D. Magee
+0910.01501, Hirofumi Wada, Roland R. Netz
+0910.01201, Thomas E. Ouldridge, Ard A. Louis, Jonathan P. K. Doye
+0910.04901, Deniz Gunduz, Andrea Goldsmith, H. Vincent Poor
+0910.00701, Carsten Balleier, Tilmann Wurzbacher
+0910.03201, Naoto Oka, Ichiro Ueno
+0910.04501, Hashem Zoubi, Helmut Ritsch
+0910.04401, Spiros A. Argyros, Kevin Beanland, Theocharis Raikoftsalis
+0910.01401, M. Prusty, S. A. Cheong
+0910.00501, S. Heinemeyer, E. Ma, M. Mondragon, G. Zoupanos
+0910.01001, Xiao-Tong Ni, Yu-Xi Liu, L C Kwek, Xiang-Bin Wang
+0910.02901, Z. E. Thrailkill, J. G. Lambert, S. A. Carabello, R. C. Ramos
+0910.02101, Matthias Krüger, Matthias Fuchs
+0910.01101, Eric D. Miller, Marshall Bautz, Catherine Grant, Ryan Hickox, Mark Brodwin, Stephen Murray, Christine Jones, William Forman, Alexey Vikhlinin
+0910.01701, C. H. Miklenic, A. M. Veronig, B. Vrsnak
+0910.04701, Hakima Bessaih, Franco Flandoli, Edriss S. Titi
+0910.03301, Julian J. McAuley, Tiberio S. Caetano
+0910.04001, Hisham Sati, Urs Schreiber, Jim Stasheff
+0910.02801, Jessie Rosenberg, Rajeev V. Shenoi, Sanjay Krishna, Oskar Painter
+0910.01801, A. A. Hakobyan, G. A. Mamon, A. R. Petrosian, D. Kunth, M. Turatto
+0910.03701, L. Portugal, T. Kodama
+0910.03601, J. D. Ferguson, G. Arikan, D. S. Dale, A. R. Woll, J. D. Brock
+0910.01601, Roberto Emparan, Troels Harmark, Vasilis Niarchos, Niels A. Obers
+0910.04101, Guangyue Huang, Xingxiao Li
+0910.02701, C. A. Hales, B. M. Gaensler, S. Chatterjee, E. van der Swaluw, F. Camilo
+0910.03501, G. Ericsson, S. Pomp, H. Sjöstrand, E. Traneus
+0910.01301, V. Zheligovsky, O. Podvigina, U. Frisch
+0910.03401, Dastgeer Shaikh, G. P. Zank
+0910.03901, E. Zaccarelli, C. Valeriani, E. Sanz, W. C. K. Poon, M. E. Cates, P. N. Pusey
+0910.02001, Bibekananda Maji, K. G. Suresh, A. K. Nigam
+0910.00301, Shumpei Masuda, Katsuhiro Nakamura
+0910.03001, Keigo Fukumura, Demosthenes Kazanas, Ioannis Contopoulos, Ehud Behar
+0910.02301, Yoshinori Imai, Ryo Tanaka, Takanori Akiike, Masafumi Hanawa, Ichiro Tsukada, Atsutaka Maeda
+0911.02201, Paolo Facchi, Marilena Ligabò
+0911.00401, Dario Benedetti, Joe Henson
+0911.01601, Nathan Keller, Elchanan Mossel, Arnab Sen
+0911.01501, Fernando Guevara Vasquez, Graeme W. Milton, Daniel Onofrei
+0911.03301, Patrick Nourrissier, Sahbi Sidhom
+0911.01901, M. Maio, A. N. Schellekens
+0911.03201, Yasuhiro Niimi, Yannick Baines, Thibaut Capron, Dominique Mailly, Fang-Yuh Lo, Andreas D. Wieck, Tristan Meunier, Laurent Saminadayar, Christopher Bauerle
+0911.01801, Simon Richard, Chris B. Brook, Hugo Martel, Daisuke Kawata, Brad K. Gibson, Patricia Sanchez-Blazquez
+0911.00301, Bo Feng, Junqi Wang, Yihong Wang, Zhibai Zhang
+0911.01001, Patrick Ilg, Vlasis Mavrantzas, Hans Christian Öttinger
+0911.01701, Bidya Binay Karak, Jayanta Dutta, Banibrata Mukhopadhyay
+0911.00601, D. J. Aldous, J. R. Ong, W. Zhou
+0911.01201, Iwan Schenker, Frank T. Filser, Hans J. Herrmann, Ludwig J. Gauckler
+0911.03001, O. Porth, C. Fendt
+0911.02801, Olivier Bodini, Alice Jacquot
+0911.02701, Paolo Creminelli, , "Guido D, Amico", , Jorge Noreña, Leonardo Senatore, Filippo Vernizzi
+0911.01301, Olivier Guyon, Taro Matsuo, Roger Angel
+0911.00501, Al-Sammarraie Hosam, Adli Mustafa, Shakeel Ahmad, Merza Abbas
+0911.02501, Karim Mahboub, Cyrille Bertelle, Véronique Jay, Evelyne Clément
+0911.00001, M. Kachelriess, P. D. Serpico, M. Aa. Solberg
+0911.02101, Giorgio Ottaviani, Edoardo Sernesi
+0911.00101, Hsin-Hua Lai, Olexei I. Motrunich
+0911.00201, Julia Kempe, Oded Regev
+0911.02301, L. Brambila-Paz, Osbaldo Mata, Nitin Nitsure
+0911.01401, Chang-Yu Zhu, Heng Fan
+0912.00201, LSST Science Collaboration, Paul A. Abell, Julius Allison, Scott F. Anderson, John R. Andrew, J. Roger P. Angel, Lee Armus, David Arnett, S. J. Asztalos, Tim S. Axelrod, Stephen Bailey, D. R. Ballantyne, Justin R. Bankert, Wayne A. Barkhouse, Jeffrey D. Barr, L. Felipe Barrientos, Aaron J. Barth, James G. Bartlett, Andrew C. Becker, Jacek Becla, Timothy C. Beers, Joseph P. Bernstein, Rahul Biswas, Michael R. Blanton, Joshua S. Bloom, John J. Bochanski, Pat Boeshaar, Kirk D. Borne, Marusa Bradac, W. N. Brandt, Carrie R. Bridge, Michael E. Brown, Robert J. Brunner, James S. Bullock, Adam J. Burgasser, James H. Burge, David L. Burke, Phillip A. Cargile, Srinivasan Chandrasekharan, George Chartas, Steven R. Chesley, You-Hua Chu, David Cinabro, Mark W. Claire, Charles F. Claver, Douglas Clowe, A. J. Connolly, Kem H. Cook, Jeff Cooke, Asantha Cooray, Kevin R. Covey, Christopher S. Culliton, Roelof de Jong, Willem H. de Vries, Victor P. Debattista, Francisco Delgado, , "Ian P. Dell, Antonio", , Saurav Dhital, Rosanne Di Stefano, Mark Dickinson, Benjamin Dilday, S. G. Djorgovski, Gregory Dobler, Ciro Donalek, Gregory Dubois-Felsmann, Josef Durech, Ardis Eliasdottir, Michael Eracleous, Laurent Eyer, Emilio E. Falco, Xiaohui Fan, Christopher D. Fassnacht, Harry C. Ferguson, Yanga R. Fernandez, Brian D. Fields, Douglas Finkbeiner, Eduardo E. Figueroa, Derek B. Fox, Harold Francke, James S. Frank, Josh Frieman, Sebastien Fromenteau, Muhammad Furqan, Gaspar Galaz, A. Gal-Yam, Peter Garnavich, Eric Gawiser, John Geary, Perry Gee, Robert R. Gibson, Kirk Gilmore, Emily A. Grace, Richard F. Green, William J. Gressler, Carl J. Grillmair, Salman Habib, J. S. Haggerty, Mario Hamuy, Alan W. Harris, Suzanne L. Hawley, Alan F. Heavens, Leslie Hebb, Todd J. Henry, Edward Hileman, Eric J. Hilton, Keri Hoadley, J. B. Holberg, Matt J. Holman, Steve B. Howell, Leopoldo Infante, Zeljko Ivezic, Suzanne H. Jacoby, Bhuvnesh Jain, R, Jedicke, M. James Jee, J. Garrett Jernigan, Saurabh W. Jha, Kathryn V. Johnston, R. Lynne Jones, Mario Juric, Mikko Kaasalainen, Styliani, Kafka, Steven M. Kahn, Nathan A. Kaib, Jason Kalirai, Jeff Kantor, Mansi M. Kasliwal, Charles R. Keeton, Richard Kessler, Zoran Knezevic, Adam Kowalski, Victor L. Krabbendam, K. Simon Krughoff, Shrinivas Kulkarni, Stephen Kuhlman, Mark Lacy, Sebastien Lepine, Ming Liang, Amy Lien, Paulina Lira, Knox S. Long, Suzanne Lorenz, Jennifer M. Lotz, R. H. Lupton, Julie Lutz, Lucas M. Macri, Ashish A. Mahabal, Rachel Mandelbaum, Phil Marshall, Morgan May, Peregrine M. McGehee, Brian T. Meadows, Alan Meert, Andrea Milani, Christopher J. Miller, Michelle Miller, David Mills, Dante Minniti, David Monet, Anjum S. Mukadam, Ehud Nakar, Douglas R. Neill, Jeffrey A. Newman, Sergei Nikolaev, Martin Nordby, , "Paul O, Connor", , Masamune Oguri, John Oliver, Scot S. Olivier, Julia K. Olsen, Knut Olsen, Edward W. Olszewski, Hakeem Oluseyi, Nelson D. Padilla, Alex Parker, Joshua Pepper, John R. Peterson, Catherine Petry, Philip A. Pinto, James L. Pizagno, Bogdan Popescu, Andrej Prsa, Veljko Radcka, M. Jordan Raddick, Andrew Rasmussen, Arne Rau, Jeonghee Rho, James E. Rhoads, Gordon T. Richards, Stephen T. Ridgway, Brant E. Robertson, Rok Roskar, Abhijit Saha, Ata Sarajedini, Evan Scannapieco, Terry Schalk, Rafe Schindler, Samuel Schmidt, Sarah Schmidt, Donald P. Schneider, German Schumacher, Ryan Scranton, Jacques Sebag, Lynn G. Seppala, Ohad Shemmer, Joshua D. Simon, M. Sivertz, Howard A. Smith, J. Allyn Smith, Nathan Smith, Anna H. Spitz, Adam Stanford, Keivan G. Stassun, Jay Strader, Michael A. Strauss, Christopher W. Stubbs, Donald W. Sweeney, Alex Szalay, Paula Szkody, Masahiro Takada, Paul Thorman, David E. Trilling, Virginia Trimble, Anthony Tyson, Richard Van Berg, Daniel Vanden Berk, Jake VanderPlas, Licia Verde, Bojan Vrsnak, Lucianne M. Walkowicz, Benjamin D. Wandelt, Sheng Wang, Yun Wang, Michael Warner, Risa H. Wechsler, Andrew A. West, Oliver Wiecha, Benjamin F. Williams, Beth Willman, David Wittman, Sidney C. Wolff, W. Michael Wood-Vasey, Przemek Wozniak, Patrick Young, Andrew Zentner, Hu Zhan
+0912.00101, Jacek Niemiec, Martin Pohl, Antoine Bret, Thomas Stroman
+0912.00001, G. Ghisellini, R. Della Ceca, M. Volonteri, G. Ghirlanda, F. Tavecchio, L. Foschini, G. Tagliaferri, F. Haardt, G. Pareschi, J. Grindlay
+0912.00301, Zochil González Arenas, Daniel G. Barci
+1001.00001, Denis Krotov, Olof Heden
+1001.00901, A. V. Nesterenko, C. Simolo
+1001.00601, Taras Banakh, Igor Protasov
+1001.00301, Mohsen Vafaee, Babak Shokri
+1001.00101, Alexander Grigoriev, Alexey Lokhov, Alexander Studenikin
+1001.00801, Philippe Mendels, Fabrice Bert
+1001.00701, Frederic Bernicot, Aline Lefebvre-Lepot
+1001.00501, M. Hrudková, I. Skillen, C. R. Benn, N. P. Gibson, D. Pollacco, D. Nesvorný, T. Augusteijn, S. M. Tulloch, Y. C. Joshi
+1002.00001, Katharine J. Schlesinger, Jennifer A. Johnson, Young Sun Lee, Thomas Masseron, Brian Yanny, Constance M. Rockosi, B. Scott Gaudi, Timothy C. Beers
+1002.00101, Charles J. M. Mathy, Meera M. Parish, David A. Huse
+1003.00801, Frédéric Chevy, Christophe Mora
+1003.00501, P. E. Finch, K. A. Dancer, P. S. Isaac, J. Links
+1003.00701, Oscar A. Bedoya, Dafni Z. Marchioro, Daniel L. Nedel, Brenno Carlini Vallilo
+1003.02801, Bruno Durand, Andrei Romashchenko, Alexander Shen
+1003.01401, Branislav Sobota, Milan Guzan
+1003.02601, Matt Braby, Jingyi Chao, Thomas Schaefer
+1003.01801, Yiyang Gong, Maria Makarova, Selcuk Yerci, Rui Li, Martin J. Stevens, Burm Baek, Sae Woo Nam, Luca Dal Negro, Jelena Vuckovic
+1003.03001, C. J. Bonin, A. Andrea, D. J. Pusiol
+1003.01601, Simone Pigolotti, Massimo Cencini
+1003.01301, Tereza Krejcova, Jan Budaj, Viktoria Krushevska
+1003.02901, D. Anibal Garcia-Hernandez, David L. Lambert, N. Kameswara Rao, Ken H. Hinkle, Kjell Eriksson
+1003.03301, Yoav Kallus, Veit Elser, Simon Gravel
+1003.01001, Robert J. Adler, Omer Bobrowski, Matthew S. Borman, Eliran Subag, Shmuel Weinberger
+1003.00601, Umberto Marini Bettolo Marconi, Simone Melchionna
+1003.01201, Amir Kalev, Philippe Raynal, Jun Suzuki, Berthold-Georg Englert
+1003.00401, M Patterson, S. Hughes
+1003.02201, Jason Doukas, Benedict Carson
+1003.01101, Zur Izhakian, Manfred Knebusch, Louis Rowen
+1003.02001, Gabriele Ponti, Regis Terrier, Andrea Goldwurm, Guillaume Belanger, Guillaume Trap
+1003.00201, B. de Swardt, R. C. Kraan-Korteweg, H. Jerjen
+1003.03101, P. Salucci, F. Nesti, G. Gentile, C. Frigerio Martins
+1003.00101, Jose M. Espinar, Harold Rosenberg
+1003.00901, Ying Ran, Hong Yao, Ashvin Vishwanath
+1003.03201, Madeleine Thompson, Radford M. Neal
+1003.00001, Gong-Bo Zhao, Tommaso Giannantonio, Levon Pogosian, Alessandra Silvestri, David J. Bacon, Kazuya Koyama, Robert C. Nichol, Yong-Seon Song
+1003.01901, Adam P. Szczepaniak, Hrayr H. Matevosyan
+1003.03401, Ki-Young Choi, Carlos E. Yaguna
+1003.02701, Boris A. Malomed, Yury A. Stepanyants
+1003.01501, Karin U. Katz, Mikhail G. Katz
+1004.01301, Jiawei Shao, Pengjie Zhang, Weipeng Lin, Yipeng Jing, Jun Pan
+1004.00901, G. Chincarini, J. Mao, R. Margutti, M. G. Bernardini, C. Guidorzi, F. Pasotti, D. Giannios, M. Della Valle, A. Moretti, P. Romano, , "P. D, Avanzo", , G. Cusumano, P. Giommi
+1004.00701, Stephen Powell, Ryan Barnett, Rajdeep Sensarma, Sankar Das Sarma
+1004.00601, Noriaki Ikeda, Kyousuke Uchino
+1004.00801, E. Z. Kuchinskii, I. A. Nekrasov, M. V. Sadovskii
+1004.00201, Marcin Buchowiecki, Jiri Vanicek
+1004.01501, Imen Bhouri, Yanick Heurteaux
+1004.01201, Leonardo Senatore, Matias Zaldarriaga
+1004.01001, Marko A. Rodriguez, Peter Neubauer
+1004.00501, Aman D. Sood, Rajeev K. Puri
+1005.01201, Wen Zhao, Deepak Baskaran
+1005.00001, Michael Bortz, Sebastian Eggert, Christian Schneider, Robert Stubner, Joachim Stolze
+1005.00501, Justin R. David, Bindusar Sahoo
+1005.00901, Y. L. Ai, W. Yuan, H. Y. Zhou, T. G. Wang, X. -B. Dong, J. G. Wang, H. L. Lu
+1005.00701, M. Z. Sarikaya, E. Set, M. E. Ozdemir
+1005.00801, S. N. Ahmed, R. Angstadt, M. Aoki, B. Åsman, S. Austin, L. Bagby, E. Barberis, P. Baringer, A. Bean, A. Bischoff, F. Blekman, T. A. Bolton, C. Boswell, M. Bowden, F. Browning, D. Buchholz, S. Burdin, D. Butler, H. Cease, S. Choi, A. R. Clark, J. Clutter, A. Cooper, W. E. Cooper, M. Corcoran, S. J. de Jong, M. Demarteau, R. Demina, S. Desai, G. Derylo, J. Ellison, P. Ermolov, J. Fagan, J. Fast, F. Filthaut, J. Foglesong, H. Fox, C. F. Galea, J. Gardner, R. J. Genik II, C. E. Gerber, Y. Gershtein, K. Gounder, S. Grinstein, W. Gu, P. Gutierrez, H. Haggerty, R. E. Hall, S. Hagopian, R. Hance, K. Harder, P. Heger, A. P. Heinson, U. Heintz, G. Hesketh, D. Hover, J. Howell, M. Hrycyk, I. Iashvili, M. Johnson, H. Jöstlein, A. Juste, W. Kahl, E. Kajfasz, D. Karmanov, S. Kesisoglou, A. Khanov, J. King, S. Kleinfelder, J. Kowalski, K. Krempetz, M. Kubantsev, Y. Kulik, G. Landsberg, A. Leflat, F. Lehner, R. Lipton, H. S. Mao, M. Martin, J. Mateski, M. Matulik, M. McKenna, A. Melnitchouk, M. Merkin, D. Mihalcea, O. Milgrome, H. E. Montgomery, S. Moua, N. A. Naumann, A. Nomerotski, D. Olis, , "D. C. O, Neil", , G. J. Otero y Garzón, N. Parua, J. Pawlak, M. Petteni, B. Quinn, P. A. Rapidis, P. Ratzmann, F. Rizatdinova, M. Roco, R. Rucinski, V. Rykalin, H. Schellman, W. Schmitt, G. Sellberg, C. Serritella, E. Shabalina, R. A. Sidwell, V. Simak, E. Smith, B. Squires, N. R. Stanton, G. Steinbrück, J. Strandberg, S. Strandberg, M. Strauss, S. Stredde, A. Toukhtarov, S. M. Tripathi, T. G. Trippe, D. Tsybychev, M. Utes, P. van Gemmeren, M. Vaz, M. Weber, D. A. Wijngaarden, J. Wish, J. Womersley, R. Yarema, Z. Ye, A. Zieminski, T. Zimmerman, E. G. Zverev
+1005.01001, Qing-Jun Tong, Jun-Hong An, Hong-Gang Luo, C. H. Oh
+1005.00201, Franck Ravat, Olivier Teste, Gilles Zurfluh
+1005.00401, Xiulai Xu, Hugh Baker, David A. Williams
+1006.00001, Bence Kocsis, Scott Tremaine
+1007.00601, Shoichi Kanno, Yutaka Matsuo, Shotaro Shiba
+1007.01101, Marzio Cassandro, Immacolata Merola, Maria Eulalia Vares
+1007.01701, Ken Dykema, Anna Skripka
+1007.00401, Jurgen Fuchs, Christoph Schweigert, Carl Stigner
+1007.00201, Mulugeta Dugda, Abebe Kebede
+1007.00101, P. S. Chowdhury, N. Gayathri, P. Mukherjee, M. Bhattacharya, A. Chatterjee, A. Dutta+, P. Barat
+1007.01301, P. Hartogh, C. Jarchow, E. Lellouch, M. de Val-Borro, M. Rengel, R. Moreno, A. S. Medvedev, H. Sagawa, B. M. Swinyard, T. Cavalié, D. C. Lis, M. I. Błęcka, M. Banaszkiewicz, D. Bockelée-Morvan, J. Crovisier, T. Encrenaz, M. Küppers, L. -M. Lara, S. Szutowicz, B. Vandenbussche, F. Bensch, E. A. Bergin, F. Billebaud, N. Biver, G. A. Blake, J. A. D. L. Blommaert, J. Cernicharo, L. Decin, P. Encrenaz, H. Feuchtgruber, T. Fulton, T. de Graauw, E. Jehin, M. Kidger, R. Lorente, D. A. Naylor, G. Portyankina, M. Sánchez-Portal, R. Schieder, S. Sidher, N. Thomas, E. Verdugo, C. Waelkens, N. Whyborn, D. Teyssier, F. Helmich, P. Roelfsema, J. Stutzki, H. G. LeDuc, J. A. Stern
+1007.01601, Joao Araujo, Michael Kinyon, Edgar Vigario
+1007.00901, Y. S. Honda, M. Honda
+1007.01001, John Villavert, Kamran Mohseni
+1007.00801, Satoshi Nakahira, Kazutaka Yamaoka, Mutsumi Sugizaki, Yoshihiro Ueda, Hitoshi Negoro, Ken Ebisawa, Nobuyuki Kawai, Masaru Matsuoka, Hiroshi Tsunemi, Arata Daikyuji, Satoshi Eguchi, Kazuo Hiroi, Masaki Ishikawa, Ryoji Ishiwata, Naoki Isobe, Kazuyoshi Kawasaki, Masashi Kimura, Mitsuhiro Kohama, Tatehiro Mihara, Sho Miyoshi, Mikio Morii, Yujin E. Nakagawa, Motoki Nakajima, Hiroshi Ozawa, Tetsuya Sootome, Kousuke Sugimori, Motoko Suzuki, Hiroshi Tomida, Shiro Ueno, Takayuki Yamamoto, Atsumasa Yoshida, MAXI team
+1007.00001, Marcelo A. Alvarez, Ue-Li Pen, Tzu-Ching Chang
+1007.01401, Eviatar B. Procaccia, Eric Shellef
+1007.01501, Wei Chen, Pinyan Lu, Xiaorui Sun, Bo Tang, Yajun Wang, Zeyuan Allen Zhu
+1008.01401, Paul J. Hancock, Elaine M. Sadler, Elizabeth K. Mahony, Roberto Ricci
+1008.00201, Sanja Singer, Sasa Singer, Vedran Novakovic, Aleksandar Uscumlic, Vedran Dunjko
+1008.02001, Gabriela Jaramillo, Carlos O. Lousto
+1008.00901, Han-Xin Yang, Wen-Xu Wang, Ying-Cheng Lai, Bing-Hong Wang
+1008.03301, Thomas Anung Basuki, Antonio Cerone, Roberto Barbuti, Andrea Maggiolo-Schettini, Paolo Milazzo, Elisabetta Rossi
+1008.00401, Jan Hendrik Witte, Christoph Reisinger
+1008.00101, F. Heidrich-Meisner, I. Gonzalez, K. A. Al-Hassanieh, A. E. Feiguin, M. J. Rozenberg, E. Dagotto
+1008.00001, Stefan Kraus, Karl-Heinz Hofmann, Karl Menten, Dieter Schertl, Gerd Weigelt, Friedrich Wyrowski, Anthony Meilland, Karine Perraut, Romain Petrov, Sylvie Robbe-Dubois, Peter Schilke, Leonardo Testi
+1008.00501, Benjamin Doerr, Mahmoud Fouz
+1008.01701, Tamas Szabados, Balazs Szekely
+1008.00801, D. S. Simon, A. V. Sergienko
+1008.02201, P. Richter, F. Krause, C. Fechner, J. C. Charlton, M. T. Murphy
+1008.02801, A. Almgren, J. Bell, D. Kasen, M. Lijewski, A. Nonaka, P. Nugent, C. Rendleman, R. Thomas, M. Zingale
+1008.03201, Jeremiah Buckley, Xavier Massaneda, Joaquim Ortega-Cerdà
+1008.01601, C. R. Cowley, S. Hubrig, J. F. González, I. Savanov
+1008.02901, Géza Kós, Lajos Rónyai
+1008.03501, Matthew A. Morgan, J. Richard Fisher, Tod A. Boyd
+1008.01801, Le Zhang, Francesco Miniati, Guenter Sigl
+1008.02101, D. Bockelée-Morvan, J. Boissier, N. Biver, J. Crovisier
+1008.02601, M. R. Lukatskaya, L. A. Trusov, A. A. Eliseev, A. V. Lukashin, M. Jansen, P. E. Kazin, K. S. Napolskii
+1008.02301, C. Reyle, P. Delorme, C. J. Willott, L. Albert, X. Delfosse, T. Forveille, E. Artigau, L. Malo, G. J. Hill, R. Doyon
+1008.00701, Emily J. Pritchett, Colin Benjamin, Andrei Galiautdinov, Michael R. Geller, Andrew T. Sornborger, Phillip C. Stancil, John M. Martinis
+1008.03801, Ipsita Mandal, Ashoke Sen
+1008.03901, Valentino Gonzalez, Ivo Labbe, Rychard Bouwens, Garth Illingworth, Marijn Franx, Mariska Kriek
+1008.03001, Wei Liu, Wei-Lu Wang, C. S. Liu, Q. F. Fang, Qun-Ying Huang, Yi-Can Wu, Key Laboratory of Materials Physics, Institute of Solid State Physics, Chinese Academy of Sciences, P. O. Box 1129, Hefei 230031, P. R. China, Institute of Plasma Physics, Chinese Academy of Sciences, Hefei 230031, P. R. China
+1008.03701, Dave Benson, Srikanth B. Iyengar, Henning Krause
+1008.03601, Yanchao Wang, Jian Lv, Li Zhu, Yanming Ma
+1009.00001, David L. Nidever, Steven R. Majewski, W. Butler Burton, Lou Nigra
+1009.00501, Fabien Tencé, Cédric Buche
+1009.01601, Salvatore Torquato, Chase E. Zachary, Frank H. Stillinger
+1009.00601, Sebastian C. Kapfer, Walter Mickel, Fabian M. Schaller, Markus Spanner, Christian Goll, Tomoaki Nogawa, Nobuyasu Ito, Klaus Mecke, Gerd E. Schröder-Turk
+1009.00201, Nobuyuki Kurita, Han-Oh Lee, Yoshi Tokiwa, Corneliu F. Miclea, Eric D. Bauer, Filip Ronning, J. D. Thompson, Zachary Fisk, Pei-Chun Ho, M. Brian Maple, Pinaki Sengupta, Ilya Vekhter, Roman Movshovich
+1009.00301, Timothy M. Merlis, Tapio Schneider
+1009.01401, Jun-Hui Zhao, Ray Blundell, James M. Moran, Dennis Downes, Karl F. Schuster, Daniel P. Marrone
+1009.00101, Bent Jørgensen, J. Raúl Martínez, Clarice G. B. Demétrio
+1009.01201, Hang Bae Kim, Yoonbai Kim
+1009.00801, R. M. Aguirre, A. L. De Paoli
+1009.01501, Rafael Tapia-Rojo, Juan J. Mazo, Fernando Falo
+1009.01701, Simon Stellmer, Meng Khoon Tey, Rudolf Grimm, Florian Schreck
+1009.01301, V. V. Kiselev, S. A. Timofeev
+1009.00701, Piotr Bozek, Iwona Wyskiel-Piekarska
+1009.00401, Illes Horvath, Balint Toth, Balint Veto
+1009.01001, Mokhtar Adda-Bedia, Arezki Boudaoud, Laurent Boué, Stephanie Deboeuf
+1009.01101, Liviu Ornea, Misha Verbitsky
+1010.01301, Xiwen Guan, Tin-Lun Ho
+1010.02301, Sanjeev Kumar, Varinderjit Kaur, Suneel Kumar
+1010.00901, Francis Bursa, Luigi Del Debbio, Liam Keegan, Claudio Pica, Thomas Pickup
+1010.00801, Duane W. Hamacher, Ray P. Norris
+1010.00401, Srivathsan Srinivasagopalan, Costas Busch, S. S. Iyengar
+1010.02001, Tom Braden, Anthony Licata, Nicholas Proudfoot, Ben Webster
+1010.01401, Eef van Beveren, George Rupp
+1010.01801, A. V. Afanasjev, H. Abusara
+1010.00101, S. Vorrath, S. A. Möller, P. Windpassinger, K. Bongs, K. Sengstock
+1010.01501, Sudhakar Prasad, Roy J. Glauber
+1010.04801, A. L. Chies-Santos, S. S. Larsen, H. Kuntschner, P. Anders, E. M. Wehner, J. Strader, J. P. Brodie, J. F. C. Santos Jr.
+1010.03301, D. Seipt, B. Kampfer
+1010.02801, Neil Lyall, Akos Magyar
+1010.02201, M. Boquien, P. -A. Duc, F. Galliano, J. Braine, U. Lisenfeld, V. Charmandaris, P. N. Appleton
+1010.04901, Yuri Berest, George Khachatryan, Ajay Ramadoss
+1010.01001, Andrea Brignole, Filipe R. Joaquim, Anna Rossi
+1010.01201, H-O. Kreiss, J. Winicour
+1010.03101, Aristomenis Donos, Joan Simon
+1010.04501, Walid Saad, Zhu Han, Tamer Basar, Merouane Debbah, Are Hjørungnes
+1010.00601, Thomas L. Marzetta, Gabriel H. Tucci, Steven H. Simon
+1010.04201, O. Peters, A. Deluca, A. Corral, J. D. Neelin, C. E. Holloway
+1010.01901, Qiang Yuan, Peng-Fei Yin, Xiao-Jun Bi
+1010.04601, Sylvain Guiriec, Valerie Connaughton, Michael S. Briggs, Michael Burgess, Felix Ryde, Frédéric Daigne, Peter Mészáros, Adam Goldstein, Julie McEnery, Nicola Omodei, P. N. Bhat, Elisabetta Bissaldi, Ascensión Camero-Arranz, Vandiver Chaplin, Roland Diehl, Gerald Fishman, Suzanne Foley, Melissa Gibby, Misty M. Giles, Jochen Greiner, David Gruber, Andreas von Kienlin, Marc Kippen, Chryssa Kouveliotou, Sheila McBreen, Charles A. Meegan, William Paciesas, Robert Preece, Arne Rau, Dave Tierney, Alexander J. van der Horst, Colleen Wilson-Hodge
+1010.00501, Hasan Sahin, R. Tugrul Senger, Salim Ciraci
+1010.00301, Anjan Kumar Kundu, Bijoy Bandopadhyay, Sugata Sanyal
+1010.03601, Gianluigi Liva, Enrico Paolini, Marco Chiani
+1010.03901, Hongjian Zhu, Feifang Hu
+1010.01601, Jérémie Bigot, Rolando Biscay, Jean-Michel Loubes, Lilian Muniz Alvarez
+1010.02501, James Colliander, Soonsik Kwon, Tadahiro Oh
+1010.03001, Godefroy Malherbe, David Holcman
+1010.02901, Fernando Pastawski, Lucas Clemente, Juan Ignacio Cirac
+1010.00201, Andrei A. Bulatov, Daniel Marx
+1010.01701, G. Jannes, R. Piquet, P. Maissa, C. Mathis, G. Rousseaux
+1010.04301, Emmanuel Van Hese, Maarten Baes, Herwig Dejonghe
+1010.03401, Bikas K. Chakrabarti, Anirban Chakraborti
+1010.03201, Marie Ferbus-Zanda, Serge Grigorieff
+1010.03701, Siba Prasad Das, Manuel Drees
+1011.02101, Johan Kallen, Jian Qiu, Maxim Zabzine
+1011.01901, Peter Lindqvist, Mikko Parviainen
+1011.00201, Hilke E. Schlichting, Reem Sari
+1011.00701, Barbara G. Muga, M. Luis Muga
+1011.01401, Jonas de Woul, Edwin Langmann
+1011.00301, Paul Mansfield, Adam Wardlow
+1011.00501, Da-Bao Yang, Ying Chen, Fu-Lin Zhang, Jing-Ling Chen
+1011.00001, Sakura Schafer-Nameki, Carlos Tamarit, Gonzalo Torroba
+1011.02001, Oleg V. Misochko, Jianbo Hu, Kazutaka G. Nakamura
+1011.00901, N. Yokomizo, J. C. A. Barata
+1011.01501, M. Bernardi, N. Roche, F. Shankar, R. K. Sheth
+1011.01301, T. Sakamoto, , "V. Pal, shin", , K. Yamaoka, M. Ohno, G. Sato, R. Aptekar, S. Barthelmy, W. Baumgartner, J. Cummings, E. Fenimore, D. Frederiks, N. Gehrels, S. Golenetskii, H. Krimm, C. Markwardt, K. Onda, D. Palmer, A. Parsons, M. Stamatikos, S. Sugita, M. Tashiro, J. Tueller, T. Ukwatta
+1011.00801, H. Farajollahi, A. Ravanpak
+1011.01001, Manuel Joseph C. Loquias, Peter Zeiner
+1011.00401, J. P. Maier, G. A. H. Walker, D. A. Bohlender, F. J. Mazzotti, R. Raghunandan, J. Fulara, I. Garkusha, A. Nagy
+1011.00601, Youyi Fong, Peter Guttorp, Janis Abkowitz
+1011.01701, Takayuki Nozaki, Kenta Kasai, Kohichi Sakaniwa
+1011.01101, Robert M. Ziff, Jacob J. H. Simmons, Peter Kleban
+1011.01201, Abuzer Yakaryilmaz, Rusins Freivalds, A. C. Cem Say, Ruben Agadzanyan
+1012.00001, B. D. Metzger, D. Giannios, T. A. Thompson, N. Bucciantini, E. Quataert
+1101.00101, H. G. E. Hentschel, Smarajit Karmakar, Edan Lerner, Itamar Procaccia
+1101.00001, Masaru Kajisawa, Takashi Ichikawa, Tomohiro Yoshikawa, Toru Yamada, Masato Onodera, Masayuki Akiyama, Ichi Tanaka
+1102.02901, O. V. Babourova, B. N. Frolov, R. S. Kostkin
+1102.02701, Luca Pratelli, Alberto Baccini, Lucio Barabesi, Marzia Marcheselli
+1102.00601, Justin Malestein, Juan Souto
+1102.03001, Michael Eichmair, Jan Metzger
+1102.01201, Sergio L. Cacciatori, Matteo A. Cardella
+1102.01301, Sixia Yu, Chengjie Zhang, Qing Chen, C. H. Oh
+1102.03501, R. G. Carlberg, Harvey B. Richer, Alan W. McConnachie, Mike Irwin, Rodrigo A. Ibata, Aaron L. Dotter, Scott Chapman, Mark Fardal, A. M. N. Ferguson, G. F. Lewis, Julio F. Navarro, Thomas H. Puzia, David Valls-Gabaud
+1102.01101, Vincent Michel, Alexandre Gramfort, Gaël Varoquaux, Evelyn Eger, Bertrand Thirion
+1102.00201, Ehud Behar, Shlomo Dado, Arnon Dar, Ari Laor
+1102.01801, Anca Visinescu, Dan Grecu, Renato Fedele, Sergio De Nicola
+1102.00101, Hideo Yoshioka, Hiroyuki Shima
+1102.02401, Tao Zhou, Huaixiang Huang, Yi Gao, Jian-Xin Zhu, C. S. Ting
+1102.02101, Ingo Steinwart, Andreas Christmann
+1102.02601, Alexander Engstrom, Thomas Kahle, Seth Sullivant
+1102.02301, A. C. Jacko, B. J. Powell
+1102.00001, Mark A. Norris, Sheila J. Kannappan
+1102.03401, Hye Gyong Jang, Norbert Steinmetz
+1102.02501, S. Habib Mazharimousavi, M. Halilsoy
+1102.01401, Iztok Pizorn, Frank Verstraete
+1102.00501, E. Bear, N. Soker
+1102.00401, Vadim E. Levit, Eugen Mandrescu
+1102.03701, Marijke Haverkorn, Volker Heesen
+1102.03801, Davor Krajnovic, Eric Emsellem, Michele Cappellari, Katherine Alatalo, Leo Blitz, Maxime Bois, Frederic Bournaud, Martin Bureau, Roger L. Davies, Timothy A. Davis, P. T. de Zeeuw, Sadegh Khochfar, Harald Kuntschner, Pierre-Yves Lablanche, Richard M. McDermid, Raffaella Morganti, Thorsten Naab, Tom Oosterloo, Marc Sarzi, Nicholas Scott, Paolo Serra, Anne-Marie Weijmans, Lisa M. Young
+1102.00701, Lilya Lyubich, Kunio Murasugi
+1102.03601, Yves LeJan, Zhongmin Qian
+1102.03201, Zhe Li, Shugong Zhang, Tian Dong
+1102.02201, Onofre Rojas, S. M. de Souza
+1102.02001, "Kane O, Donnell", , Matt Visser
+1102.03101, P. R. Young, U. Feldman, A. Lobel
+1102.03301, Kwang Sik Jeong, Masahiro Yamaguchi
+1103.01501, Ricardo Lopez-Ruiz, Jose-Luis Lopez, Xavier Calbet
+1103.00401, Radosław Adamczak, Rafał Latała, Alexander E. Litvak, Alain Pajor, Nicole Tomczak-Jaegermann
+1103.00501, Nikolai Meures, Marco Bruni
+1103.01401, Rahul Urgaonkar, Michael J. Neely
+1103.00801, Dung Viet Nguyen, Bane Vasic, Michael W. Marcellin
+1103.00201, D. Arzoumanian, Ph. André, P. Didelon, V. Konyves, N. Schneider, , "A. Men, shchikov", , T. Sousbie, A. Zavagno, S. Bontemps, J. Di Francesco, M. Griffin, M. Hennemann, T. Hill1, J. Kirk, P. Martin, V. Minier, S. Molinari, F. Motte, N. Peretto, S. Pezzuto, L. Spinoglio, D. Ward-Thompson, G. White, C. D. Wilson
+1103.00101, Y. Naze, P. S. Broos, L. Oskinova, L. K. Townsley, D. Cohen, M. F. Corcoran, N. R. Evans, M. Gagne, A. F. J. Moffat, J. M. Pittard, G. Rauw, A. ud-Doula, N. R. Walborn
+1103.01301, E. Goetz, K. Riles
+1103.00701, Tiziano Squartini, Diego Garlaschelli
+1103.00301, Regina Bauernschmidt, Sam Nelson
+1103.00001, C. -A. Faucher-Giguere, D. Keres, C. -P. Ma
+1103.00601, Sheng Zhang, Jian Wang, Chao-jing Tang, Quan Zhang
+1103.01001, Xinhua Wang, Hai Lin
+1103.01101, Qian Shou, Xiang Zhang, Wei Hu, Qi Guo
+1104.00101, A. G. Afonin, A. N. Aleev, E. N. Ardashev, V. V. Avdeichikov, V. P. Balandin, S. G. Basiladze, M. A. Batouritski, S. F. Berezhnev, G. A. Bogdanova, Yu. T. Borzunov, V. A. Budilov, Yu. A. Chentsov, V. F. Golovkin, S. N. Golovnya, S. A. Gorokhov, N. I. Grishin, Ya. V. Grishkevich, G. G. Ermakov, P. F. Ermolov, N. F. Furmanets, D. E. Karmanov, A. V. Karpov, G. D. Kekelidze, V. I. Kireev, A. A. Kiryakov, A. G. Kholodenko, E. S. Kokoulina, V. V. Konstantinov, V. N. Kramarenko, A. V. Kubarovsky, A. K. Kulikov, E. A. Kuraev, L. L. Kurchaninov, A. Ya. Kutov, N. A. Kuzmin, G. I. Lanschikov A. K. Leflat, I. S. Lobanov, E. V. Lobanova, S. I. Lutov, V. N. Lysan, M. M. Merkin, G. A. Mitrofanov, V. V. Myalkovskiy, V. A. Nikitin, V. D. Peshehonov, V. S. Petrov, Y. P. Petukhov, A. V. Pleskach, M. K. Polkovnikov, V. V. Popov, V. N. Riadovikov, V. N. Ronzhin, I. A. Rufanov, V. A. Senko, N. A. Shalanda, M. M. Soldatov, V. I. Spiryakin, A. V. Terletskiy, L. A. Tikhonova, Yu. P. Tsyupa, A. M. Vishnevskaya, V. Yu. Volkov, A. P. Vorobiev, A. G. Voronin, V. I. Yakimchuk, A. I. Yukaev, V. N. Zapolskii, N. K. Zhidkov, S. A. Zotkin, E. G. Zverev
+1104.00001, Y. G. Grange, J. de Plaa, J. S. Kaastra, N. Werner, F. Verbunt, F. Paerels, C. P. de Vries
+1106.00001, Sean A. Hartnoll, Diego M. Hofman, Max A. Metlitski, Subir Sachdev
+1107.00901, Aparna Das, Emden R. Gansner, Michael Kaufmann, Stephen Kobourov, Joachim Spoerhase, Alexander Wolff
+1107.00101, Zhifeng Gao, Yisong Yang
+1107.00401, T. A. Maier, D. J. Scalapino
+1107.00201, A. Paizis, M. A. Nowak, J. Wilms, S. Chaty, S. Corbel, J. Rodriguez, M. Del Santo, P. Ubertini, R. Chini
+1107.00601, D. Espada, L. Verdes-Montenegro, W. K. Huchtmeier, J. Sulentic, S. Verley, S. Leon, J. Sabater
+1107.00801, C. Q. Geng, Y. K. Hsiao
+1107.00701, D. Krstovska, E. Steven, E. S. Choi, J. S. Brooks
+1107.00001, Paul Torrey, Thomas J. Cox, Lisa Kewley, Lars Hernquist
+1107.00501, Carl M. Bender, Philip D. Mannheim
+1108.00401, Volker Heesen, Urvashi Rau, Michael Rupen, Elias Brinks, Deirdre A. Hunter
+1108.00801, Yongqing Cai, Miao Zhou, Minggang Zeng, Chun Zhang, Yuan Ping Feng
+1108.01001, Gregory Arone, Victor Turchin
+1108.00501, M. Ackermann, M. Ajello, A. Allafort, E. Angelakis, M. Axelsson, L. Baldini, J. Ballet, G. Barbiellini, D. Bastieri, R. Bellazzini, B. Berenji, R. D. Blandford, E. D. Bloom, E. Bonamente, A. W. Borgland, A. Bouvier, J. Bregeon, A. Brez, M. Brigida, P. Bruel, R. Buehler, S. Buson, G. A. Caliandro, R. A. Cameron, A. Cannon, P. A. Caraveo, J. M. Casandjian, E. Cavazzuti, C. Cecchi, E. Charles, A. Chekhtman, C. C. Cheung, S. Ciprini, R. Claus, J. Cohen-Tanugi, S. Cutini, F. de Palma, C. D. Dermer, E. do Couto e Silva, P. S. Drell, R. Dubois, D. Dumora, L. Escande, C. Favuzzi, S. J. Fegan, W. B. Focke, P. Fortin, M. Frailis, L. Fuhrmann, Y. Fukazawa, P. Fusco, F. Gargano, D. Gasparrini, N. Gehrels, N. Giglietto, P. Giommi, F. Giordano, M. Giroletti, T. Glanzman, G. Godfrey, P. Grandi, I. A. Grenier, S. Guiriec, D. Hadasch, M. Hayashida, E. Hays, S. E. Healey, G. J, A. S. Johnson, T. Kamae, H. Katagiri, J. Kataoka, J. Kn, M. Kuss, J. Lande, S. -H. Lee, F. Longo, F. Loparco, B. Lott, M. N. Lovellette, P. Lubrano, A. Makeev, W. Max-Moerbeck, M. N. Mazziotta, J. E. McEnery, J. Mehault, P. F. Michelson, T. Mizuno, C. Monte, M. E. Monzani, A. Morselli, I. V. Moskalenko, S. Murgia, M. Naumann-Godo, S. Nishino, P. L. Nolan, J. P. Norris, E. Nuss, T. Ohsugi, A. Okumura, N. Omodei, E. Orlando, J. F. Ormes, M. Ozaki, D. Paneque, V. Pavlidou, V. Pelassa, M. Pepe, M. Pesce-Rollins, M. Pierbattista, F. Piron, T. A. Porter, S. Rain, M. Razzano, A. Readhead, A. Reimer, O. Reimer, J. L. Richards, R. W. Romani, H. F. -W. Sadrozinski, J. D. Scargle, C. Sgr, E. J. Siskind, P. D. Smith, G. Spandre, P. Spinelli, M. S. Strickman, D. J. Suson, H. Takahashi, T. Tanaka, G. B. Taylor, J. G. Thayer, J. B. Thayer, D. J. Thompson, D. F. Torres, G. Tosti, A. Tramacere, E. Troja, J. Vandenbroucke, G. Vianello, V. Vitale, A. P. Waite, P. Wang, B. L. Winer, K. S. Wood, Z. Yang, M. Ziegler
+1108.00701, G. Vacanti, R. Fazio, M. S. Kim, G. M. Palma, M. Paternostro, V. Vedral
+1108.00301, Mark S. Handcock, Krista J. Gile
+1108.01301, Yao Sun, Dingkang Wang
+1108.01101, Satoshi Sasaki, M. Kriener, Kouji Segawa, Keiji Yada, Yukio Tanaka, Masatoshi Sato, Yoichi Ando
+1109.00201, Alexander Yu. Kamenshchik, Isaak M. Khalatnikov
+1109.01001, H. Francis Song, Stephan Rachel, Christian Flindt, Israel Klich, Nicolas Laflorencie, Karyn Le Hur
+1109.01601, Itay Kaplan, Alf Onshuus, Alexander Usvyatsov
+1109.02301, Kristinn Torfason, Andrei Manolescu, Valeriu Molodoveanu, Vidar Gudmundsson
+1109.00001, Toshiki Endo, Yuki Suzuki
+1109.01801, Richard Chen, Amy Cohn, Ali Pinar
+1109.02601, Maria Bergemann, Karin Lind, Remo Collet, Martin Asplund
+1109.02801, David Jones, Amy A. Tyndall, Myfanwy Lloyd, Miguel Santander-Garcia
+1109.01501, Heechang Na, Christine T. H. Davies, Eduardo Follana, Jonna Koponen, G. Peter Lepage, Junko Shigemitsu
+1109.00601, S. Kornienko, O. Kornienko, P. Levi
+1109.02401, Alice Sinatra, Jean-Christophe Dornstetter, Yvan Castin
+1109.00301, A. D. DiChiara, E. Sistrunk, C. I. Blaga, U. B. Szafruga, P. Agostini, L. F. DiMauro
+1109.01901, Jin-Wu Jiang, Jian-Sheng Wang
+1109.01701, Yong Yang, Osamu Sugino, Takahisa Ohno
+1109.00701, Bryony J. Hill, Wilfrid S. Kendall, Elke Thönnes
+1109.02901, Daniel Feldman, Pavel Fileviez Perez, Pran Nath
+1109.03001, Sudhaker Upadhyay, Bhabani Prasad Mandal
+1109.01301, G. B. Scharmer, V. M. J. Henriques
+1109.02101, Andres Castellanos-Gomez, Magdalena Wojtaszek, Nikolaos Tombros, Nicolas Agrait, Bart J. van Wees, Gabino Rubio-Bollinger
+1109.02201, Kiwoon Choi, Diego Guadagnoli, Chan Beom Park
+1109.02701, Ankan Das, Sandip K. Chakrabarti
+1110.01101, Benoit Estienne, Vincent Pasquier, Raoul Santachiara, Didina Serban
+1110.00701, Günter Steinmeyer, Ayhan Demircan, Carsten Brée
+1110.00101, Zhengjun Xi, Heng-Na Xiong, Yongming Li, Xiaoguang Wang
+1110.01401, E. Baumann, F. R. Giorgetta, W. C. Swann, A. M. Zolot, I. Coddington, N. R. Newbury
+1110.01901, Feng-yang Zhang, Ying Shi, Chong Li, He-shan Song
+1110.01201, R. P. Saglia, J. Snigula, R. Senger, R. Bender
+1110.00501, I. S. Konstantopoulos, S. C. Gallagher, K. Fedotov, P. R. Durrell, P. Tzanavaris, A. R. Hill, A. I. Zabludoff, M. L. Maier, D. M. Elmegreen, J. C. Charlton, K. E. Johnson, W. N. Brandt, L. M. Walker, M. Eracleous, A. Maybhate, C. Gronwall, J. English, A. E. Hornschemeier, J. S. Mulchaey
+1110.00401, Mateusz Kwasnicki, Jacek Malecki, Michal Ryznar
+1110.01501, Sergey V. Suchkov, Boris A. Malomed, Sergey V. Dmitriev, Yuri S. Kivshar
+1110.00601, Samuel Senti, Hiroki Takahasi
+1110.00901, Takahiro Murashima, Takashi Taniguchi
+1110.01701, Shaik Rasool, G. Sridhar, K. Hemanth Kumar, P. Ravi Kumar
+1110.00801, Enrique Andjel, Nicolas Chabot, Ellen Saada
+1110.01001, Li Ma, Anqiang Zhu
+1110.00001, S. X. Hu, B. Militzer, V. N. Goncharov, S. Skupsky
+1110.00301, S. V. Lobanov, T. Weiss, D. Dregely, H. Giessen, N. A. Gippius, S. G. Tikhodeev
+1110.01801, Kishore Angrishi, Sujaritha Vettukadu, Ulrich Killat
+1111.00201, Geraldine Celliere, Georgios Fengos, Marianne Herve, Dagmar Iber
+1111.00801, Sourav Dutta, Souvik Bhattacherjee, Ankur Narang
+1111.00501, P. Bertet, F. R. Ong, M. Boissonneault, A. Bolduc, F. Mallet, A. C. Doherty, A. Blais, D. Vion, D. Esteve
+1111.00101, Geoffrey S. Mathews, Jonathan P. Williams, Francois Ménard, Neil Phillips, Gaspard Duchêne, Christophe Pinte
+1111.00901, J. Greensite, B. Lucini, A. Patella
+1111.01101, Richard Tatham, Ladislav Mišta Jr., Gerardo Adesso, Natalia Korolkova
+1111.00301, Adam R. Brown, Alex Dahlen
+1112.00701, F. Cconfortola, E. Mastrogiacomo
+1112.01101, Pierre de Buyl, Duccio Fanelli, Stefano Ruffo
+1112.01201, Jacques M. Bahi, Xiaole Fang, Christophe Guyeux, Qianxue Wang
+1112.00101, Keqin Liu, Qing Zhao
+1112.00301, M. Chavent, K. Vanessa, J. Saracco
+1112.01001, Fang-Ting Tu, Yifan Yang
+1112.01301, Astrid Lambrecht, Serge Reynaud
+1112.00901, A. A. Raduta, Al. H. Raduta, R. Budaca
+1112.00601, Kanehisa Takasaki, Takashi Takebe
+1112.00001, Matthias Stute, Jose Gracia
+1112.00401, Costantino Sigismondi, Andrea Raponi, Xiaofan Wang, Giulia De Rosi, Michele Bianda, Renzo Ramelli
+1201.00601, M. Cvetic, G. W. Gibbons
+1201.00401, J. T. Okada, P. H. -L. Sit, Y. Watanabe, Y. J. Wang, B. Barbiellini, T. Ishikawa, M. Itou, Y. Sakurai, A. Bansil, R. Ishikawa, M. Hamaishi, T. Masaki, P. -F. Paradis, K. Kimura, T. Ishikawa, S. Nanao
+1201.00201, Oleg Semyonov, Arsen V. Subashiev, Zhichao Chen, Serge Luryi
+1201.00301, Honggang Zhang, Sudarshan Vasudevan
+1201.00501, Thierry Lahaye, Pierre Labastie, Renaud Mathevet
+1202.00301, Matthew T. Sheldon, Harry A. Atwater
+1202.00501, Leo Lahti, Juha E. A. Knuuttila, Samuel Kaski
+1202.00001, Vitaly A. Kuzkin, Igor E. Asonov
+1202.00701, David A. Kessler, Eli Barkai
+1202.00201, Mohammad Bahrami, Afshin Shafiee, Angelo Bassi
+1203.00901, Jean-Sébastien Caux, Robert M. Konik
+1203.01301, Tiangao Gou, Syed A. Jafar
+1203.00601, Yue Shen, Xin Liu
+1203.00201, D. Borisov, K. Pankrashkin
+1203.01701, Yosuke Harashima, Keith Slevin
+1203.00401, I. Santiago-Prieto, I. S. Heng, D. I. Jones, J. Clark
+1203.01601, Evren Ziplar, Ali Şenol, Yusuf Yayli
+1203.00701, Meili Guo, Jiulin Du
+1203.00301, Joseph Neilsen, Ronald A. Remillard, Julia C. Lee
+1203.00801, Omer Angel, Krzysztof Burdzy, Scott Sheffield
+1203.01201, F. Schrettle, Ch. Kant, P. Lunkenheimer, F. Mayr, J. Deisenhofer, A. Loidl
+1203.01101, Jonathan M. Borwein, Liangjin Yao
+1203.00101, Nepal Ramesh, Martin Hawron, Clayton Martin, Abdel Bachri
+1203.00001, J. R. Sánchez-Gallego, J. H. Knapen, C. D. Wilson, P. Barmby, M. Azimlu, S. Courteau
+1204.01001, Francisco C. Alcaraz, Vladimir Rittenberg
+1204.01401, Xin-zhou Li, Ping Xi, Qun Zhang
+1204.00101, Neha Gupta, P. Arumugam
+1204.01601, Marwa M. A. Elfattah, Aliaa A. A. Youssif, Ebada Sarhan
+1204.00701, Benjamin Schumacher, Michael D. Westmoreland
+1204.00201, Laurent Bienvenu, Andrej Muchnik, Alexander Shen, Nikolai Vereshchagin
+1204.01201, Bijan Paul, Md. Ibrahim, Md. Abu Naser Bikas
+1204.00401, Gerold Alsmeyer, Sören Gröttrup
+1204.01501, C. Tappert, A. Ederoclite, R. E. Mennickent, L. Schmidtobreick, N. Vogt
+1204.00001, Carsten Güttler, Daniel Heißelmann, Jürgen Blum, Sebastiaan Krijt
+1204.00301, Ravi Teja Sukhavasi, Babak Hassibi
+1204.01101, Xin-Zhong Yan, C. S. Ting
+1205.00501, Pedro Aguilar, Yuri Bonder, Chryssomalis Chryssomalakos, Daniel Sudarsky
+1205.00001, M. Sharif, A. Jawad
+1205.00801, Simon Caron-Huot, Kasper J. Larsen
+1205.00201, Alessandro Chiodo, Gavril Farkas
+1205.00401, Hugo Duminil-Copin, Alan Hammond
+1205.01401, S. Fine, T. Shanks, S. M. Croom, P. Green, B. C. Kelly, E. Berge, R. Chornock, W. S. Burgett, E. A. Magnier, P. A. Price
+1205.00301, Masahiro Ogihara, Shigeru Ida
+1205.01101, Yuji Kodama, Lauren Williams
+1205.00901, S. R. Dunsiger, A. A. Aczel, C. Arguello, H. Dabkowska, A. Dabkowski, M. -H. Du, T. Goko, B. Javanparast, T. Lin, F. L. Ning, H. M. L. Noad, D. J. Singh, T. J. Williams, Y. J. Uemura, M. J. P. Gingras, G. M. Luke
+1205.01001, Timo Fischer, H. Jelger Risselada, Richard L. C. Vink
+1205.01301, I. V. Dzedolik, O. S. Karakchieva
+1206.03401, L. De Angelis, R. Marotta, F. Pezzella, R. Troise
+1206.01801, Sadegh Nazardonyavi, Semyon Yakubovich
+1206.01701, S. Banik, R. Nandi, D. Bandyopadhyay
+1206.03201, L. Merker, T. A. Costi
+1206.02401, J. William Helton, Igor Klep, Scott McCullough
+1206.01401, Jesús Fernández-Sánchez, Jeremy G. Sumner, Peter D. Jarvis, Michael D. Woodhams
+1206.03601, Ting Dong, Liansheng Larry Tang, William F. Rosenberger
+1206.03301, Christian Lessig, Alex L. Castro
+1206.00801, Z. P. Yin, K. Haule, G. Kotliar
+1206.02901, Gabriel Baglietto, Ezequiel V. Albano, Julián Candia
+1206.00301, Carlos J. Páez, Peter A. Schulz, Neil Wilson, Rudolf A. Römer
+1206.02501, Xiequan Fan, Ion Grama, Quansheng Liu
+1206.03001, Céline Jost, Brigitte Le Pévédic, Dominique Duhaut
+1206.00001, Ivan Khrapach, Freddie Withers, Thomas H. Bointon, Dmitry K. Polyushkin, William L. Barnes, Saverio Russo, Monica F. Craciun
+1206.02301, Calum Spicer, Robert S. Strichartz, Emad Totari
+1206.00401, Muammer Yasin Hacisalihoglu, Ekrem Yanmaz
+1206.01001, Albert Fannjiang, Wenjing Liao
+1206.04001, Guy Moshkovitz, Asaf Shapira
+1206.02601, Scott N. Armstrong, Pierre Cardaliaguet, Panagiotis E. Souganidis
+1206.02801, "I. Ya. Aref, eva", , N. V. Bulatov, R. V. Gorbachev, S. Yu. Vernov
+1206.00701, K. B. Nakshatrala, H. Nagarajan, M. Shabouei
+1206.00101, Rashad Moarref, Mihailo R. Jovanović
+1206.01601, A. T. Hatke, M. A. Zudov, L. N. Pfeiffer, K. W. West
+1206.02201, C. C. Huang, W. C. Wu
+1206.03101, Qinian Jin, Peter Mathe
+1206.03901, Masako Asano, Mitsuhiro Kato
+1206.03501, E. Richardson, for the PHENIX Collaboration
+1206.02701, G. B. Xavier, G. P. Temporao, J. P. von der Weid
+1206.00201, Emanuele R. Nocera, Stefano Forte, Giovanni Ridolfi, Juan Rojo
+1206.03701, Siddharth Dwivedi, P. Ramadevi
+1206.01101, Jeanne N. Clelland, Christopher G. Moseley, George R. Wilkens
+1206.01201, J. -P. Tetienne, L. Rondin, P. Spinicelli, M. Chipaux, T. Debuisschert, J. -F. Roch, V. Jacques
+1206.04101, Matthias Schröter, Karen E. Daniels
+1206.00901, Abdel Nasser Tawfik, Hend Magdy
+1206.00601, A. Santerne, R. F. Díaz, C. Moutou, F. Bouchy, G. Hébrard, J. -M. Almenara, A. S. Bonomo, M. Deleuil, N. C. Santos
+1207.00401, Hagen Kleinert, She-Sheng Xue
+1207.00301, Tapan Chatterji, Bachir Ouladdiaf, Paul F. Henry, Dipten Bhattacharya
+1207.00101, E. A. Popova, I. I. Shevchenko
+1207.00001, Péter Csizmadia, Gergely Debreczeni, István Rácz, Mátyás Vasúth
+1208.00401, Alethea B. T. Barbaro, Lincoln Chayes, , "Maria R. D, Orsogna"
+1208.01701, Shu-Hao Yeh, Dong-Bang Tsai, Che-Wei Huang, Md. Manirul Ali, Alec Maassen van den Brink
+1208.00201, Steve Arscott, Matthieu Gaudet
+1208.01101, Tao Zhou, Z. D. Wang
+1208.00901, Zu-Hui Ma, Weng Cho Chew, Li Jun Jiang
+1208.01601, M. F. Ciappina, J. A. Pérez-Hernández, T. Shaaran, J. Biegert, R. Quidant, M. Lewenstein
+1208.00001, L. Dreher, M. Weiler, M. Pernpeintner, H. Huebl, R. Gross, M. S. Brandt, S. T. B. Goennenwein
+1208.01401, Jelena Smiljanić, Igor Stanković
+1208.00301, M. O. C. Pires, J. C. C. de Souza
+1208.00501, Gunnar Brinkmann, Jan Goedgebeur, Jan-Christoph Schlage-Puchta
+1208.01201, Seppo Hassi, Mark Malamud, Vadim Mogilevskii
+1208.00601, Johannes Heinonen, Richard J. Hill, Mikhail P. Solon
+1208.00101, Nicola Poccia, Alessandro Ricci, Gaetano Campi, Michela Fratini, Alessandro Puri, Daniele Di Gioacchino, Augusto Marcelli, Michael Reynolds, Manfred Burghammer, Naurang Lal Saini, Gabriel Aeppli, Antonio Bianconi
+1209.00901, Julia C. Sommer, Volker J. Schmid
+1209.00201, Roberto Henry Herrera, Mirko van der Baan
+1209.00601, Salvatore Plumari, Armando Puglisi, Maria Colonna, Francesco Scardina, Vincenzo Greco
+1209.00301, M. Akbari-Moghanjoughi, P. K. Shukla
+1209.00501, S. J. Dilworth, Denka Kutzarova, G. Lancien, N. L. Randrianarivony
+1209.00001, Mehrdad Mahdavi, Tianbao Yang, Rong Jin
+1209.01001, Yves Colin De Verdière, Francoise Truc
+1209.00401, Marta Sanz-Solé, André Süß
+1209.00701, V. P. Goncalves, D. T. da Silva, W. K. Sauter
+1209.01101, Otto Eberhardt, Geoffrey Herbert, Heiko Lacker, Alexander Lenz, Andreas Menzel, Ulrich Nierste, Martin Wiebusch
+1210.00701, Yoonkyung Lee, Steven N. MacEachern, Yoonsuh Jung
+1210.00001, Mubasher Jamil, D. Momeni, R. Myrzakulov
+1210.00201, Giulia Gubitosi, Federico Piazza, Filippo Vernizzi
+1210.00301, Moulay-Tahar Benameur, Varghese Mathai
+1210.00601, Luis J. Boya, Cristian Rivera
+1211.02001, Antonin Coutant, Renaud Parentani
+1211.01101, Jon A. Bailey, Taegil Bae, Yong-Chull Jang, Hwancheol Jeong, Chulwoo Jung, Hyung-Jin Kim, Jangho Kim, Jongjeong Kim, Kwangwoo Kim, Seonghee Kim, Weonjong Lee, Jaehoon Leem, Stephen R. Sharpe, Boram Yoon
+1211.00901, Jan Vysoky, Ladislav Hlavaty
+1211.00701, L. A. Morabito, D. Meyer
+1211.00401, Pavel Exner, Diana Barseghyan
+1211.01201, Peter P. Orth, Adilet Imambekov, Karyn Le Hur
+1211.00201, River Chiang, Fan Ding, Otto van Koert
+1211.01001, Anindya De, Elchanan Mossel, Joe Neeman
+1211.00301, M. -N. Labour, Amélie Banc, Audrey Tourrette, Frédérique Cunin, Jean-Michel Verdier, Jean-Marie Devoisselle, Anne Marcilhac, Emmanuel Belamie
+1211.00101, Boon Leng Chuah, Nicholas C. Lewty, Radu Cazan, Murray D. Barrett
+1211.00601, L. F. Yu, P. W. Zhao, S. Q. Zhang, J. Meng
+1211.00501, Fintan Costello, Paul Watts
+1211.01501, Takeshi Katsura, Otgonbayar Uuye
+1211.01401, M. de Angelis, G. Fiore
+1211.01301, Daniel Goc, Hamoon Mousavi, Jeffrey Shallit
+1211.01701, Paulina Marian, Iulia Ghiu, Tudor A. Marian
+1211.02101, Miguel Navascues, Sandu Popescu
+1211.00001, Rick F. Rajter, Roger H. French, W. Y. Ching, Rudolf Podgornik, V. Adrian Parsegian
+1212.01601, C. A. Brackley, M. E. Cates, D. Marenduzzo
+1212.00801, Frederick Ira Moxley III, Weizhong Dai
+1212.01801, Matthew L. Malloy, Robert Nowak
+1212.02301, Steven M. Flores, Peter Kleban
+1212.01201, Christopher Q. Trinh, Simon C. Ellis, Joss Bland-Hawthorn, Jon S. Lawrence, Anthony J. Horton, Sergio G. Leon-Saval, Keith Shortridge, Julia Bryant, Scott Case, Matthew Colless, Warick Couch, Kenneth Freeman, Hans-Gerd Loehmannsroeben, Luke Gers, Karl Glazebrook, Roger Haynes, Steve Lee, , "John O, Byrne", , Stan Miziarski, Martin M. Roth, Brian Schmidt, Christopher G. Tinney, Jessica Zheng
+1212.00101, Fan Cheng, Raymond W. Yeung
+1212.00201, Grzegorz Sobon, Jaroslaw Sotor, Joanna Jagiello, Rafal Kozinski, Krzysztof Librant, Mariusz Zdrojek, Ludwika Lipinska, Krzysztof M. Abramski
+1212.01401, Wlodzimierz Lenski, Bogdan Szal
+1212.01301, Nastasia Grubic, Philippe G. LeFloch
+1212.00401, Joerg Endrullis, Dimitri Hendriks, Jan Willem Klop, Andrew Polonsky
+1212.00501, Gabriele Di Cerbo, Luca F. Di Cerbo
+1212.02101, Lorenzo Matteini, Simone Landi, Marco Velli, William H. Matthaeus
+1212.01101, A. D. K. Finck, D. J. Van Harlingen, P. K. Mohseni, K. Jung, X. Li
+1212.01501, Megan E. Holtz, Yingchao Yu, Jie Gao, Héctor D. Abruña, David A. Muller
+1212.00701, Julian Onions, Yago Ascasibar, Peter Behroozi, Javier Casado, Pascal Elahi, Jiaxin Han, Alexander Knebe, Hanni Lux, Manuel E. Merchán, Stuart I. Muldrew, Mark Neyrinck, Lyndsay Old, Frazer R. Pearce, Doug Potter, Andrés N. Ruiz, Mario A. Sgró, Dylan Tweed, Thomas Yue
+1212.01701, A. Accardi, J. L. Albacete, M. Anselmino, N. Armesto, E. C. Aschenauer, A. Bacchetta, D. Boer, W. K. Brooks, T. Burton, N. -B. Chang, W. -T. Deng, A. Deshpande, M. Diehl, A. Dumitru, R. Dupré, R. Ent, S. Fazio, H. Gao, V. Guzey, H. Hakobyan, Y. Hao, D. Hasch, R. Holt, T. Horn, M. Huang, A. Hutton, C. Hyde, J. Jalilian-Marian, S. Klein, B. Kopeliovich, Y. Kovchegov, K. Kumar, K. Kumerički, M. A. C. Lamont, T. Lappi, J. -H. Lee, Y. Lee, E. M. Levin, F. -L. Lin, V. Litvinenko, T. W. Ludlam, C. Marquet, Z. -E. Meziani, R. McKeown, A. Metz, R. Milner, V. S. Morozov, A. H. Mueller, B. Müller, D. Müller, P. Nadel-Turonski, H. Paukkunen, A. Prokudin, V. Ptitsyn, X. Qian, J. -W. Qiu, M. Ramsey-Musolf, T. Roser, F. Sabatié, R. Sassot, G. Schnell, P. Schweitzer, E. Sichtermann, M. Stratmann, M. Strikman, M. Sullivan, S. Taneja, T. Toll, D. Trbojevic, T. Ullrich, R. Venugopalan, S. Vigdor, W. Vogelsang, C. Weiss, B. -W. Xiao, F. Yuan, Y. -H. Zhang, L. Zheng
+1212.01001, Rajib Nath, A. K. Raychaudhuri, Ya. M. Mukovskii, Parthasarathi Mondal, Dipten Bhattacharya, P. Mandal
+1212.00901, Yoshua Bengio, Nicolas Boulanger-Lewandowski, Razvan Pascanu
+1212.00301, N. Carrasco, P. Dimopoulos, R. Frezzotti, V. Gimenez, G. Herdoiza, V. Lubicz, G. Martinelli, C. Michael, D. Palao, G. C. Rossi, F. Sanfilippo, A. Shindler, S. Simula, C. Tarantino
+1212.00601, Luca Bombelli, Johan Noldus, Julio Tafoya
+1212.02401, S. Veilleux, M. Trippe, F. Hamann, D. S. N. Rupke, T. M. Tripp, H. Netzer, D. Lutz, K. R. Sembach, H. Krug, S. H. Teng, R. Genzel, R. Maiolino, E. Sturm, L. Tacconi
+1212.02201, Giulio Caviglia, Manoj Kummini
+1301.01201, Guido Boffetta, Massimo Cencini, Filippo De Lillo, Francesco Santamaria
+1301.01101, Takayuki Morifuji, Anh T. Tran
+1301.04201, Girish Kulkarni, Emmanuel Rollinde, Joseph F. Hennawi, Elisabeth Vangioni
+1301.03101, F. Yusef-Zadeh, W. Cotton, S. Viti, M. Wardle, M. Royster
+1301.02201, F. M. Ablayev, S. N. Andrianov, S. A. Moiseev, A. V. Vasiliev
+1301.01801, Stefano Bonzio, Paola Verrucchi
+1301.00001, Nivedita Daimiwal, M. Sundhararajan, Revati Shriram
+1301.00501, Paul Munger, Darren C. Ong
+1301.02601, M. Louie, J. Koda, F. Egusa
+1301.03201, Yoshifumi Matsuda, Shin-ichi Oguni, Saeko Yamagata
+1301.03001, Jean-Baptiste Meilhan, Akira Yasuhara
+1301.02101, "N. F. Shul, ga", , V. V. Syshchenko, V. S. Neryabova
+1301.01601, I. Predebon, F. Sattin
+1301.03401, Jianyi Jiang, Hanping Miao, Yibing Huang, Seung Hong, Jeff A. Parrell, Christian Scheuerlein, Marco Di Michiel, Arup K. Ghosh, Ulf P. Trociewitz, Eric E. Hellstrom, David C. Larbalestier
+1301.00401, Hu Fu, Jason Hartline, Darrell Hoy
+1301.02501, Jason D. Bates, Hing-Tong Cho, Paul R. Anderson, B. L. Hu
+1301.00101, Julia Andreeva, Carlos Borrego Iglesias, Simone Campana, Alessandro Di Girolamo, Ivan Dzhunov, Xavier Espinal Curull, Stavro Gayazov, Erekle Magradze, Michal Maciej Nowotka, Lorenzo Rinaldi, Pablo Saiz, Jaroslava Schovancova, Graeme Andrew Stewart, Michael Wright
+1301.04301, Juan C. Latorre, Peter R. Kramer, Grigorios A. Pavliotis
+1301.00801, Loet Leydesdorff, Caroline Wagner, Han Woo Park, Jonathan Adams
+1301.03701, John Bulava, Philipp Gerhold, Karl Jansen, Jim Kallarackal, Attila Nagy
+1301.02901, J. J. Gomez-Cadenas, J. Martin-Albo, J. Muñoz Vidal, C. Peña-Garay
+1301.02701, M. Zamani, M. Salami, S. M. Fazeli, G. R. Jafari
+1301.00701, R. Rajendra Prasath, Pinar Öztürk
+1301.01701, Meysam Mirzaee, Soroush Akhlaghi
+1301.01301, P. B. Tissera, C. Scannapieco, T. Beers, D. Carollo
+1301.02001, Manuela Heuer, Peter Zeiner
+1301.04001, M. I. Lam, H. Wu, Y. -N. Zhu, Z. -M. Zhou
+1301.01501, Manuel Asorey, Paolo Facchi, Giuseppe Marmo, Saverio Pascazio
+1301.03601, Carlos H. M. de Lima, Mehdi Bennis, Matti Latva-aho
+1301.00901, Florent Krzakala, Marc Mézard, Lenka Zdeborová
+1301.03301, M. Wolk, H. J. McCracken, S. Colombi, J. N. Fry, M. Kilbinger, P. Hudelot, Y. Mellier, O. Ilbert
+1301.03501, Daniel V. Pilon, Chun Hung Lui, Tianheng Han, David B. Shrekenhamer, Alex J. Frenzel, William J. Padilla, Young S. Lee, Nuh Gedik
+1301.03801, Lydia Peres Hari, Jacob Rubinstein, Peter Sternberg
+1303.03901, Ankur Sinha, Pekka Malo, Kalyanmoy Deb
+1303.00601, Ke-Jun Kang, Jian-Ping Cheng, Jin Li, Yuan-Jing Li, Qian Yue, Yang Bai, Yong Bi, Jian-Ping Chang, Nan Chen, Ning Chen, Qing-Hao Chen, Yun-Hua Chen, Zhi Deng, Qiang Du, Hui Gong, Xi-Qing Hao, Hong-Jian He, Qing-Ju He, Xin-Hui Hu, Han-Xiong Huang, Hao Jiang, Jian-Min Li, Xia Li, Xin-Ying Li, Xue-Qian Li, Yu-Lan Li, Shu-Kui Liu, Ya-Bin Liu, Lan-Chun Lu, Hao Ma, Jian-Qiang Qin, Jie Ren, Jing Ren, Xi-Chao Ruan, Man-Bin Shen, Jian Su, Chang-Jian Tang, Zhen-Yu Tang, Ji-Min Wang, Qing Wang, Xu-Feng Wang, Shi-Yong Wu, Yu-Cheng Wu, Zhong-Zhi Xianyu, Hao-Yang Xing, Xun-Jie Xu, Yin Xu, Tao Xue, Li-Tao Yang, Nan Yi, Hao Yu, Chun-Xu Yu, Xiong-Hui Zeng, Zhi Zeng, Lan Zhang, Guang-Hua Zhang, Ming-Gang Zhao, Su-Ning Zhong, Jin Zhou, Zu-Ying Zhou, Jing-Jun Zhu, Wei-Bin Zhu, Xue-Zhou Zhu, Zhong-Hua Zhu
+1303.02701, Kefeng Liu, Xiaokui Yang
+1303.01501, Tom S. Verma, Judea Pearl
+1303.01301, Ryuichi Takahashi, Hideki Asada
+1303.03301, Kefeng Liu, Xiaokui Yang
+1303.01001, Hyun-Jung Kim, Jun-Hyung Cho
+1303.01401, Remi Janner, Jan Swoboda
+1303.02101, Gabriel Gonzalez, Fco. Javier Gonzalez Orozco
+1303.02301, Tao Huang, Xing-Gang Wu, Tao Zhong
+1303.02601, Xiaofeng Wang, Lifan Wang, Alexei V. Filippenko, Tianmeng Zhang, Xulin Zhao
+1303.00901, STAR Collaboration, L. Adamczyk, J. K. Adkins, G. Agakishiev, M. M. Aggarwal, Z. Ahammed, A. V. Alakhverdyants, I. Alekseev, J. Alford, C. D. Anson, D. Arkhipkin, E. Aschenauer, G. S. Averichev, J. Balewski, A. Banerjee, Z. Barnovska, D. R. Beavis, R. Bellwied, M. J. Betancourt, R. R. Betts, A. Bhasin, A. K. Bhati, H. Bichsel, J. Bielcik, J. Bielcikova, L. C. Bland, I. G. Bordyuzhin, W. Borowski, J. Bouchet, A. V. Brandin, S. G. Brovko, E. Bruna, S. Bültmann, I. Bunzarov, T. P. Burton, J. Butterworth, X. Z. Cai, H. Caines, M. Calderón de la Barca Sánchez, D. Cebra, R. Cendejas, M. C. Cervantes, P. Chaloupka, Z. Chang, S. Chattopadhyay, H. F. Chen, J. H. Chen, J. Y. Chen, L. Chen, J. Cheng, M. Cherney, A. Chikanian, W. Christie, P. Chung, J. Chwastowski, M. J. M. Codrington, R. Corliss, J. G. Cramer, H. J. Crawford, X. Cui, S. Das, A. Davila Leyva, L. C. De Silva, R. R. Debbe, T. G. Dedovich, J. Deng, R. Derradi de Souza, S. Dhamija, L. Didenko, F. Ding, A. Dion, P. Djawotho, X. Dong, J. L. Drachenberg, J. E. Draper, C. M. Du, L. E. Dunkelberger, J. C. Dunlop, L. G. Efimov, M. Elnimr, J. Engelage, G. Eppley, L. Eun, O. Evdokimov, R. Fatemi, S. Fazio, J. Fedorisin, R. G. Fersch, P. Filip, E. Finch, Y. Fisyak, E. Flores, C. A. Gagliardi, D. R. Gangadharan, D. Garand, F. Geurts, A. Gibson, S. Gliske, Y. N. Gorbunov, O. G. Grebenyuk, D. Grosnick, A. Gupta, S. Gupta, W. Guryn, B. Haag, O. Hajkova, A. Hamed, L-X. Han, J. W. Harris, J. P. Hays-Wehle, S. Heppelmann, A. Hirsch, G. W. Hoffmann, D. J. Hofman, S. Horvat, B. Huang, H. Z. Huang, P. Huck, T. J. Humanic, G. Igo, W. W. Jacobs, C. Jena, E. G. Judd, S. Kabana, K. Kang, J. Kapitan, K. Kauder, H. W. Ke, D. Keane, A. Kechechyan, A. Kesich, D. P. Kikola, J. Kiryluk, I. Kisel, A. Kisiel, V. Kizka, D. D. Koetke, T. Kollegger, J. Konzer, I. Koralt, L. Koroleva, W. Korsch, L. Kotchenda, P. Kravtsov, K. Krueger, I. Kulakov, L. Kumar, M. A. C. Lamont, J. M. Landgraf, K. D. Landry, S. LaPointe, J. Lauret, A. Lebedev, R. Lednicky, J. H. Lee, W. Leight, M. J. LeVine, C. Li, W. Li, X. Li, X. Li, Y. Li, Z. M. Li, L. M. Lima, M. A. Lisa, F. Liu, T. Ljubicic, W. J. Llope, R. S. Longacre, Y. Lu, X. Luo, A. Luszczak, G. L. Ma, Y. G. Ma, D. M. M. D. Madagodagettige Don, D. P. Mahapatra, R. Majka, S. Margetis, C. Markert, H. Masui, H. S. Matis, D. McDonald, T. S. McShane, S. Mioduszewski, M. K. Mitrovski, Y. Mohammed, B. Mohanty, M. M. Mondal, B. Morozov, M. G. Munhoz, M. K. Mustafa, M. Naglis, B. K. Nandi, Md. Nasim, T. K. Nayak, J. M. Nelson, L. V. Nogach, J. Novak, G. Odyniec, A. Ogawa, K. Oh, A. Ohlson, V. Okorokov, E. W. Oldag, R. A. N. Oliveira, D. Olson, P. Ostrowski, M. Pachr, B. S. Page, S. K. Pal, Y. X. Pan, Y. Pandit, Y. Panebratsev, T. Pawlak, B. Pawlik, H. Pei, C. Perkins, W. Peryt, P. Pile, M. Planinic, J. Pluta, N. Poljak, J. Porter, C. B. Powell, N. K. Pruthi, M. Przybycien, P. R. Pujahari, J. Putschke, H. Qiu, S. Ramachandran, R. Raniwala, S. Raniwala, R. L. Ray, R. Redwine, C. K. Riley, H. G. Ritter, J. B. Roberts, O. V. Rogachevskiy, J. L. Romero, J. F. Ross, L. Ruan, J. Rusnak, N. R. Sahoo, P. K. Sahu, I. Sakrejda, S. Salur, A. Sandacz, J. Sandweiss, E. Sangaline, A. Sarkar, J. Schambach, R. P. Scharenberg, A. M. Schmah, B. Schmidke, N. Schmitz, T. R. Schuster, J. Seele, J. Seger, I. Selyuzhenkov, P. Seyboth, N. Shah, E. Shahaliev, M. Shao, B. Sharma, M. Sharma, S. S. Shi, Q. Y. Shou, E. P. Sichtermann, R. N. Singaraju, M. J. Skoby, D. Smirnov, N. Smirnov, D. Solanki, P. Sorensen, U. G. deSouza, H. M. Spinka, B. Srivastava, T. D. S. Stanislaus, S. G. Steadman, J. R. Stevens, R. Stock, M. Strikhanov, B. Stringfellow, A. A. P. Suaide, M. C. Suarez, M. Sumbera, X. M. Sun, Y. Sun, Z. Sun, B. Surrow, D. N. Svirida, T. J. M. Symons, A. Szanto de Toledo, J. Takahashi, A. H. Tang, Z. Tang, L. H. Tarini, T. Tarnowsky, J. H. Thomas, J. Tian, A. R. Timmins, D. Tlusty, M. Tokarev, S. Trentalange, R. E. Tribble, P. Tribedy, B. A. Trzeciak, O. D. Tsai, J. Turnau, T. Ullrich, D. G. Underwood, G. Van Buren, G. van Nieuwenhuizen, J. A. Vanfossen, Jr., R. Varma, G. M. S. Vasconcelos, F. Videbæk, Y. P. Viyogi, S. Vokal, A. Vossen, M. Wada, F. Wang, H. Wang, J. S. Wang, Q. Wang, X. L. Wang, Y. Wang, G. Webb, J. C. Webb, G. D. Westfall, C. Whitten Jr., H. Wieman, S. W. Wissink, R. Witt, Y. F. Wu, Z. Xiao, W. Xie, K. Xin, H. Xu, N. Xu, Q. H. Xu, W. Xu, Y. Xu, Z. Xu, L. Xue, Y. Yang, Y. Yang, P. Yepes, L. Yi, K. Yip, I-K. Yoo, M. Zawisza, H. Zbroszczyk, J. B. Zhang, S. Zhang, X. P. Zhang, Y. Zhang, Z. P. Zhang, F. Zhao, J. Zhao, C. Zhong, X. Zhu, Y. H. Zhu, Y. Zoulkarneeva, M. Zyzak
+1303.00501, Hitoshi Shiraishi, Shigeyoshi Owa
+1303.01901, Michel Destrade, Jerry G. Murphy, Badar Rashid
+1303.03501, N. Barros, M. Rassam, H. Kachkachi
+1303.03601, Ilka Agricola, Jos Höll
+1303.01101, Kipton Barros, Yasuyuki Kato
+1303.02801, U. B. Paramanik, Anupam, U. Burkhard, R. Prasad, C. Geibel, Z. Hossain
+1303.01601, Seung Sae Hong, Yi Zhang, Judy J. Cha, Xiao-Liang Qi, Yi Cui
+1303.00201, Peter B. Muller, Massimiliano Rossi, Alvaro G. Marin, Rune Barnkob, Per Augustsson, Thomas Laurell, Christian J. Kaehler, Henrik Bruus
+1303.02201, "Emanuele D, Osualdo", , Jonathan Kochems, C. -H. Luke Ong
+1303.00801, Juntao Song, Haiwen Liu, Hua Jiang, Qing-feng Sun, X. C. Xie
+1303.03401, J. A. Rodriguez, A. Yaouanc, B. Barbara, E. Pomjakushina, P. Quémerais, Z. Salman
+1303.01201, Himal A. Suraweera, Hien Quoc Ngo, Trung Q. Duong, Chau Yuen, Erik G. Larsson
+1303.00001, Feng Yan, Philippe Martins, Laurent Decreusefond
+1303.00101, Alexander Bondar, Roman Mizuk
+1303.02901, Nicola Pestalozzi, Peter Cauwels, Didier Sornette
+1303.03801, Yi Yang, Wai Bong Yeung
+1303.01701, Heleno Cunha, Nikolay Gusevskii
+1304.00101, Kirti Joshi, Aleksandar Petrov
+1304.01501, Christopher Elsaesser, Max Henrion
+1304.00601, Gianmassimo Tasinato, Kazuya Koyama, Gustavo Niz
+1304.00301, Hongbin Song, Katanya B. Kuntz, Elanor H. Huntington
+1304.01401, Hossein Karamitaheri, Neophytos Neophytou, Mohsen Karami Taheri, Rahim Faez, Hans Kosina
+1304.01101, Frank Jensen, S. K. Anderson
+1304.00401, Karim Pichara, Pavlos Protopapas, Dae-Won Kim, Jean-Baptiste Marquette, Patrick Tisserand
+1304.01001, Pavel Kornilovitch, Robert Walmsley
+1304.00701, Anna De Masi, Pablo A. Ferrari, Errico Presutti
+1304.00201, Franz-Viktor Kuhlmann, Katarzyna Kuhlmann
+1304.00901, François Arleo, Rodion Kolevatov, Stéphane Peigné, Maryam Rustamova
+1304.01601, Su Do Yi, Beom Jun Kim, Petter Minnhagen
+1305.00001, Rozaimi Zakaria, Abd. Fatah Wahab, R. U. Gobithaasan
+1305.00701, B. Chetverushkin, , "N. D, Ascenzo", , V. Saveliev
+1305.00401, Ke-Jun Kang, Qian Yue, Yu-Cheng Wu, Jian-Ping Cheng, Yuan-Jing Li, Yang Bai, Yong Bi, Jian-Ping Chang, Nan Chen, Ning Chen, Qing-Hao Chen, Yun-Hua Chen, You-Chun Chuang, Zhi Dend, Qiang Du, Hui Gong, Xi-Qing Hao, Qing-Ju He, Xin-Hui Hu, Han-Xiong Huang, Teng-Rui Huang, Hao Jiang, Hau-Bin Li, Jian-Min Li, Jin Li, Jun Li, Xia Li, Xin-Ying Li, Xue-Qian Li, Yu-Lan Li, Heng-Ye Liao, Fong-Kay Lin, Shin-Ted Lin, Shu-Kui Liu, Lan-Chun Lv, Hao Ma, Shao-Ji Mao, Jian-Qiang Qin, Jie Ren, Jing Ren, Xi-Chao Ruan, Man-Bin Shen, Lakhwinder Singh, Manoj Kumar Singh, Arun Kumar Soma, Jian Su, Chang-Jian Tang, Chao-Hsiung Tseng, Ji-Min Wang, Li Wang, Qing Wang, Tsz-King Henry Wong, Shi-Yong Wu, Wei Wu, Yu-Cheng Wu, Hao-Yang Xing, Yin Xu, Tao Xue, Li-Tao Yang, Song-Wei Yang, Nan Yi, Chun-Xu Yu, Hao Yu, Xun-Zhen Yu, Xiong-Hui Zeng, Zhi Zeng, Lan Zhang, Yun-Hua Zhang, Ming-Gang Zhao, Wei Zhao, Su-Ning Zhong, Zu-Ying Zhou, Jing-Jun Zhu, Wei-Bin Zhu, Xue-Zhou Zhu, Zhong-Hua Zhu
+1305.00201, Jianping Li, Bo Zhou
+1305.00601, Ghodratollah Aalipour, Saieed Akbari
+1306.04801, T. Lunghi, J. Kaniewski, F. Bussieres, R. Houlmann, M. Tomamichel, A. Kent, N. Gisin, S. Wehner, H. Zbinden
+1306.05601, Moritz Mühlenthaler, Rolf Wanka
+1306.02001, Huan Yang, Zhenyu Wang, Delong Fang, Qiang Deng, Qiang-Hua Wang, Yuan-Yuan Xiang, Yang Yang, Hai-Hu Wen
+1306.04001, Hyeonjin Doh, Gun Sang Jeon
+1306.02601, Amir Hadi Ziaie, Arash Ranjbar, Hamid Reza Sepangi
+1306.04201, R. Stock, F. Becattini, M. Bleicher, T. Kollegger, T. Schuster, J. Steinheimer
+1306.01301, Joyeeta Singha, Karen Das
+1306.02201, Roxana Bujack, Gerik Scheuermann, Eckhard Hitzer
+1306.01901, Roberto Bagnara, Fred Mesnard
+1306.04301, Fatkhulla Kh. Abdullaev, Arnaldo Gammal, Boris A. Malomed, Lauro Tomio
+1306.05001, V. M. Uritsky, J. A. Slavin, S. A. Boardsen, T. Sundberg, J. M. Raines, D. J. Gershman, G. Collinson, D. Sibeck, G. V. Khazanov, B. J. Anderson, H. Korth
+1306.02101, Giovanni Geraci, Sarabjot Singh, Jeffrey G. Andrews, Jinhong Yuan, Iain B. Collings
+1306.01701, Kohtaroh Miura, Yoshimasa Hidaka, Daisuke Satow, Teiji Kunihiro
+1306.00101, Nader Belghith, Mabrouk Ben Ammar, Nizar Ben Fraj
+1306.00201, M. N. Najafi, M. Ghaedi
+1306.04101, Baptiste Percier, Thibaut Divoux, Nicolas Taberlet
+1306.01601, Yu-Bo Sheng, Lan Zhou
+1306.04901, C. Marquet, C. Royon, M. Saimpert, D. Werder
+1306.00501, Nouraddin Mostafapoor, Oyvind Gron
+1306.00901, Peter Schneider, Dominique Sluse
+1306.01101, Shuiyin Liu, Yi Hong, Emanuele Viterbo
+1306.00001, M. Sharif, M. Azam
+1306.02901, Xingang Chen, Hassan Firouzjahi, Mohammad Hossein Namjoo, Misao Sasaki
+1306.02301, Martin Roetteler, Rainer Steinwandt
+1306.00801, Simcha Gilbert, Shira Polster, Julianna Tymoczko
+1306.03701, Jennifer L. van Saders, Marc H. Pinsonneault
+1306.01801, Michael Holst, Gantumur Tsogtgerel
+1306.01501, U. Munari, S. Dallaporta, F. Castellani, P. Valisa, A. Frigo, L. Chomiuk, V. A. R. M. Ribeiro
+1306.03301, Remigijus Leipus, Anne Philippe, Donata Puplinskaite, Donatas Surgailis
+1306.03901, Madeline Wade, Jolien D. E. Creighton, Evan Ochsner, Alex B. Nielsen
+1306.05201, Y. Baryshnikov, V. Blumen, K. Kim, V. Zharnitsky
+1306.02401, Zhongyuan Xu, Scott D. Stoller
+1306.05301, Elena Cordero, Karlheinz Gröchenig, Fabio Nicola, Luigi Rodino
+1306.05501, Hu Li, Yuan`an Liu, Dongming Yuan, Hefei Hu
+1306.04601, Francesco Coradeschi, Paolo Lodone, Duccio Pappadopulo, Riccardo Rattazzi, Lorenzo Vitale
+1306.02701, An Liu, Vincent Lau
+1306.04501, M. H. Dehghani, Ch. Shakuri, M. H. Vahidinia
+1306.03501, Stefan Antusch, David Nolde
+1306.03201, Alain Plattner, Frederik J. Simons
+1306.01001, Sylvain D. Brechet, Francesco A. Vetro, Elisa Papa, Stewart E. Barnes, Jean-Philippe Ansermet
+1306.05101, Guillaume Foyart, Laurence Ramos, Serge Mora, Christian Ligoure
+1306.05401, Mathieu Lewin, Eric Séré
+1306.03001, Shinichiro Futakuchi, Kouta Usui
+1308.01201, Fabio Pasqualetti, Sandro Zampieri, Francesco Bullo
+1308.00101, Julián Candia, Ryan Maunu, Meghan Driscoll, Angélique Biancotto, Pradeep Dagur, J. Philip McCoy Jr, H. Nida Sen, Lai Wei, Amos Maritan, Kan Cao, Robert B. Nussenblatt, Jayanth R. Banavar, Wolfgang Losert
+1308.00401, Alice Devillers, Michael Giudici, Cai Heng Li, Cheryl E. Praeger
+1308.01101, Michele Fumagalli, , "John M. O, Meara", , J. Xavier Prochaska, Gabor Worseck
+1308.00201, M. L. N. Ashby, S. A. Stanford, M. Brodwin, A. H. Gonzalez, J. Martinez, J. G. Bartlett, B. A. Benson, L. E. Bleem, T. M. Crawford, A. Dey, A. Dressler, P. R. M. Eisenhardt, A. Galametz, B. T. Jannuzi, D. P. Marrone, S. Mei, A. Muzzin, F. Pacaud, M. Pierre, D. Stern, J. D. Vieira
+1308.01001, B. Gendre, G. Stratta, J. L. Atteia, S. Basa, M. Boer, D. M. Coward, S. Cutini, , "V. D, Elia", , E. J. Howell, A. Klotz, S. Oates, M. De Pasquale, L. Piro
+1308.00301, K. R. Knox, A. M. M. Abeykoon, H. Zheng, W. -G. Yin, A. M. Tsvelik, J. F. Mitchell, S. J. L. Billinge, E. S. Bozin
+1308.00701, Meisam Booshehri, Abbas Malekpour, Peter Luksch, Kamran Zamanifar, Shahdad Shariatmadari
+1308.00601, Shahaf Asban, Meni Shay, Muntaser Naamneh, Tal Kirzhner, Amit Keren
+1308.00901, M. Mahdian, M. B. Arjmandi
+1308.00001, Javier Garcia, Francisco M Fernández
+1308.01301, M. Belhaj, J. Roupie, O. Jbara, J. Puech, N. Balcon, D. Payan
+1308.00501, J. Frith, D. J. Pinfield, H. R. A. Jones, J. R. Barnes, Y. Pavlenko, E. L. Martin, C. Brown, M. K. Kuznetsov, F. Marocco, R. Tata, M. Cappetta
+1308.01401, Jaiyul Yoo, Uros Seljak
+1308.00801, Saugata Basu, Laxmi Parida
+1309.00001, Masahiko Ito, Peter J. Forrester
+1310.00301, Jerome K. Percus, Ora E. Percus
+1310.00201, Moreno I. Coco, Rick Dale
+1310.00401, Nicolas Lanchier, Stylianos Scarlatos
+1310.00101, L. Landau, R. C. de Lamare, M. Haardt
+1312.00001, Ayan Chakraborty, Shiladitya Munshi, Debajyoti Mukhopadhyay
+1401.01801, A. S. Rodin, A. Carvalho, A. H. Castro Neto
+1401.00301, Reza Farrahi Moghaddam, Fereydoun Farrahi Moghaddam, Mohamed Cheriet
+1401.00701, Mohammad F. Maghrebi, Robert L. Jaffe, Mehran Kardar
+1401.01001, Z. Wang, Y. Cai, Z. W. Wang, C. Ma, Z. Chen, H. X. Yang, H. F. Tian, J. Q. Li
+1401.01301, Laura Anderlucci, Cinzia Viroli
+1401.00001, Nils Bertschinger, David H. Wolpert, Eckehard Olbrich, Juergen Jost
+1401.00601, Tobias Mueller, Nader Haghighipour
+1401.01501, Nicola R. Napolitano, Vincenzo Pota, Aaron J. Romanowsky, Duncan A. Forbes, Jean P. Brodie, Caroline Foster
+1401.01601, S. X. Yi, Z. G. Dai, X. F. Wu, F. Y. Wang
+1401.01101, Chong Sheng Li, Hai Tao Li, Ding Yu Shao
+1401.00401, Min Zhang, Ren Guo, Wei Zeng, Feng Luo, Shing-Tung Yau, Xianfeng Gu
+1401.00201, Ping Li, Cun-Hui Zhang, Tong Zhang
+1401.00801, J. Pekalski, A. Ciach, N. Almarza
+1401.00101, Rui Li, J. Q. You
+1401.01401, Ram Brustein, A. J. M. Medved
+1401.01201, Sergio Ferrara, Pietro Fre, Alexander S. Sorin
+1401.01701, Alisa J. Stephens, Eric J. Tchetgen Tchetgen, Victor De Gruttola
+1401.01901, Shinichi Deguchi, Takafumi Suzuki
+1402.00401, Vitor Araujo, Pedro V. Silva, Mihalis Sykiotis
+1402.00201, O. V. Konevtsova, S. B. Rochal, V. L. Lorman
+1402.00601, Franck Cassez, Ron van der Meyden, Chenyi Zhang
+1402.00001, Alexandros Metavitsiadis, Daniel Sellmann, Sebastian Eggert
+1402.00301, Ming-Liang Hu, Dong-Ping Tian
+1402.00701, A. Langenberg, K. Hirsch, A. Lawicki, V. Zamudio-Bayer, M. Niemeyer, P. Chmiela, B. Langbehn, A. Terasaki, B. v. Issendorff, J. T. Lau
+1403.00701, Aapo Kyrola, Carlos Guestrin
+1403.00101, Alexander Rothkegel, Klaus Lehnertz
+1403.01301, Sumin Choi, Brett C. Johnson, Stefania Castelletto, Cuong Ton-That, Matthew R. Phillips, Igor Aharonovich
+1403.00401, Yu Jiang, Hexi Baoyin, Junfeng Li, Hengnian Li
+1403.00201, Anirvan Chakraborty, Probal Chaudhuri
+1403.01101, Christian Schlichtkrull, Mirjam Solberg
+1403.00601, Joel Berry, Nikolas Provatas, Jörg Rottler, Chad W. Sinclair
+1403.01601, Boris Bukh, Zilin Jiang
+1403.01201, Genko T. Genov, Daniel Schraft, Thomas Halfmann, Nikolay V. Vitanov
+1403.00901, C. Huang, Y. Y. Yan, G. Li, Y. Y. Deng, B. L. Tan
+1403.00001, T Shiva Prakash, K B Raja, K R Venugopal, S S Iyengar, L M Patnaik
+1403.00801, Derrick Higgins, Chris Brew, Michael Heilman, Ramon Ziai, Lei Chen, Aoife Cahill, Michael Flor, Nitin Madnani, Joel Tetreault, Daniel Blanchard, Diane Napolitano, Chong Min Lee, John Blackmore
+1403.01001, C. D. Froggatt, R. Nevzorov, H. B. Nielsen, A. W. Thomas
+1403.01701, Luca Belluzzi, Javier Trujillo Bueno
+1403.01801, Jim Fowler, Zhixu Su
+1403.01901, Felix Fuerst, Katja Pottschmidt, Joern Wilms, Jamie Kennea, Matteo Bachetti, Eric Bellm, Steven E. Boggs, Deepto Chakrabarty, Finn E. Christensen, William W. Craig, Charles J. Hailey, Fiona Harrison, Daniel Stern1, John A. Tomsick, Dominic J. Walton, William Zhang, Cahill Center, Caltech, USA, CSST, UMBC, USA, CRESST, GSFC, USA, Remeis-Observatory, ECAP, Germany, Penn State University, USA, Universite de Toulouse, France, CNRS, IRAP, France, SSL, UCB, USA, Kavli Institute for Astrophysics, MIT, USA, DTU Space, TU Denmark, Denmark, Columbia Astrophysics Lab, Columbia University, USA, JPL, USA, GSFC, ASD, USA
+1403.01401, C. Cacciapuoti, D. Finco, D. Noja, A. Teta
+1403.01501, Clemens Hage, Tim Habigt, Martin Kleinsteuber
+1403.00301, Gwo Dong Lin, Jordan Stoyanov
+1404.00001, Yulia Ershova, Alexander V. Kiselev
+1404.00401, Martin V. Gustafsson, Thomas Aref, Anton Frisk Kockum, Maria K. Ekström, Göran Johansson, Per Delsing
+1404.00501, V. E. Dmitrienko, E. N. Ovchinnikova, S. P. Collins, G. Nisbet, G. Beutier, Y. O. Kvashnin, V. V. Mazurenko, A. I. Lichtenstein, M. I. Katsnelson
+1404.00101, Chan Dai Truyen Thai, Marion Berbineau
+1404.00301, Bradley C. Whitmore, Rupali Chandar, Ariel S. Bowers, Soeren Larsen, Kevin Lindsay, Asna Ansari, Jessica Evans, .
+1404.00601, José E. Figueroa-López, Sveinn Ólafsson
+1405.02501, Roman Barták, Neng-Fa Zhou
+1405.00301, J. Alwall, R. Frederix, S. Frixione, V. Hirschi, F. Maltoni, O. Mattelaer, H. -S. Shao, T. Stelzer, P. Torrielli, M. Zaro
+1405.02101, William D. Taylor, Christopher J. Evans, Sergio Simón-Díaz, Hugues Sana, Norbert Langer, Nathan Smith, Stephen J. Smartt
+1405.00801, Xihong Peng, Qun Wei
+1405.01301, Jay Armas, Matthias Blau
+1405.01401, Wojciech Brzezicki, Andrzej M. Oleś
+1405.00401, Robert J. Berman, Bo Berndtsson
+1405.02401, P. Vellaisamy, S. Ghosh, M. Sreehari
+1405.00501, Mathias Niepert, Pedro Domingos
+1405.02701, Sarah B. Hart, Peter J. Rowley
+1405.00101, Dr. Manju Kaushik, Rashmi Jain
+1405.02601, Subhadeep Mukhopadhyay, Emanuel Parzen
+1405.00901, Xia Chen, Jie Xiong
+1405.01201, M. Latour, G. Fontaine, E. M. Green, P. Brassard, P. Chayer
+1405.00601, Xuehan Xiong, Fernando De la Torre
+1405.00001, Yongyou Zhang, Bingsuo Zou
+1405.01601, Shengjin Ji, Hongping Ma
+1405.01101, Alessia Pasquazi, Marco Peccianti, Brent E. Little, Sai T. Chu, David J. Moss, Roberto Morandotti
+1405.01901, Florian Hartmann, Wolfgang Kilian
+1405.01701, Nick Gill, Neil I. Gillespie, Anthony Nixon, Jason Semeraro
+1405.01801, Debabrata Biswas, Vishal Kumar
+1405.02201, Yutaka Oya, Toshihiro Kawakatsu
+1405.01501, Yair Censor, Daniel Reem
+1405.01001, Glencora Borradaile, Theresa Migler, Gordon Wilfong
+1406.00001, Emily M. Levesque, Philip Massey, Anna N. Zytkow, Nidia Morrell
+1406.00201, Xiaonan Ma, George Marinescu, Steve Zelditch
+1406.00101, Annica M. Black-Schaffer, Carsten Honerkamp
+1406.00301, M. O. Archer, D. L. Turner, J. P. Eastwood, T. S. Horbury, S. J. Schwartz
+1407.00501, Antoine Genitrini, Bernhard Gittenberger, Veronika Kraus, Cécile Mailler
+1407.00201, Somenath Jalal, Brijesh Kumar
+1407.00001, Shu Yan, Shaoting Tang, Sen Pei, Shijin Jiang, Zhiming Zheng
+1407.00101, Vladan Stevanovic, Andriy Zakutayev, Stephan Lany
+1408.00101, Sandeep Kumar, Vivek Kumar Sharma, Rajani Kumari
+1408.00001, Alyssa A. Goodman, Joao Alves, Christopher N. Beaumont, Robert A. Benjamin, Michelle A. Borkin, Andreas Burkert, Thomas M. Dame, James Jackson, Jens Kauffmann, Thomas Robitaille, Rowan J. Smith
+1408.00201, Hanchun Yang, Jinjing Liu
+1409.00901, Pim van Oirschot, Juliana Kwan, Geraint F. Lewis
+1409.03301, Shiqiong Huang, Jiashun Jin, Zhigang Yao
+1409.00601, Ramin Ghelichi, Ken Kamrin
+1409.01601, G. M. Voit, M. Donahue
+1409.01901, Etienne Pardoux, Anton Wakolbinger
+1409.01701, P. M. Derlet, R. Maass
+1409.02201, Milad Siami, Nader Motee
+1409.01201, Deniz Kus, R. Venkatesh
+1409.00101, Y. Apertet, H. Ouerdane, C. Goupil, Ph. Lecoeur
+1409.00701, Thomas Epelbaum, Francois Gelis, Naoto Tanji, Bin Wu
+1409.00401, Ju-Jun Xie, L. R. Dai, E. Oset
+1409.01101, Peter Salamon, Nandor Eber, Balazs Fekete, Agnes Buka
+1409.02001, A. Bobenko, U. Hertrich-Jeromin, I. Lukyanenko
+1409.00801, Antoine Gloria, Felix Otto
+1409.00201, Pouya Mollaebrahim Ghari, Reza Shahbazian, Seyed Ali Ghorashi
+1409.03201, Nazim Boudjada, Dvira Segal
+1409.01401, Riikka Kangaslampi, Alina Vdovina
+1409.01001, Gabriel Martins Dias, Boris Bellalta, Simon Oechsner
+1409.02901, Johannes Lischner, Sahar Sharifzadeh, Jack Deslippe, Jeffrey B. Neaton, Steven G. Louie
+1409.01501, Carlos Barceló, Raúl Carballo-Rubio, Luis J. Garay, Gil Jannes
+1409.03401, Giuseppe Ancona, Annette Huber, Simon Pepin Lehalleur
+1409.02701, P. Burzynski, F. Trinter, J. B. Williams, M. Weller, M. Waitz, M. Pitzer, J. Voigtsberger, C. Schober, G. Kastirke, C. Müller, C. Goihl, F. Wiegandt, R. Wallauer, A. Kalinin, L. Ph. H. Schmidt, M. Schöffler, G. Schiwietz, N. Sisourat, T. Jahnke, R. Dörner
+1409.00001, Rui Sun, Heng Xiao
+1409.01301, Alexey Gulov, Andrey Kozhushko
+1409.03001, S. S. Dimitrova, A. A. Cowley, E. V. Zemlyanaya, K. V. Lukyanov
+1409.00301, Je-Geun Park, Manh Duc Le, Jaehong Jeong, Sanghyun Lee
+1409.02301, Daniel G. Cocks, Gillian Peach, Ian B. Whittingham
+1409.00501, David Ayala, John Francis, Hiro Lee Tanaka
+1409.02501, E. Hiyama, M. Kamimura
+1409.01801, Stephen M. Plaza, Toufiq Parag, Gary B. Huang, Donald J. Olbris, Mathew A. Saunders, Patricia K. Rivlin
+1410.00001, Fabien Gouyon, Bob L. Sturm, Joao Lobato Oliveira, Nuno Hespanhol, Thibault Langlois
+1410.00901, Eric Edo, Drew Lewis
+1410.01101, Rodrigo S. Targino, Gareth W. Peters, Pavel V. Shevchenko
+1410.00201, Pieter D. Boom, David W. Zingg
+1410.00801, Oleg Borisenko, Volodymyr Chelnokov, Mario Gravina, Alessandro Papa
+1410.01801, Matthieu Palate, Gregor Rauw
+1410.00701, Thiago Ferreira da Silva, Gustavo C. do Amaral, Guilherme B. Xavier, Guilherme P. Temporão, Jean Pierre von der Weid
+1410.01201, Konstantinos Gkikas, Laurent Veron
+1410.01601, Yi Wang, Praveen Deorani, Xuepeng Qiu, Jae Hyun Kwon, Hyunsoo Yang
+1410.02001, Diana Prychynenko, Sebastian D. Huber
+1410.00601, Grigory Ovanesyan, Luca Vecchi
+1410.01901, Lu Liu, Xianghui Cao, Yu Cheng, Li Wang
+1410.00401, Kyle E. Niemeyer, Chih-Jen Sung
+1410.00501, Pierluigi Contucci, Cecilia Vernia
+1410.00101, Yiqian Wang, Zhenghe Zhang
+1410.02101, Stefano Salvini, Stefan J. Wijnholds
+1410.01001, Deepam Patel, Tobias Schmidt, Matthias Strauch
+1411.00801, Deepnarayan Biswas, Sangeeta Thakur, Khadiza Ali, Geetha Balakrishnan, Kalobaran Maiti
+1411.01501, Yong-Chull Jang, Hwancheol Jeong, Jangho Kim, Seonghee Kim, Weonjong Lee, Jaehoon Leem, Jeonghwan Pak, Sungwoo Park, Chulwoo Jung, Hyung-Jin Kim, Stephen R. Sharpe, Boram Yoon
+1411.01001, Dan Alistarh, Rati Gelashvili, Adrian Vladu
+1411.01301, I. Jack, C. Poole
+1411.00501, Zsolt Nika, Tamás Szabados
+1411.00701, Ana Russo, Pedro G. Lind, Frank Raischel, Ricardo Trigo, Manuel Mendes
+1411.01901, F. Ditrói, F. Tárkányi, S. Takács, A. Hermanne
+1411.00101, H. Laurentin, A. Ratzinger, P. Karlovsky
+1411.00001, Abhijit Chandra, Oliva Kar, Kuan-Chuen Wu, Michelle Hall, Jason Gillette
+1411.01201, Nuria Carrasco, Paolo Lami, Vittorio Lubicz, Eleonora Picca, Lorenzo Riggio, Silvano Simula, Cecilia Tarantino
+1411.01701, Steffen Borgwardt, Jesús A. De Loera, Elisabeth Finhold, Jacob Miller
+1411.02601, Apratim Ganguly, Radouane Gannouji, Rituparno Goswami, Subharthi Ray
+1411.02301, Hui Tian, Gang Li, Katharine K. Reeves, John C. Raymond, Fan Guo, Wei Liu, Bin Chen, Nicholas A. Murphy
+1411.00301, Oleksandr Misiats, Nung Kwan Yip
+1411.01801, Bruno Clerckx, David Gesbert
+1411.02401, Aakash Ajit Sahai, Thomas C. Katsouleas
+1411.02001, Allan Adams, Nathan Benjamin, Arvin Moghaddam, Wojciech Musial
+1411.00401, Alex Alvarado, Erik Agrell
+1411.02801, Wenhe Cai, Min-xin Huang, Kaiwen Sun
+1411.00601, Gary Allen, Sasikanth Manipatruni, Dmitri E. Nikonov, Mark Doczy, Ian A. Young
+1411.01601, Narges Mortezaei, Chelsea R. Epler, Paul P. Shao, Mariam Shirdel, Bhupender Singh, Annette McVeigh, Bernt Eric Uhlin, Stephen J. Savarino, Magnus Andersson, Esther Bullitt
+1411.02501, V. L. Carvalho-Santos, R. G. Elias, J. M. Fonseca, D. Altbir
+1411.02101, Sergey Mozgovoy, Olivier Schiffmann
+1501.02101, Santanu Das, Sanjit Mitra, Sonu Tabitha Paulson
+1501.00101, Mathew Calkins, D. E. A. Gates, S. James Gates Jr., Kory Stiffler
+1501.00501, John C. Dorelli, Alex Glocer, Glyn Collinson, Gábor Tóth
+1501.02401, Yu. V. Bludov, M. A. García-Ñustes
+1501.03501, Andrew C. Potter, Romain Vasseur, S. A. Parameswaran
+1501.00701, Robert Alicki, David Gelbwaser-Klimovsky, Krzysztof Szczygielski
+1501.02501, J. Y. Bello Cruz, T. T. A. Nghia
+1501.00201, Terence Gaffney, Antoni Rangachev
+1501.02701, K. Pomorski, B. Nerlo-Pomorska, P. Quentin
+1501.03601, Xiaoxiong Zhong, Yang Qin, Li Li
+1501.01501, Chris Schneider, Adam Barker, Simon Dobson
+1501.02801, Jonathan R. Trump, Mouyuan Sun, Gregory R. Zeimann, Cuyler Luck, Joanna S. Bridge, Catherine J. Grier, Alex Hagen, Stephanie Juneau, Antonio Montero-Dorta, David J. Rosario, W. Niel Brandt, Robin Ciardullo, Donald P. Schneider
+1501.01301, Mélanie Jacquel, Karim Berkani, David Delahaye, Catherine Dubois
+1501.03101, S. Pfalzner, M. B. Davies, M. Gounelle, A. Johansen, C. Muenker, P. Lacerda, S. Portegies Zwart, L. Testi, M. Trieloff, D. Veras
+1501.01901, Subil Abraham, Suku Nair
+1501.01101, Guillermo Torres, David M. Kipping, Francois Fressin, Douglas A. Caldwell, Joseph D. Twicken, Sarah Ballard, Natalie M. Batalha, Stephen T. Bryson, David R. Ciardi, Christopher E. Henze, Steve B. Howell, Howard T. Isaacson, Jon M. Jenkins, Philip S. Muirhead, Elisabeth R. Newton, Erik A. Petigura, Thomas Barclay, William J. Borucki, Justin R. Crepp, Mark E. Everett, Elliott P. Horch, Andrew W. Howard, Rea Kolbl, Geoffrey W. Marcy, Sean McCauliff, Elisa V. Quintana
+1501.00801, M. Papa, I. Berceanu, L. Acosta, F. Amorini, C. Agodi, A. Anzalone, L. Auditore, G. Cardella, S. Cavallaro, M. B. Chatterjee, E. De Filippo, L. Francalanza, E. Geraci, L. Grassi, B. Gnoffo, J. Han, E. La Guidara, G. Lanzalone, I. Lombardo, C. Maiolino T. Minniti A. Pagano, E. V. Pagano, S. Pirrone, G. Politi, F. Porto, L. Quattrocchi, F. Rizzo, E. Rosato, P. Russotto, A. Trifirò, M. Trimarchi, G. Verde, and M. Vigilante
+1501.00901, Yubin Deng, Ping Luo, Chen Change Loy, Xiaoou Tang
+1501.01701, Chinwendu Enyioha, Ali Jadbabaie, Victor Preciado, George J. Pappas
+1501.00001, Ali Gorcin, Huseyin Arslan
+1501.03401, François Federspiel, Guillaume Froehlicher, Michel Nasilowski, Silvia Pedetti, Ather Mahmood, Bernard Doudin, Serin Park, Jeong-O Lee, David Halley, Benoît Dubertret, Pierre Gilliot, Stéphane Berciaud
+1501.01801, Haïm Brezis, Petru Mironescu
+1501.01001, Funda Gul, Mahmood Sohrabi, Alexander Ushakov
+1501.03001, Francois Laviolette, Emilie Morvant, Liva Ralaivola, Jean-Francis Roy
+1501.02201, Ali Akbar Jafari, Hojatollah Zakerzadeh
+1501.01601, Karol Makuch, Marco Heinen, Gustavo C. Abade, Gerhard Nägele
+1502.00001, Scott M. Adams, C. S. Kochanek
+1502.00801, Matthew J. West, Daniel B. Seaton
+1502.00301, Elias D. Nino-Ruiz, Adrian Sandu
+1502.00501, Zhujin Liang, Xiaolong Wang, Rui Huang, Liang Lin
+1502.00101, Roman Dovgopol, Matthew Rosonke
+1502.00401, Haibao Duan, Xianzu Lin
+1502.00701, Xin Zhang, Xiao-Fen Qiao, Wei Shi, Jiang-Bin Wu, De-Sheng Jiang, Ping-Heng Tan
+1504.00101, Luca Alloatti, Clemens Kieninger, Andreas Froelich, Matthias Lauermann, Tobias Frenzel, Kira Koehnle, Wolfgang Freude, Juerg Leuthold, Martin Wegener, Christian Koos
+1504.00301, Sylvain Ravets, Henning Labuhn, Daniel Barredo, Thierry Lahaye, Antoine Browaeys
+1504.00501, S. Santhosh Kumar, S. Shankaranarayanan
+1504.00001, S. Biswas, A. Abuhoza, U. Frankenfeld, C. Garabatos, J. Hehner, V. Kleipa, T. Morhardt, C. J. Schmidt, H. R. Schmidt, J. Wiechula
+1504.00201, Michaël Gabay, Alexander Grigoriev, Vincent J. C. Kreuzen, Tim Oosterwijk
+1505.01401, J. J. Gonzalez-Aviles, F. S. Guzman
+1505.01301, Wonyoung Cho, J. J. Fernández-Melgarejo, Imtak Jeon, Jeong-Hyuck Park
+1505.00901, Vicky Fasen, Sebastian Kimmig
+1505.00501, Francisco Caruso, Roberto Moreira Xavier
+1505.01001, Péter Vrana, Máté Farkas
+1505.00201, Ryan Blair, Marion Campisi, Jesse Johnson, Scott A. Taylor, Maggy Tomova
+1505.01101, P. V. S. Souza, Daniel Girardi, P. M. C. de Oliveira
+1505.00701, L. Benussi, S. Bianco, D. Piccolo, G. Saviano, S. Colafranceschi, J. Kjølbro, A. Sharma, D. Yang, G. Chen, Y. Ban, Q. Li
+1505.01501, Bahram Mobasher, Tomas Dahlen, Henry C. Ferguson, Viviana Acquaviva, Guillermo Barro, Steven L. Finkelstein, Adriano Fontana, Ruth Gruetzbauch, Seth Johnson, Yu Lu, Casey J. Papovich, Janine Pforr, Mara Salvato, Rachel S. Somerville, Tommy Wiklind, Stijn Wuyts, Matthew L. N. Ashby, Eric Bell, Christopher J. Conselice, Mark E. Dickinson, Sandra M. Faber, Giovanni Fazio, Kristian Finlator, Audrey Galametz, Eric Gawiser, Mauro Giavalisco, Andrea Grazian, Norman A. Grogin, Yicheng Guo, Nimish Hathi, Dale Kocevski, Anton M. Koekemoer, David C. Koo, Jeffrey A. Newman, Naveen Reddy, Paola Santini, Risa H. Wechsler
+1505.00801, CDF Collaboration, T. Aaltonen, S. Amerio, D. Amidei, A. Anastassov, A. Annovi, J. Antos, G. Apollinari, J. A. Appel, T. Arisawa, A. Artikov, J. Asaadi, W. Ashmanskas, B. Auerbach, A. Aurisano, F. Azfar, W. Badgett, T. Bae, A. Barbaro-Galtieri, V. E. Barnes, B. A. Barnett, P. Barria, P. Bartos, M. Bauce, F. Bedeschi, S. Behari, G. Bellettini, J. Bellinger, D. Benjamin, A. Beretvas, A. Bhatti, K. R. Bland, B. Blumenfeld, A. Bocci, A. Bodek, D. Bortoletto, J. Boudreau, A. Boveia, L. Brigliadori, C. Bromberg, E. Brucken, J. Budagov, H. S. Budd, K. Burkett, G. Busetto, P. Bussey, P. Butti, A. Buzatu, A. Calamba, S. Camarda, M. Campanelli, F. Canelli, B. Carls, D. Carlsmith, R. Carosi, S. Carrillo, B. Casal, M. Casarsa, A. Castro, P. Catastini, D. Cauz, V. Cavaliere, A. Cerri, L. Cerrito, Y. C. Chen, M. Chertok, G. Chiarelli, G. Chlachidze, K. Cho, D. Chokheli, A. Clark, C. Clarke, M. E. Convery, J. Conway, M. Corbo, M. Cordelli, C. A. Cox, D. J. Cox, M. Cremonesi, D. Cruz, J. Cuevas, R. Culbertson, , "N. d, Ascenzo", , M. Datta, P. de Barbaro, L. Demortier, L. Marchese, M. Deninno, F. Devoto, , "M. D, Errico", , A. Di Canto, B. Di Ruzza, J. R. Dittmann, , "M. D, Onofrio", , S. Donati, M. Dorigo, A. Driutti, K. Ebina, R. Edgar, A. Elagin, R. Erbacher, S. Errede, B. Esham, S. Farrington, J. P. Fernández Ramos, R. Field, G. Flanagan, R. Forrest, M. Franklin, J. C. Freeman, H. Frisch, Y. Funakoshi, C. Galloni, A. F. Garfinkel, P. Garosi, H. Gerberich, E. Gerchtein, S. Giagu, V. Giakoumopoulou, K. Gibson, C. M. Ginsburg, N. Giokaris, P. Giromini, V. Glagolev, D. Glenzinski, M. Gold, D. Goldin, A. Golossanov, G. Gomez, G. Gomez-Ceballos, M. Goncharov, O. González López, I. Gorelov, A. T. Goshaw, K. Goulianos, E. Gramellini, C. Grosso-Pilcher, R. C. Group, J. Guimaraes da Costa, S. R. Hahn, J. Y. Han, F. Happacher, K. Hara, M. Hare, R. F. Harr, T. Harrington-Taber, K. Hatakeyama, C. Hays, J. Heinrich, M. Herndon, A. Hocker, Z. Hong, W. Hopkins, S. Hou, R. E. Hughes, U. Husemann, M. Hussein, J. Huston, G. Introzzi, M. Iori, A. Ivanov, E. James, D. Jang, B. Jayatilaka, E. J. Jeon, S. Jindariani, M. Jones, K. K. Joo, S. Y. Jun, T. R. Junk, M. Kambeitz, T. Kamon, P. E. Karchin, A. Kasmi, Y. Kato, W. Ketchum, J. Keung, B. Kilminster, D. H. Kim, H. S. Kim, J. E. Kim, M. J. Kim, S. B. Kim, S. H. Kim, Y. K. Kim, Y. J. Kim, N. Kimura, M. Kirby, K. Knoepfel, K. Kondo, D. J. Kong, J. Konigsberg, A. V. Kotwal, M. Kreps, J. Kroll, M. Kruse, T. Kuhr, M. Kurata, A. T. Laasanen, S. Lammel, M. Lancaster, K. Lannon, G. Latino, H. S. Lee, J. S. Lee, S. Leo, S. Leone, J. D. Lewis, A. Limosani, E. Lipeles, A. Lister, H. Liu, Q. Liu, T. Liu, S. Lockwitz, A. Loginov, A. Lucà, D. Lucchesi, J. Lueck, P. Lujan, P. Lukens, G. Lungu, J. Lys, R. Lysak, R. Madrak, P. Maestro, S. Malik, G. Manca, A. Manousakis-Katsikakis, F. Margaroli, P. Marino, K. Matera, M. E. Mattson, A. Mazzacane, P. Mazzanti, R. McNulty, A. Mehta, P. Mehtala, C. Mesropian, T. Miao, D. Mietlicki, A. Mitra, H. Miyake, S. Moed, N. Moggi, C. S. Moon, R. Moore, M. J. Morello, A. Mukherjee, Th. Muller, P. Murat, M. Mussini, J. Nachtman, Y. Nagai, J. Naganoma, I. Nakano, A. Napier, J. Nett, C. Neu, T. Nigmanov, L. Nodulman, S. Y. Noh, O. Norniella, L. Oakes, S. H. Oh, Y. D. Oh, I. Oksuzian, T. Okusawa, R. Orava, L. Ortolan, C. Pagliarone, E. Palencia, P. Palni, V. Papadimitriou, W. Parker, G. Pauletta, M. Paulini, C. Paus, T. J. Phillips, G. Piacentino, E. Pianori, J. Pilot, K. Pitts, C. Plager, L. Pondrom, S. Poprocki, K. Potamianos, F. Prokoshin, A. Pranko, F. Ptohos, G. Punzi, I. Redondo Fernández, P. Renton, M. Rescigno, F. Rimondi, L. Ristori, A. Robson, T. Rodriguez, S. Rolli, M. Ronzani, R. Roser, J. L. Rosner, F. Ruffini, A. Ruiz, J. Russ, V. Rusu, W. K. Sakumoto, Y. Sakurai, L. Santi, K. Sato, V. Saveliev, A. Savoy-Navarro, P. Schlabach, E. E. Schmidt, T. Schwarz, L. Scodellaro, F. Scuri, S. Seidel, Y. Seiya, A. Semenov, F. Sforza, S. Z. Shalhout, T. Shears, P. F. Shepard, M. Shimojima, M. Shochet, I. Shreyber-Tecker, A. Simonenko, K. Sliwa, J. R. Smith, F. D. Snider, V. Sorin, H. Song, M. Stancari, R. St. Denis, D. Stentz, J. Strologas, Y. Sudo, A. Sukhanov, I. Suslov, K. Takemasa, Y. Takeuchi, J. Tang, M. Tecchio, P. K. Teng, J. Thom, E. Thomson, V. Thukral, D. Toback, S. Tokar, K. Tollefson, T. Tomura, D. Tonelli, S. Torre, D. Torretta, P. Totaro, M. Trovato, F. Ukegawa, S. Uozumi, F. Vázquez, G. Velev, C. Vellidis, C. Vernieri, M. Vidal, R. Vilar, J. Vizán, M. Vogel, G. Volpi, P. Wagner, R. Wallny, S. M. Wang, D. Waters, W. C. Wester III, D. Whiteson, A. B. Wicklund, S. Wilbur, H. H. Williams, J. S. Wilson, P. Wilson, B. L. Winer, P. Wittich, S. Wolbers, H. Wolfe, T. Wright, X. Wu, Z. Wu, K. Yamamoto, D. Yamato, T. Yang, U. K. Yang, Y. C. Yang, W. -M. Yao, G. P. Yeh, K. Yi, J. Yoh, K. Yorita, T. Yoshida, G. B. Yu, I. Yu, A. M. Zanetti, Y. Zeng, C. Zhou, S. Zucchelli
+1505.00601, M. Först, A. D. Caviglia, R. Scherwitzl, R. Mankowsky, P. Zubko, V. Khanna, H. Bromberger, S. B. Wilkins, Y. -D. Chuang, W. S. Lee, W. F. Schlotter, J. J. Turner, G. L. Dakovski, M. P. Minitti, J. Robinson, S. R. Clark, D. Jaksch, J. -M. Triscone, J. P. Hill, S. S. Dhesi, A. Cavalleri
+1505.00301, Paola C. Obando, Fagner M. Paula, Marcelo S. Sarandy
+1506.00301, Travis Wolfe, Mark Dredze, James Mayfield, Paul McNamee, Craig Harman, Tim Finin, Benjamin Van Durme
+1506.00901, Juan Pedro Cascales, David Herranz, Ursula Ebels, Jordan Katine, Farkhad G. Aliev
+1506.00001, Zhigang Lu, Hong Shen
+1506.00501, J. P. L. Faye, S. R. Hassan, D. Sénéchal
+1506.00801, M. V. Ivanov, G. D. Megias, R. Gonzalez-Jimenez, O. Moreno, M. B. Barbaro, J. A. Caballero, T. W. Donnelly
+1506.00101, Piotr Chruściel, Romain Gicquaud
+1506.00701, Thomas Führer, Norbert Heuer
+1506.00401, Atanu Patra, Jaya Kumar Panda, Anushree Roy, Mauro Gemmi, Jérémy David, Daniele Ercolani, Lucia Sorba
+1506.00601, Aditi Agarwal, Alok C. Gupta, R. Bachev, A. Strigachev, E. Semkov, Paul J. Wiita, M. Bottcher, S. Boeva, H. Gaur, M. F. Gu, S. Peneva, S. Ibryamov, U. S. Pandey
+1507.01301, Yana Ding, Jiankui Li
+1507.00301, Paul S. Aspinwall, M. Ronen Plesser
+1507.00101, Huei-Fang Yang, Kevin Lin, Chu-Song Chen
+1507.00401, Pramod N. Achar, Anthony Henderson, Daniel Juteau, Simon Riche
+1507.00801, Y. Tsue, J. da Providencia, C. Providencia, M. Yamamura, H. Bohr
+1507.01501, Joseph Y. Halpern, Rafael Pass, Daniel Reichman
+1507.01101, Pan Lai, Rui Fan, Wei Zhang, Fang Liu
+1507.01401, Clément Stahl, Eckhard Strobel
+1507.00701, Abhishek K. Gupta, Xinchen Zhang, Jeffrey G. Andrews
+1507.01601, Peisi Huang, Ahmed Ismail, Ian Low, Carlos E. M. Wagner
+1507.01801, E. Lhotel, S. Petit, S. Guitteny, O. Florea, M. Ciomaga Hatnean, C. Colin, E. Ressouche, M. R. Lees, G. Balakrishnan
+1507.00001, M. Qin, H. Z Shen, X. X. Yi
+1507.01901, Diego Aparicio, Daniel Fraiman
+1507.01001, Bhaskar Dutta, Alfredo Gurrola, Kenichi Hatakeyama, Will Johns, Teruki Kamon, Paul Sheldon, Kuver Sinha, Sean Wu, Zhenbin Wu
+1507.00201, Antoine Deleforge, Sharon Gannot, Walter Kellermann
+1507.00501, André Ferrari, David Mary, Rémi Flamary, Cédric Richard
+1509.00501, James M. Chappell, Azhar Iqbal, John G. Hartnett, Derek Abbott
+1509.00801, Samuel V. Scarpino, Antoine Allard, Laurent Hebert-Dufresne
+1509.01301, Joergen Bang-Jensen, J. Huang, Xuding Zhu
+1509.01001, Ren Yi-Chong, Fan Hong-Yi
+1509.01101, A. Grazian, E. Giallongo, R. Gerbasi, F. Fiore, A. Fontana, O. Le Fevre, L. Pentericci, E. Vanzella, G. Zamorani, P. Cassata, B. Garilli, V. Le Brun, D. Maccagni, L. A. M. Tasca, R. Thomas, E. Zucca, R. Amorin, S. Bardelli, , "L. P. Cassara, ", , M. Castellano, A. Cimatti, O. Cucciati, A. Durkalec, M. Giavalisco, N. P. Hathi, O. Ilbert, B. C. Lemaux, S. Paltani, B. Ribeiro, D. Schaerer, M. Scodeggio, V. Sommariva, M. Talia, L. Tresse, D. Vergani, A. Bonchi, K. Boutsia, P. Capak, S. Charlot, T. Contini, S. de la Torre, J. Dunlop, S. Fotopoulou, L. Guaita, A. Koekemoer, C. Lopez-Sanjuan, Y. Mellier, E. Merlin, D. Paris, J. Pforr, S. Pilo, P. Santini, N. Scoville, Y. Taniguchi, P. W. Wang
+1509.00101, Kingshuk Majumdar, S. D. Mahanti
+1509.00701, Alexei Borodin, Ivan Corwin, Daniel Remenik
+1509.00901, Ryan Morrow, Jennifer R. Soliz, Adam J. Hauser, James C. Gallagher, Michael A. Susner, Michael D. Sumption, Adam A. Aczel, Jiaqiang Yan, Fengyuan Yang, Patrick M. Woodward
+1509.00201, P. Sarkis, C. Nehme
+1509.01201, Avery Archer, for the VERITAS Collaboration
+1509.00401, Debabrata Deb, Sourav Roy Chowdhury, Saibal Ray, Farook Rahaman
+1510.00201, Serge Richard, Rafael Tiedra de Aldecoa
+1510.00301, Filip Hejda, Jiří Bičák
+1510.00401, M. Neri, A. Martinez, C. Juarez-Leon, J. J. Torres, Ruben Flores-Mendieta
+1510.00601, Song Bin Zhang, Nina Rohringer
+1511.00401, Richard Dodson, Kevin Vinsen, Chen Wu, Attila Popping, Martin Meyer, Andreas Wicenec, Peter Quinn, Jacqueline van Gorkom, Emmanuel Momjian
+1511.00101, Sulona Kandhai, Peter K. S. Dunsby
+1511.01301, Sergei Kamerdzhiev, Oleg Achakovskiy, Alexander Avdeenkov, Stephane Goriely
+1511.00901, A. Parikh, A. M. Laird, N. de Séréville, K. Wimmer, T. Faestermann, R. Hertenberger, D. Seiler, H. -F. Wirth, P. Adsley, B. R. Fulton, F. Hammache, J. Kiener, I. Stefan
+1511.00801, Martin Beneke, Andreas Maier, Jan Piclum, Thomas Rauh
+1511.00701, Christopher J. Fewster, Benito A. Juárez-Aubry, Jorma Louko
+1511.00201, Wenshu Zhou, Xulong Qin, Chengyuan Qu
+1511.01101, Daniele Barducci, Cédric Delaunay
+1511.01501, A. Honecker, S. Wessel, R. Kerkdyk, T. Pruschke, F. Mila, B. Normand
+1511.01001, Esfandiar Rajaei, Mahdi Ahmadi Borji
+1511.00301, Joshua Stenzel, Johannes Kroll, Minjie Lei, Roland E. Allen
+1511.00001, Dong Xie, Chunling Xu, Anmin Wang
+1511.00601, Andrew Booker, Tim Browning
+1512.00301, A. Rappoldi, F. Lucarelli, C. Pittori, F. Longo, P. W. Cattaneo, F. Verrecchia, M. Tavani, A. Bulgarelli, A. W. Chen, S. Colafrancesco, I. Donnarumma, A. Giuliani, A. Morselli, S. Sabatini, S. Vercellone
+1512.00101, Miao Yu, Shuhan Shen, Zhanyi Hu
+1512.00201, Saffija Kasem-Madani, Michael Meier
+1512.00801, J. W. Britton, B. C. Sawyer, J. G. Bohnet, H. Uys, M. J. Biercuk, J. J. Bollinger
+1512.00901, Mingrui Yang, Frank de Hoog, Yuqi Fan, Wen Hu
+1512.01001, F. Cajiao Vélez, K. Krajewska, J. Z. Kamiński
+1601.00001, Michael Kilgour, Dvira Segal
+1601.00201, Janice C. Lee, Sylvain Veilleux, Michael McDonald, Bryan Hilbert
+1601.00101, Spencer Dowdall, Samuel J. Taylor
+1602.00101, Anupam Chattopadhyay, Anubhab Baksi
+1602.00201, Reihane Zoghifard, Massoud Pourmahdian
+1602.00301, Anna Kostianko, Sergey Zelik
+1602.00001, Pavel Dourbal, Mikhail Pekker
+1602.00701, F. M. Maccagni, F. Santoro, R. Morganti, T. A. Oosterloo, J. B. R. Oonk, B. H. C. Emonts
+1602.00501, Carla Distefano, for the ANTARES, KM3NeT Collaborations
+1602.00401, Shawn X Cui, Zhengfeng Ji, Nengkun Yu, Bei Zeng
+1603.01501, Cao Wang, Zhi-Cheng Wang, Yu-Xue Mei, Yu-Ke Li, Lin Li, Zhang-Tu Tang, Yi Liu, Pan Zhang, Hui-Fei Zhai, Zhu-An Xu, Guang-Han Cao
+1603.01001, Peng Liu, Yanling Meng, Jinyin Wan, Xiumei Wang, Yaning Wang, Ling Xiao, Huadong Cheng, Liang Liu
+1603.00201, William Hedley Thompson, Peter Fransson
+1603.00401, Fedor Bogomolov, Hang Fu
+1603.00901, R. Chisnell, J. S. Helton, D. E. Freedman, D. K. Singh, F. Demmel, C. Stock, D. G. Nocera, Y. S. Lee
+1603.00701, T. Rauch, P. Quinet, D. Hoyer, K. Werner, P. Richter, J. W. Kruk, M. Demleitner
+1603.01301, Elisabeth R. Shanblatt, Christina L. Porter, Dennis F. Gardner, Giulia F. Mancini, Robert M. Karl Jr., Michael D. Tanksalvala, Charles S. Bevis, Victor H. Vartanian, Henry C. Kapteyn, Daniel E. Adams, Margaret M. Murnane
+1603.00101, Yi Zheng, Yong-Seon Song
+1603.00501, Luis Lehner, Steven L. Liebling, Carlos Palenzuela, O. L. Caballero, , "Evan O, Connor", , Matthew Anderson, David Neilsen
+1603.01201, L. Albino Fernandez-Rangel, A. Bashir, L. X. Gutierrez-Guerrero, Y. Concha-Sanchez
+1603.01101, Lasha Ephremidze, Eugene Shargorodsky, Ilya Spitkovsky
+1603.00301, P. Haldar, M. S. Laad, S. R. Hassan
+1603.00801, Lydia Moser, Álvaro Sánchez-Monge, Andreas Eckart, Miguel Angel Requena-Torres, Macarena García-Marin, Devaky Kunneriath, Anton Zensus, Silke Britzen, Nadeen Sabha, Banafsheh Shahzamanian, Abhijeet Borkar, Sebastian Fischer
+1603.01401, Dario Hügel, Philipp Werner, Lode Pollet, Hugo U. R. Strand
+1605.01301, Masoud Nosrati, Abdolah Chalechale, Ronak Karimi
+1605.01501, Sudarshan Mukherjee, Saif Khan Mohammed
+1605.00001, Jerome K. Percus, Ora E. Percus
+1605.00201, Tianxiang Liu, Ting Kei Pong
+1605.01701, Brian Lebiednik, Aman Mangal, Niharika Tiwari
+1605.00601, Brian Swenson, Ceyhun Eksin, Soummya Kar, Alejandro Ribeiro
+1605.00701, K. E. Heintz, J. P. U. Fynbo, P. Møller, B. Milvang-Jensen, J. Zabl, N. Maddox, J. -K. Krogager, S. Geier, M. Vestergaard, P. Noterdaeme, C. Ledoux
+1605.02101, Mubarak Alqahtani, Mohammad Nopoush, Michael Strickland
+1605.00101, Marco Giordani, Marco Mezzavilla, Nicolas Barati, Sundeep Rangan, Michele Zorzi
+1605.01201, Konstantinos Samdanis, Xavier Costa-Perez, Vincenzo Sciancalepore
+1605.00901, René van Bevern, Robert Bredereck, Laurent Bulteau, Christian Komusiewicz, Nimrod Talmon, Gerhard J. Woeginger
+1605.01801, Ildoo Kim, Kyeong-Hun Kim, Sungbin Lim
+1605.02001, Metod Saniga, Frederic Holweck, Petr Pracna
+1605.01101, Avisek Lahiri, Sourya Roy, Anirban Santara, Pabitra Mitra, Prabir Kumar Biswas
+1605.00401, R. Gyuráki, A. Godfrin, A. Jung, A. Kario, R. Nast, E. Demenčik, W. Goldacker, F. Grilli
+1605.01601, G. Turemen, A. Alacakir, Y. Akgun, S. Bolukdemir, I. Kilic, B. Yasatekin, H. Yildiz, G. Unel
+1605.01901, Sonja Filiposka, Andrej Gajduk, Tamara Dimitrova, Ljupco Kocarev
+1605.01001, Andrés. A. Plazas, Charles A. Shapiro, Arun Kannawadi, Rachel Mandelbaum, Jason D. Rhodes, Roger Smith
+1606.02501, Petar Kostić, Branislav Vukotić, Dejan Urošević, Bojan Arbutina, Tijana Prodanović
+1606.03401, Audrūnas Gruslys, Remi Munos, Ivo Danihelka, Marc Lanctot, Alex Graves
+1606.01701, Guanhao Feng, Nicholas G. Polson
+1606.02101, Keiichi Fukaya, J. Andrew Royle, Takehiro Okuda, Masahiro Nakaoka, Takashi Noda
+1606.01601, Jiaping Zhao, Laurent Itti
+1606.02901, James P. Connolly, Keith W. J. Barnham, Jenny Nelson, Christine Roberts, Malcolm Pate, John S. Roberts
+1606.01901, Adel Bilal, Laetitia Leduc
+1606.02301, Michael Kopp, Cora Uhlemann, Ixandra Achitouv
+1606.03001, Michael Röckner, Weina Wu, Yingchao Xie
+1606.00101, Hallel I. Schreier, Yoav Soen, Naama Brenner
+1606.00501, X. Chen, V. Mishra, S. Maiti, P. J. Hirschfeld
+1606.00901, Shuai Huang, Trac D. Tran
+1606.01401, Alexander J. Stewart, Todd L. Parsons, Joshua B. Plotkin
+1606.00201, Marko Röder, Tatsuya Adachi, Yulia Aksyutina, Juan Alcantara, Sebastian Altstadt, Hector Alvarez-Pol, Nicholas Ashwood, Leyla Atar, Thomas Aumann, Vladimir Avdeichikov, M. Barr, Saul Beceiro, Daniel Bemmerer, Jose Benlliure, Carlos Bertulani, Konstanze Boretzky, Maria J. G. Borge, G. Burgunder, Manuel Caamano, Christoph Caesar, Enrique Casarejos, Wilton Catford, Joakim Cederkall, S. Chakraborty, Marielle Chartier, Leonid Chulkov, Dolores Cortina-Gil, Raquel Crespo, Ushasi Datta Pramanik, Paloma Diaz-Fernandez, Iris Dillmann, Zoltan Elekes, Joachim Enders, Olga Ershova, A. Estrade, F. Farinon, Luis M. Fraile, Martin Freer, M. Freudenberger, Hans Fynbo, Daniel Galaviz, Hans Geissel, Roman Gernhäuser, Kathrin Göbel, Pavel Golubev, Diego Gonzalez Diaz, Julius Hagdahl, Tanja Heftrich, Michael Heil, Marcel Heine, Andreas Heinz, Ana Henriques, Matthias Holl, G. Ickert, Alexander Ignatov, Bo Jakobsson, Hakan Johansson, Björn Jonson, Nasser Kalantar-Nayestanaki, Rituparna Kanungo, Aleksandra Kelic-Heil, Ronja Knöbel, Thorsten Kröll, Reiner Krücken, J. Kurcewicz, Nikolaus Kurz, Marc Labiche, Christoph Langer, Tudi Le Bleis, Roy Lemmon, Olga Lepyoshkina, Simon Lindberg, Jorge Machado, Justyna Marganiec, Magdalena Mostazo Caro, Alina Movsesyan, Mohammad Ali Najafi, Thomas Nilsson, Chiara Nociforo, Valerii Panin, Stefanos Paschalis, Angel Perea, Marina Petri, S. Pietri, Ralf Plag, A. Prochazka, Md. Anisur Rahaman, Ganna Rastrepina, Rene Reifarth, Guillermo Ribeiro, M. Valentina Ricciardi, Catherine Rigollet, Karsten Riisager, Dominic Rossi, Jose Sanchez del Rio Saez, Deniz Savran, Heiko Scheit, Haik Simon, Olivier Sorlin, V. Stoica, Branislav Streicher, Jon Taylor, Olof Tengblad, Satoru Terashima, Ronja Thies, Yasuhiro Togano, Ethan Uberseder, J. Van de Walle, Paulo Velho, Vasily Volkov, Andreas Wagner, Felix Wamers, Helmut Weick, Mario Weigand, Carl Wheldon, G. Wilson, Christine Wimmer, J. S. Winfield, Philip Woods, Dmitry Yakorev, Mikhail Zhukov, Andreas Zilges, Kai Zuber
+1606.02701, Christopher M. Johns-Krull, Lisa Prato, Jacob N. McLane, David R. Ciardi, Julian C. van Eyken, Wei Chen, John R. Stauffer, Charles A. Beichman, Sarah A. Frazier, Andrew F. Boden, Maria Morales-Calderon, Luisa M. Rebull
+1606.01801, Philipp Roser, Antony Valentini
+1606.01501, O. Svitek, T. Tahamtan
+1606.02201, R. Barbieri, C. Braggio, G. Carugno, C. S. Gallo, A. Lombardi, A. Ortolan, R. Pengo, G. Ruoso, C. C. Speake
+1606.00301, Olaf Stenull, C. L. Kane, T. C. Lubensky
+1606.02801, Patrick E. McSharry, Edmund J. Crampin
+1606.03301, Miguel Ángel Barja, Rita Pardini, Lidia Stoppino
+1606.03201, Qingxia Mu, Xinyu Zhao, Ting Yu
+1606.02401, Soumendu Sundar Mukherjee, Purnamrita Sarkar, Lizhen Lin
+1606.02001, Maxim Goryachev, Michael E. Tobar
+1606.01201, Svetozar A. Zhekov, Toma Tomov
+1606.01301, Matthias Niethammer, Matthias Widmann, Sang-Yun Lee, Pontus Stenberg, Olof Kordina, Takeshi Ohshima, Nguyen Tien Son, Erik Janzén, Jörg Wrachtrup
+1606.02601, Kris Cao, Marek Rei
+1606.00601, Chun Liu, Andreas Kroll
+1606.01001, Alexander Hagg, Frederik Hegger, Paul Plöger
+1607.00001, M. Chen, V. W. Scarola
+1607.00301, Thomas Führer, Norbert Heuer, Jhuma Sen Gupta
+1607.00501, Le Dong, Na Lv, Qianni Zhang, Shanshan Xie, Ling He, Mengdie Mao
+1607.00201, Katsuhiro Nakamura, Doniyor Babajanov, Davron Matrasulov, Michikazu Kobayashi, Paulsamy Muruganandam
+1608.00201, Ruifeng Liu, Feiran Wang, Dongxu Chen, Yunlong Wang, Yu Zhou, Hong Gao, Pei Zhang, Fuli Li
+1608.00101, Kishore Thapliyal, Rishi Dutt Sharma, Anirban Pathak
+1608.00001, Andrea Passamonti, Taner Akgün, José A. Pons, Juan A. Miralles
+1609.00301, Yan-Chuan Cai, Mark Neyrinck, Qingqing Mao, John A. Peacock, Istvan Szapudi, Andreas A. Berlind
+1609.00701, Daria Krasnozhon, Subhojit Dutta, Clemens Nyffeler, Yusuf Leblebici, Andras Kis
+1609.01501, Veljko Janković, Nenad Vukmirović
+1609.00401, Baleegh Abdo, Jose M. Chavez-Garcia, Markus Brink, George Keefe, Jerry M. Chow
+1609.01101, Yang Chen, Zhong-Yi Wang, Lan Huang
+1609.00801, Bin Chen, Jie-qiang Wu, Jia-ju Zhang
+1609.00201, B. Fak, M. Enderle, G. Lapertot
+1609.00901, Zheng Cao, Alejandro Cardenas-Avendano, Menglei Zhou, Cosimo Bambi, Carlos A. R. Herdeiro, Eugen Radu
+1609.00501, Maximilian Kruss, Tunahan Demirci, Marc Koester, Thorben Kelling, Gerhard Wurm
+1609.00101, Enrique Paillas, Claudia D. P. Lagos, Nelson Padilla, Patricia Tissera, John Helly, Matthieu Schaller
+1609.02801, S. K. J. Pacif, R. Myrzakulov, S. Myrzakul
+1609.02701, Hiroshi Imada, Kuniyuki Miwa, Miyabi Imai-Imada, Shota Kawahara, Kensuke Kimura, Yousoo Kim
+1609.02401, D. Vanbeveren, N. Mennekens
+1609.01701, Chi-Ting Chiang, Yin Li, Wayne Hu, Marilena LoVerde
+1609.01001, József Balogh, Béla Bollobás, Bhargav Narayanan
+1609.02201, R. E. Molina, H. Rivera
+1609.02101, T. V. Yuryeva, I. B. Afanasyev, E. A. Morozova, I. F. Kadikova, V. S. Popov, V. A. Yuryev
+1609.01301, Alejandro Benítez-Llambay, Julio F. Navarro, Carlos S. Frenk, Till Sawala, Kyle Oman, Azadeh Fattahi, Matthieu Schaller, Joop Schaye, Robert A. Crain, Tom Theuns
+1609.01201, S. Zuluaga, E. M. A. Fuentes-Fernandez, K. Tan, C. A. Arter, J. Li, I. J. Chabal, T. Thonhauser
+1609.01401, Anna Hasenfratz, Claudio Rebbi, Oliver Witzel
+1609.00001, Igor V. Ovchinnikov, Wenyuan Li, Yuquan Sun, Robert N. Schwartz, Andrew E. Hudson, Karlheinz Meier, Kang L. Wang
+1609.02001, Da Chen, Wenbin Li, Peter Hall
+1609.02601, Akshay Bhatnagar, Anupam Gupta, Dhrubaditya Mitra, Rahul Pandit, Prasad Perlekar
+1609.02501, Yawen Guan, Murali Haran
+1609.01801, Wei-Tian Deng, Xu-Guang Huang
+1609.01601, Jim Pitman, Yuri Yakubovich
+1610.00001, Shiba R. Paital, Prakash K. Ray, Asit Mohanty, Sandipan Patra, Harishchandra Dubey
+1610.00101, Laura Foini, Andrea Gambassi, Robert Konik, Leticia F. Cugliandolo
+1611.00801, Mingbin Xu, Hui Jiang
+1611.00701, Sampurn Anand, Abhishek Atreya, Jitesh R. Bhatt
+1611.00401, David De Frutos Escrig, Jeroen J. A. Keiren, Tim A. C. Willemse
+1611.00301, "Timothy J O, Shea", , T. Charles Clancy, Robert W. McGwier
+1611.00001, Syed Masood, Mir Faizal, Zaid Zaz, Ahmed Farag Ali, Jamil Raza, Mushtaq B Shah
+1611.00601, Sheng Zhang, Rachel Rudinger, Kevin Duh, Benjamin Van Durme
+1612.00601, Izak Broere, Johannes Heidema
+1612.01201, J. Gramich, A. Baumgartner, C. Schönenberger
+1612.00201, Alessio Quaglino, Rolf Krause
+1612.00001, Iria C. S. Cosme, Isaac F. Fernandes, João L. de Carvalho, Samuel Xavier-de-Souza
+1612.01101, Dezi Liu, Jinyi Yang, Shuo Yuan, Xue-bing Wu, Zuhui Fan, Huanyuan Shan, Haojing Yan, Xianzhong Zheng
+1612.00101, Angela Dai, Charles Ruizhongtai Qi, Matthias Nießner
+1612.00901, Mark Yatskar, Vicente Ordonez, Luke Zettlemoyer, Ali Farhadi
+1612.01401, Qinglong Wang, Wenbo Guo, Kaixuan Zhang, Alexander G. Ororbia II, Xinyu Xing, Xue Liu, C. Lee Giles
+1612.00701, Muhammad F A R Sakti, Philin Y D Sagita, A Suroso, Freddy P Zen
+1612.00401, Ion Nechita, Zbigniew Puchała, Łukasz Pawela, Karol Życzkowski
+1612.01301, Boumediene Abdellaoui, Ahmed Attar, Rachid Bentifour, Ireneo Peral
+1612.01601, David Stutz, Alexander Hermans, Bastian Leibe
+1612.01501, Georgios Smaragdos, Georgios Chatzikonstantis, Rahul Kukreja, Harry Sidiropoulos, Dimitrios Rodopoulos, Ioannis Sourdis, Zaid Al-Ars, Christoforos Kachris, Dimitrios Soudris, Chris I. De Zeeuw, Christos Strydis
+1612.00501, Sangwook Park, Jayant Bhalerao
+1612.01901, Shufan Wang, Mariam Avagyan, Per Sebastian Skardal
+1612.02001, Mariska Kriek, Charlie Conroy, Pieter G. van Dokkum, Alice E. Shapley, Jieun Choi, Naveen A. Reddy, Brian Siana, Freeke van de Voort, Alison L. Coil, Bahram Mobasher
+1612.02101, Qinbin Hou, Puneet Kumar Dokania, Daniela Massiceti, Yunchao Wei, Ming-Ming Cheng, Philip Torr
+1612.01801, Zhibing He, Yichen Qin, Ben-Chang Shia, Yang Li
+1612.00801, Shankar Bhamidi, Amarjit Budhiraja, Ruoyu Wu
+1612.00301, Parinya Karndumri, Jan Louis
+1612.02201, Adel Alahmadi, Hamed Alsulami
+1701.00401, Yassine Maleh, Abdellah Ezzati
+1701.00701, Juan P. Farias, Jonathan C. Tan, Sourav Chatterjee
+1701.00201, Matthew Davidow, B. Shayak, Richard H. Rand
+1701.00301, J. Ramirez-Hernandez, F. M. Izrailev, N. M. Makarov
+1701.00101, Christophe Cuny, Tanja Eisner, Bálint Farkas
+1702.00101, Elisabeth A. Karuza, Ari E. Kahn, Sharon L. Thompson-Schill, Danielle S. Bassett
+1702.00201, Khaled Bahlali, Meriem Mezerdi, Brahim Mezerdi
+1702.00001, Emilie Kaufmann, Aurélien Garivier
+1703.00201, Ilya M. Spitkovsky, Stephan Weis
+1703.00001, Jeff Jennings, Samuel Halverson, Ryan Terrien, Suvrath Mahadevan, Gabriel Ycas, Scott A. Diddams
+1703.00401, Konstantin A. Kouzakov, Alexander I. Studenikin
+1703.00501, Davide Gaiotto, Anton Kapustin, Zohar Komargodski, Nathan Seiberg
+1704.00001, A. Piccolroaz, A. B. Movchan, L. Cabras
+1705.00101, Markus Heydenreich, Christian Hirsch, Daniel Valesin
+1705.00001, Don Bunk, Jay Hubisz, Bithika Jain
+1705.00301, Marei Algarni, Ganesh Sundaramoorthi
+1705.00201, Hengjia Wang, Doyl Dickel, Murray S. Daw
+1706.00001, Joseph Bramante, Tim Linden, Yu-Dai Tsai
+1706.00101, Li Tang, Aditya Ramamoorthy
+1706.00501, Jinrong Wu, Li-Heng Cai, David A. Weitz
+1706.00201, David Loeffler, Chris Skinner, Sarah Livia Zerbes
+1706.00601, D. A. Kann, P. Schady, F. Olivares E., S. Klose, A. Rossi, D. A. Perley, B. Zhang, T. Krühler, J. Greiner, A. Nicuesa Guelbenzu, J. Elliott, F. Knust, Z. Cano, R. Filgas, E. Pian, P. Mazzali, J. P. U. Fynbo, G. Leloudas, P. M. J. Afonso, C. Delvaux, J. F. Graham, A. Rau, S. Schmidl, S. Schulze, M. Tanga, A. C. Updike, K. Varela
+1706.00401, Eduard I. Vorobyov, Yaroslav N. Pavlyuchenkov
+1707.01001, Martin Dindoš, Luke Dyer
+1707.01701, Stephan Kreutzer, Patrice Ossona de Mendez, Roman Rabinovich, Sebastian Siebertz
+1707.02001, Zhedong Zhang, Hongchen Fu, Jin Wang
+1707.01401, Saeed Osat, Ali Faqeeh, Filippo Radicchi
+1707.03001, Rong-Gen Cai, Misao Sasaki, Shao-Jiang Wang
+1707.00301, Mattia C. Sormani, Emanuele Sobacchi, Steven N. Shore, Robin G. Tress, Ralf S. Klessen
+1707.00701, Ara N. Ioannisian, Narine Kazarian, Alexander J. Millar, Georg G. Raffelt
+1707.01801, Michael Kraus, Eero Hirvijoki
+1707.00601, Huiquan Wang, Jie Zhou, Junjie Wu, Xun Yi
+1707.01101, Nicholas Kruczek, Kevin France, William Evonosky, R. O. Parke Loyd, Allison Youngblood, Aki Roberge, Robert A. Wittenmyer, John T. Stocke, Brian Fleming, Keri Hoadley
+1707.00201, Ziteng Wang, Emmanuel Vincent, Romain Serizel, Yonghong Yan
+1707.02301, Gunther Witzel, Breann. N. Sitarski, Andrea M. Ghez, Mark R. Morris, Aurelien Hees, Tuan Do, Jessica R. Lu, Smadar Naoz, Anna Boehle, Greg Martinez, Samantha Chappell, Rainer Schödel, Leo Meyer, Sylvana Yelda, Ereic E. Becklin, Keith Matthews
+1707.02101, Olivier Bodini, Bernhard Gittenberger, Zbigniew Gołębiewski
+1707.02201, Josh Merel, Yuval Tassa, Dhruva TB, Sriram Srinivasan, Jay Lemmon, Ziyu Wang, Greg Wayne, Nicolas Heess
+1707.00401, Aiping Deng, Alexander Kelmans
+1707.02901, Goutham R. Adelli, Sai Prachetan Balguri, Prakash Bhagav, Vijayasankar Raman, Soumyajit Majumdar
+1707.00101, Volker Diekert, Lukas Fleischer
+1707.00001, Li Xu, Jin Wang
+1707.01301, Gayaz Khakimzyanov, Denys Dutykh, Oleg Gusev, Nina Shokina, Arxiv Org, / Hal
+1707.00501, Gennady Lyubeznik, Tuğba Yıldırım
+1707.01501, Felipe O. Alves, Josep M. Girart, Paola Caselli, Gabriel A. P. Franco, Bo Zhao, Wouter H. T. Vlemmings, Marc G. Evans, Luca Ricci
+1707.01901, Justin P. Coon, Carl P. Dettmann, Orestis Georgiou
+1708.00001, Lorenz Hilfiker, Ingo Runkel
+1708.00101, The MOSCAB Collaboration, A. Antonicci, M. Ardid, R. Bertoni, G. Bruno, N. Burgio, G. Caruso, D. Cattaneo, F. Chignoli, M. Clemenza, M. Corcione, L. Cretara, D. Cudy, I. Felis, M. Frullini, W. Fulgione, G. Lucchini, L. Manara, M. Maspero, A. Papagni, M. Perego, R. Podviyanuk, A. Pullia, A. Quintino, N. Redaelli, E. Ricci, A. Santagata, D. Sorrenti, L. Zanotti
+1708.00201, Ting-Chi Huang, Tomotsugu Goto, Tetsuya Hashimoto, Nagisa Oi, Hideo Matsuhara
+1708.00301, O. Contigiani, F. de Gasperin, G. K. Miley, L. Rudnick, H. Andernach, J. K. Banfield, A. D. Kapińska, S. S. Shabala, O. I. Wong
+1709.00601, Kassie Archer, Christina Graves
+1709.00501, Kyle Marple, Elmer Salazar, Gopal Gupta
+1709.01101, Ryo Okugawa, Takehito Yokoyama
+1709.00901, Jukka Kohonen, Janne H. Korhonen, Christopher Purcell, Jukka Suomela, Przemysław Uznański
+1709.01001, Qinghai Jiang, Kai Wu, Yu Sun, Xin Xie, Zhengyu Yang
+1709.00001, Arthur van Goethem, Irina Kostitsyna, Marc van Kreveld, Wouter Meulemans, Max Sondag, Jules Wulms
+1709.00201, Ruirui Li, Wenjie Liu, Lei Yang, Shihao Sun, Wei Hu, Fan Zhang, Wei Li
+1709.00101, Wayne H. Schubert, Christopher J. Slocum, Richard K. Taft
+1709.00301, Joseph Dufouleur, Emmanouil Xypakis, Bernd Büchner, Romain Giraud, Jens H. Bardarson
+1710.00001, Gavin A. Whitaker, Ricardo Silva, Daniel Edwards
+1710.00101, Navid Emamdoost, Mohammad Sadeq Dousti, Rasool Jalili
+1711.00501, Rong Ge, Jason D. Lee, Tengyu Ma
+1711.00101, Anru Zhang, Kehui Chen
+1711.01401, Ananda G. Maity, Shounak Datta, A. S. Majumdar
+1711.01501, Luiz F. O. Chamon, Alejandro Ribeiro
+1711.00901, Richard R. Grote, Tzu-Yung Huang, Sander A. Mann, David A. Hopper, Annemarie L. Exarhos, Gerald G. Lopez, Erik C. Garnett, Lee C. Bassett
+1711.01701, Wei Li, Zheng Yang
+1711.00001, Haoze Wu, Yangyu Zhou
+1711.01201, Dillon Graham, Seyed Hamed Fatemi Langroudi, Christopher Kanan, Dhireesha Kudithipudi
+1711.00601, Thiago A. de Assis, , "Fernando F. Dall, Agnol"
+1711.01001, Xi Chen, Shi-Ju Ran, Tao Liu, Cheng Peng, Yi-Zhen Huang, Gang Su
+1711.00701, Giuseppe G. Calvi, Ilia Kisil, Danilo P. Mandic
+1711.00201, Edith Hemaspaandra, Lane A. Hemaspaandra
+1711.01101, Jian Li, Piotr Oprocha, Yini Yang, Tiaoying Zeng
+1711.00301, Congwen Liu, Jiajia Si, Pengyan Hu
+1711.00801, Vladimir Gaitsgory, Alex Parkinson, Ilya Shvartsman
+1711.01301, Yiling You, Jose Israel Rodriguez, Lek-Heng Lim
+1711.01801, Arnab Chaudhuri, Alexander Dolgov
+1711.01601, Valentin Walther, Robert Johne, Thomas Pohl
+1711.00401, Erik Andreas Martens, Konstantin Klemm
+1712.00201, Zhuotun Zhu, Yingda Xia, Wei Shen, Elliot K. Fishman, Alan L. Yuille
+1712.00101, Kaelyn Seeley, I-Chow J. Hsu, Tae Min Hong, J. Adam Cunha
+1712.00501, Michael White, Benjamin Hansen, Arkadiy Klebaner
+1712.00301, Pawan Goyal, Martin Redmann
+1801.00001, Jorge Pinochet, Michael Van Sint Jan
+1801.00101, Dylan J. Foster, Satyen Kale, Mehryar Mohri, Karthik Sridharan
+1802.00901, Joaquín Figueroa, José Rogan, Juan Alejandro Valdivia, Miguel Kiwi, Guillermo Romero, Felipe Torres
+1802.00601, Patryk Jasik, Tymon Kilich, Jan Kozicki, Józef E. Sienkiewicz
+1802.00501, Matthieu Alfaro, Mario Veruete
+1802.01101, Yaroslav Herasymenko, Kyrylo Snizhko, Yuval Gefen
+1802.00201, Brajesh Kumar, S. B. Pandey, Kanhaiya L. Pandey, G. C. Anupama, J. Surdej
+1802.00801, Shenglong Xu, Brian Swingle
+1802.01001, R. A. Bailey, Peter J. Cameron, Alexander L. Gavrilyuk, Sergey V. Goryainov
+1802.00001, Hoi H. Nguyen, Elliot Paquette
+1802.00301, Emanuele Strano, Matheus P. Viana, Alessandro Sorichetta, Andrew J. Tatem
+1802.00101, A. Blumenstein, E. S. Zijlstra, D. S. Ivanov, S. T. Weber, T. Zier, F. Kleinwort, B. Rethfeld, J. Ihlemann, P. Simon, M. E. Garcia
+1802.00401, Ian Hincks, Joel J. Wallman, Chris Ferrie, Chris Granade, David G. Cory
+1802.01201, Andreas Leopold Knutsen, Margherita Lelli-Chiesa, Alessandro Verra
+1803.00501, Xin Chen, Yongcheng Wu
+1803.00901, Claudia Chaio, Diane Castonguay, Sonia Trepode
+1803.01001, T. Jayasinghe, C. S. Kochanek, K. Z. Stanek, B. J. Shappee, T. W. -S. Holoien, Todd A. Thompson, J. L. Prieto, Subo Dong, M. Pawlak, J. V. Shields, G. Pojmanski, S. Otero, C. A. Britt, D. Will
+1803.00101, Vladimir Feinberg, Alvin Wan, Ion Stoica, Michael I. Jordan, Joseph E. Gonzalez, Sergey Levine
+1803.00401, Gaurav Goswami, Nalini Ratha, Akshay Agarwal, Richa Singh, Mayank Vatsa
+1803.00701, Zhongjun Jin, Michael Cafarella, H. V. Jagadish, Sean Kandel, Michael Minar, Joseph M. Hellerstein
+1803.00601, Anjana M. Samarakoon, Gideon Wachtel, Youhei Yamaji, D. A. Tennant, Cristian D. Batista, Yong Baek Kim
+1803.00801, Lorène Champougny, Robin Henaff, Frédéric Restagno, François Boulogne, Emmanuelle Rio
+1803.00301, Giacomo Albi, Dante Kalise
+1803.00001, Mactar Ndaw, Macoumba Ndour, Papa Ngom
+1804.00301, Fengpeng Wang, David Damanik
+1804.00501, Leonardo F S Scabini, Rayner H M Condori, Wesley N Gonçalves, Odemir M Bruno
+1804.00201, S. Rennie, E. Lawrence Bright, J. E. Sutcliffe, J. E. Darnbrough, J. Rawle, C. Nicklin, G. H. Lander, R. Springell
+1804.00601, Andzhey Koziuk, Vladimir Spokoiny
+1804.00101, Mikkel Abrahamsen, Anna Adamaszek, Karl Bringmann, Vincent Cohen-Addad, Mehran Mehr, Eva Rotenberg, Alan Roytman, Mikkel Thorup
+1804.00801, Daoli Zhu, Lei Zhao
+1804.00901, Tong Liu, Hao Guo
+1804.00701, Virendra Marathe, Achin Mishra, Amee Trivedi, Yihe Huang, Faisal Zaghloul, Sanidhya Kashyap, Margo Seltzer, Tim Harris, Steve Byan, Bill Bridge, Dave Dice
+1804.00401, Prasetya Utama, Nathaniel Weir, Fuat Basik, Carsten Binnig, Ugur Cetintemel, Benjamin Hättasch, Amir Ilkhechi, Shekar Ramaswamy, Arif Usta
+1804.00001, Guillaume Bernard-Granger, Nassira Benameur, Ahmed Addad, Mats Nygren, Christian Guizard, Sylvain Deville
+1805.00401, Rohan Jacob-Rao, Brigitte Pientka, David Thibodeau
+1805.01201, Dominique Fourer, Geoffroy Peeters
+1805.02701, Stephan Mertens, Cristopher Moore
+1805.01701, Liqun Qi, Zhenghai Huang
+1805.01101, Tian-sheng Zeng, W. Zhu, D. N. Sheng
+1805.01401, Andre Wibisono, Varun Jog
+1805.02301, Emmanouil Valsomatzis, Torben Bach Pedersen, Alberto Abello
+1805.02101, Luis Narváez Macarro, Christian Sevenheck
+1805.01601, A. V. Zakrzewski, S. Gangopadhyay, A. A. Aczel, S. Calder, T. J. Williams, G. J. MacDougall
+1805.00601, Giovanni Gravina, Giovanni Leoni
+1805.02401, Karine Altisen, Stéphane Devismes, Anaïs Durand
+1805.00201, Hamza Abudayyeh, Boaz Lubotzky, Somak Majumder, Jennifer A. Hollingsworth, Ronen Rapaport
+1805.02001, X. -F. Mao, J. -F. Xie, Y. -N. Yang, Almire. Abla
+1805.01301, Livia Ferro, Tomasz Lukowski, Matteo Parisi
+1805.02801, Ramses M. Ramirez, Lisa Kaltenegger
+1805.01501, Adam Kanigowski, Kurt Vinhage, Daren Wei
+1805.00801, Anahita Namvar, Mohammad Siami, Fethi Rabhi, Mohsen Naderpour
+1805.00701, L. Chaix, E. W. Huang, S. Gerber, X. Lu, C. Jia, Y. Huang, D. E. McNally, Y. Wang, F. H. Vernay, A. Keren, M. Shi, B. Moritz, Z. -X. Shen, T. Schmitt, T. P. Devereaux, W. -S. Lee
+1805.00301, Marius Tărnăuceanu, Mihai-Silviu Lazorec
+1805.01801, Andrea Arcangeli, Francesco Rossella, Andrea Tomadin, Jihua Xu, Daniele Ercolani, Lucia Sorba, Fabio Beltram, Alessandro Tredicucci, Marco Polini, Stefano Roddaro
+1805.00901, Fabrizia Corona, Rocco M. Chiuri, Giovanni Filocamo, , "Michaela Foa, ", , Pier Luca Lanzi, Amalia Lopopolo, Antonella Petaccia
+1805.00101, Guntars Kitenbergs, Andrejs Tatuļčenkovs, Lāsma Puķina, Andrejs Cēbers
+1805.01901, V. V. Begun, V. Vovchenko, M. I. Gorenstein, H. Stoecker
+1805.01001, Kristina Gligoric, Manisha Ajmani, Dejan Vukobratovic, Sinan Sinanovic
+1805.02201, Victor Magron, Mohab Safey El Din
+1806.00001, Nicola Giacobbo, Michela Mapelli
+1806.00201, Nicholas Guttenberg, Martin Biehl, Nathaniel Virgo, Ryota Kanai
+1806.00401, D. Cerri-Serim, M. M. Serim, S. Sahiner, S. C. Inam, A. Baykal
+1806.00801, Pu Jin, Gui-Song Xia, Fan Hu, Qikai Lu, Liangpei Zhang
+1806.00701, Jeremias Sulam, Aviad Aberdam, Amir Beck, Michael Elad
+1806.00501, Bowen Yang, Everardo Molina, Jeongwoo Kim, David Barroso, Mark Lohmann, Yawen Liu, Yadong Xu, Ruqian Wu, Ludwig Bartels, Kenji Watanabe, Takashi Taniguchi, Jing Shi
+1806.00101, Akash Srivastava, Kai Xu, Michael U. Gutmann, Charles Sutton
+1806.00601, Mariusz P. Dabrowski, Konrad Marosek
+1806.00901, Xin-Yi Tong, Qikai Lu, Gui-Song Xia, Liangpei Zhang
+1806.01001, Mahdieh Yousefi, Monireh Faraji, Reza Asgari, Alireza Z. Moshfegh
+1807.01501, Michèle Friend, Mohamed Khaled, Koen Lefever, Gergely Székely
+1807.00101, T. Takahashi, G. An, Y. Chen, W. Chou, Y. Huang, W. Liu, W. Lu, J. Lv, G. Pei, S. Pei, C. P. Shen, B. Sun, C. Zhang, C. Zhang
+1807.01301, J. Sánchez-Barriga, I. Aguilera, L. V. Yashina, D. Y. Tsukanova, F. Freyse, A. N. Chaika, A. M. Abakumov, A. Varykhalov, E. D. L. Rienks, G. Bihlmayer, S. Blügel, O. Rader
+1807.00201, Cosmin Pohoata, Adam Sheffer
+1807.00601, Lingbo Liu, Hongjun Wang, Guanbin Li, Wanli Ouyang, Liang Lin
+1807.00301, Julian Faraone, Nicholas Fraser, Michaela Blott, Philip H. W. Leong
+1807.01201, Belle Collaboration, B. G. Fulsom, T. K. Pedlar, I. Adachi, H. Aihara, S. Al Said, D. M. Asner, H. Atmacan, V. Aulchenko, T. Aushev, R. Ayad, V. Babu, I. Badhrees, A. M. Bakich, V. Bansal, P. Behera, C. Beleño, M. Berger, V. Bhardwaj, B. Bhuyan, T. Bilka, J. Biswal, A. Bondar, G. Bonvicini, A. Bozek, M. Bračko, T. E. Browder, L. Cao, D. Červenkov, V. Chekelian, A. Chen, B. G. Cheon, K. Chilikin, K. Cho, S. -K. Choi, Y. Choi, S. Choudhury, D. Cinabro, S. Cunliffe, N. Dash, S. Di Carlo, J. Dingfelder, Z. Doležal, T. V. Dong, Z. Drásal, S. Eidelman, D. Epifanov, J. E. Fast, T. Ferber, R. Garg, V. Gaur, N. Gabyshev, A. Garmash, M. Gelb, A. Giri, P. Goldenzweig, E. Guido, J. Haba, K. Hayasaka, H. Hayashii, S. Hirose, W. -S. Hou, T. Iijima, K. Inami, G. Inguglia, A. Ishikawa, R. Itoh, M. Iwasaki, Y. Iwasaki, W. W. Jacobs, H. B. Jeon, S. Jia, Y. Jin, D. Joffe, K. K. Joo, T. Julius, T. Kawasaki, H. Kichimi, C. Kiesling, D. Y. Kim, H. J. Kim, J. B. Kim, K. T. Kim, S. H. Kim, K. Kinoshita, P. Kodyš, S. Korpar, D. Kotchetkov, P. Križan, R. Kroeger, P. Krokovny, T. Kuhr, R. Kulasiri, A. Kuzmin, Y. -J. Kwon, J. S. Lange, I. S. Lee, S. C. Lee, L. K. Li, Y. B. Li, L. Li Gioi, J. Libby, D. Liventsev, M. Lubej, T. Luo, M. Masuda, T. Matsuda, D. Matvienko, M. Merola, K. Miyabayashi, H. Miyata, R. Mizuk, G. B. Mohanty, H. K. Moon, T. Mori, R. Mussa, M. Nakao, T. Nanut, K. J. Nath, Z. Natkaniec, M. Nayak, M. Niiyama, N. K. Nisar, S. Nishida, S. Ogawa, S. Okuno, H. Ono, P. Pakhlov, G. Pakhlova, B. Pal, S. Pardi, H. Park, S. Paul, R. Pestotnik, L. E. Piilonen, V. Popov, E. Prencipe, A. Rabusov, M. Ritter, A. Rostomyan, G. Russo, Y. Sakai, M. Salehi, S. Sandilya, L. Santelj, T. Sanuki, V. Savinov, O. Schneider, G. Schnell, C. Schwanda, Y. Seino, K. Senyo, M. E. Sevior, V. Shebalin, C. P. Shen, T. -A. Shibata, J. -G. Shiu, B. Shwartz, F. Simon, J. B. Singh, A. Sokolov, E. Solovieva, M. Starič, J. F. Strube, M. Sumihama, K. Sumisawa, T. Sumiyoshi, W. Sutcliffe, M. Takizawa, U. Tamponi, K. Tanida, F. Tenchini, M. Uchida, T. Uglov, Y. Unno, S. Uno, P. Urquijo, S. E. Vahsen, C. Van Hulse, R. Van Tonder, G. Varner, A. Vinokurova, V. Vorobyev, A. Vossen, B. Wang, C. H. Wang, P. Wang, X. L. Wang, M. Watanabe, S. Watanuki, E. Widmann, E. Won, H. Ye, J. H. Yin, C. Z. Yuan, Z. P. Zhang, V. Zhukova, V. Zhulanov, A. Zupanc
+1807.00701, Adam Kleczkowski, Andrew Bate, Michael Redenti, Nick Hanley
+1807.00801, Hyeji Kim, Yihan Jiang, Sreeram Kannan, Sewoong Oh, Pramod Viswanath
+1807.00001, V. E. Didenko, O. A. Gelfond, A. V. Korybut, M. A. Vasiliev
+1807.01401, Elin Farnell, Henry Kvinge, Michael Kirby, Chris Peterson
+1807.01001, Patrick Wenzel, Qadeer Khan, Daniel Cremers, Laura Leal-Taixé
+1807.00401, James Max Kanter, Benjamin Schreck, Kalyan Veeramachaneni
+1808.00601, Francesco Lomio, Ricardo Farinha, Mauri Laasonen, Heikki Huttunen
+1808.00001, Kimberly K. Boddy, Vera Gluscevic, Vivian Poulin, Ely D. Kovetz, Marc Kamionkowski, Rennan Barkana
+1808.00101, Yan Sun, Dongfang Xu, Derrick Wing Kwan Ng, Linglong Dai, Robert Schober
+1808.00301, Romain Yvinec, Pascale Crépieux, Eric Reiter, Anne Poupon, Frédérique Clément
+1808.00501, João M. Mendonça, Shang-Min Tsai, Matej Malik, Simon L. Grimm, Kevin Heng
+1808.00201, Michael Eiselt, Annika Dochhan
+1809.00301, Dan Crisan, Alberto Lopez-Yela, Joaquin Miguez
+1809.00501, José L. Ruiz, Inmaculada Sirvent
+1809.00401, Iryna Banakh, Taras Banakh
+1809.00101, Lingbo Liu, Ruimao Zhang, Jiefeng Peng, Guanbin Li, Bowen Du, Liang Lin
+1809.00601, Kai Wang, Ruo-Yu Liu, Zhuo Li, Xiang-Yu Wang, Zi-Gao Dai
+1810.01001, S. Ahmed, T. Andalib, M. J. Barnes, C. B. Bidinosti, Y. Bylinsky, J. Chak, M. Das, C. A. Davis, B. Franke, M. T. W. Gericke, P. Giampa, M. Hahn, S. Hansen-Romu, K. Hatanaka, B. Jamieson, D. Jones, K. Katsika, S. Kawasaki, W. Klassen, A. Konaka, E. Korkmaz, F. Kuchler, L. Kurchaninov, M. Lang, L. Lee, T. Lindner, K. W. Madison, J. Mammei, R. Mammei, J. W. Martin, R. Matsumiya, R. Picker, E. Pierre, W. D. Ramsay, Y. -N. Rao, W. R. Rawnsley, L. Rebenitsch, C. A. Remon, W. Schreyer, A. Sikora, S. Sidhu, J. Sonier, B. Thorsteinson, S. Vanbergen, W. T. H. van Oers, Y. X. Watanabe, D. Yosifov
+1810.02201, Giacomo Tarroni, Ozan Oktay, Matthew Sinclair, Wenjia Bai, Andreas Schuh, Hideaki Suzuki, Antonio de Marvao, , "Declan O, Regan", , Stuart Cook, Daniel Rueckert
+1810.00201, Kathryn E. Hare, Kevin G. Hare, Brian P. M. Morris, Wanchun Shen
+1810.00801, Ken Shiozaki, Charles Zhaoxi Xiong, Kiyonori Gomi
+1810.03301, Leticia Duboc, Faisal Alrebeish, Vivek Nallur, Rami Bahasoon
+1810.01801, Amalio Fernández-Pacheco, Elena Vedmedenko, Fanny Ummelen, Rhodri Mansell, Dorothée Petit, Russell P. Cowburn
+1810.02001, Ignazio Gallo, Alessandro Calefati, Shah Nawaz, Muhammad Kamran Janjua
+1810.04501, Alexander G. Abanov, Gustavo M. Monteiro
+1810.00001, The PLAsTiCC team, Tarek Allam Jr., Anita Bahmanyar, Rahul Biswas, Mi Dai, Lluís Galbany, Renée Hložek, Emille E. O. Ishida, Saurabh W. Jha, David O. Jones, Richard Kessler, Michelle Lochner, Ashish A. Mahabal, Alex I. Malz, Kaisey S. Mandel, Juan Rafael Martínez-Galarza, Jason D. McEwen, Daniel Muthukrishna, Gautham Narayan, Hiranya Peiris, Christina M. Peters, Kara Ponder, Christian N. Setzer, The LSST Dark Energy Science Collaboration, The LSST Transients, Variable Stars Science Collaboration
+1810.05201, Kellie Webster, Marta Recasens, Vera Axelrod, Jason Baldridge
+1810.04201, Grzegorz Korcyl, Piotr Korcyl
+1810.00601, Romeo Ortega, Bowen Yi, Jose Guadalupe Romero, Alessandro Astolfi
+1810.04301, Mohammad Deghat, Valery Ugrinovskii, Iman Shames, Cedric Langbort
+1810.05501, Maciej Buze, Thomas Hudson, Christoph Ortner
+1810.04401, Luca Rossetto, Heiko Schuldt, George Awad, Asad A. Butt
+1810.02701, Thomas Schmidt, Maria-Rosa Cioni, Florian Niederhofer, Jonathan Diaz, Gal Matijevic
+1810.03701, S. H. Challa, S. Dong, L. D. Zhu
+1810.03101, E. Ber, B. Osman, D. Ritter
+1810.04701, K. Gutierrez, E. Leon, M. Belloni, R. W. Robinett
+1810.01501, Derrik E. Asher, Justine Caylor, Casey Doyle, Alexis R. Neigel, Gyorgy Korniss, Boleslaw K. Szymanski
+1810.03001, Ji-Sang Park, Sunghyun Kim, Aron Walsh
+1810.02401, Ghada Zamzmi, Gabriel Ruiz, Matthew Shreve, Dmitry Goldgof, Rangachar Kasturi, Sudeep Sarkar
+1810.00501, Rohan Maddamsetti, Jacob Bower-Bir
+1810.05001, Hossein Shenavar, Kurosh Javidan
+1810.02601, V. V. Flambaum, I. B. Samsonov
+1810.01101, I. Zhelyazkov, R. Chandra
+1810.01201, Edoardo Besozzi, David Dellasega, Valeria Russo, Matteo Passoni, Marco Beghi
+1810.00101, Mohammadreza Ghanavati, Diego Costa, Janos Seboek, David Lo, Artur Andrzejak
+1810.05301, Juan P. Beltrán Almeida, Alejandro Guarnizo, César A. Valenzuela-Toledo
+1810.05401, Andreas Maier, Christopher Syben, Tobias Lasser, Christian Riess
+1810.03201, George Stamatakis, Nikolaos Pappas, Apostolos Traganitis
+1810.04901, Shigehiro Yasui, Chandrasekhar Chatterjee, Muneto Nitta
+1810.02501, Gunwoong Park, Sion Park
+1810.04601, J. Korth, Sz. Csizmadia, D. Gandolfi, M. Fridlund, M. Pätzold, T. Hirano, J. Livingston, C. M. Persson, H. J. Deeg, A. B. Justesen, O. Barragán, S. Grziwa, M. Endl, R. Tronsgaard, F. Dai, W. D. Cochran, S. Albrecht, R. Alonso, J. Cabrera, P. W. Cauley, F. Cusano, Ph. Eigmüller, A. Erikson, M. Esposito, E. W. Guenther, A. P. Hatzes, D. Hidalgo, M. Kuzuhara, P. Montañes, N. R. Napolitano, N. Narita, P. Niraula, D. Nespral, G. Nowak, E. Palle, C. E. Petrillo, S. Redfield, J. Prieto-Arranz, H. Rauer, A. M. S. Smith, C. Tortora, V. Van Eylen, J. N. Winn
+1810.03401, Neha Jain, Anubha Gupta, Vivek Ashok Bohara
+1810.00401, Raphael Hiesgen, Dominik Charousset, Thomas C. Schmidt
+1810.01601, Fabian Schrodi, Alex Aperis, Peter M. Oppeneer
+1810.04801, Benjamin Bakker, Bruno Klingler, Jacob Tsimerman
+1810.01901, A. M. Zimmerman, J. I. A. Li, M. D. Nguyen, W. P. Halperin
+1810.05101, Zakariya Ghalmane, Mohammed El Hassouni, Chantal Cherifi, Hocine Cherifi
+1810.00701, Krishnendu Pal, Gautam Gangopadhyay
+1810.04101, Loris Bazzani, Tobias Domhan, Felix Hieber
+1810.02801, Erik Piatti, Takafumi Hatano, Dario Daghero, Francesco Galanti, Claudio Gerbaldi, Chiara Portesi, Ibuki Nakamura, Ryosuke Fujimoto, Kazumasa Iida, Hiroshi Ikuta, Renato S. Gonnelli
+1810.00901, Michael Zevin, Johan Samsing, Carl Rodriguez, Carl-Johan Haster, Enrico Ramirez-Ruiz
+1810.02301, Sigrid Grepstad, Lisa Kaltenböck, Mario Neumüller
+1811.00201, Pranay Mukherjee, Abhirup Das, Ayan Kumar Bhunia, Partha Pratim Roy
+1811.00101, Mosab Khayat, Arif Ghafoor
+1812.01301, Pablo Fondo Ferreiro, Miguel Rodríguez Pérez, Manuel Fernández Veiga
+1812.00501, Soham R. Phade, Venkat Anantharam
+1812.01701, P. Chris Fragile, Daniel Nemergut, Payden L. Shaw, Peter Anninos
+1812.03401, E. P. Lagioia, A. P. Milone, A. F. Marino, A. Dotter
+1812.01201, Gandeva Bayu Satrya, Soo Young Shin
+1812.00701, Ara Ioannisian, Stefan Pokorski
+1812.00101, Guo Lu, Wanli Ouyang, Dong Xu, Xiaoyun Zhang, Chunlei Cai, Zhiyong Gao
+1812.03101, Vincent Prat, Stéphane Mathis, Kyle Augustson, François Lignières, Jérôme Ballot, Lucie Alvan, Allan Sacha Brun
+1812.04001, Karol Gietka, Farokh Mivehvar, Helmut Ritsch
+1812.00301, Yantian Zha, Yikang Li, Tianshu Yu, Subbarao Kambhampati, Baoxin Li
+1812.01601, Angjoo Kanazawa, Jason Y. Zhang, Panna Felsen, Jitendra Malik
+1812.02701, Sarang Gopalakrishnan, Romain Vasseur
+1812.03501, Keping Qiu, Friedrich Wyrowski, Karl Menten, Qizhou Zhang, Rolf Guesten
+1812.00901, Karthik C. S., Pasin Manurangsi
+1812.00401, Paweł Gora, Maciej Brzeski, Marcin Możejko, Arkadiusz Klemenko, Adrian Kochański
+1812.03901, Shigeo S. Kimura, Kengo Tomida, Kohta Murase
+1812.02501, Fadime Sener, Angela Yao
+1812.04201, Keyou You, Qizhu Chen, Pei Xie, Shiji Song
+1812.02601, Pablo Arrighi, Giuseppe Di Molfetta, Iván Márquez-Martín, Armando Pérez
+1812.03001, Michal Krelina, Jan Nemchik, Roman Pasechnik, Jan Cepila
+1812.03701, Michele Caraglio, Enrico Skoruppa, Enrico Carlon
+1812.02401, Diederik S. Laman Trip, Wessel N. van Wieringen
+1812.01001, R. Albuquerque, S. Narison, A. Rabemananjara, D. Rabetiarivony, G. Randriamanatrika
+1812.02901, Andrei Galukhin, Yuri Osin, Alexander Rodionov, Georgy Mamin, Marat Gafurov, Sergei Orlinskii
+1812.03601, Brendan Fong, Maru Sarazola
+1812.00001, Kazuto Fukuchi, Jun Sakuma
+1812.04301, E. I. Kaptsov, S. V. Meleshko
+1812.03301, Jakob E. Björnberg, Michał Kotowski, Benjamin Lees, Piotr Miłoś
+1812.01501, Suwon Shon, Ahmed Ali, James Glass
+1812.01901, Mikael Chala, Maria Ramos, Michael Spannowsky
+1812.00201, Johannes Schiffer, Petros Aristidou, Romeo Ortega
+1812.02201, N. V. Kuznetsov, T. N. Mokaev
+1812.01101, Yu Zeng, Kebei Jiang, Jie Chen
+1812.02101, Kevin T. Tian, Eric Samperton, Zhenghan Wang
+1812.04501, Trifon Trifonov, Jan Rybizki, Martin Kürster
+1812.04401, Ben Chugg, Anne Condon, Hooman Hashemi
+1812.03801, Claudius Hubig, J. Ignacio Cirac
+1812.03201, Tobias Johannink, Shikhar Bahl, Ashvin Nair, Jianlan Luo, Avinash Kumar, Matthias Loskyll, Juan Aparicio Ojea, Eugen Solowjow, Sergey Levine
+1812.02301, Hélène Le Cadre, Paulin Jacquot, Cheng Wan, Clémence Alasseur
+1812.01801, Shota Matsumoto, Ryota Yamanaka, Hirokazu Chiba
+1812.02001, Bernhard Irsigler, Jun-Hui Zheng, Mohsen Hafez-Torbati, Walter Hofstetter
