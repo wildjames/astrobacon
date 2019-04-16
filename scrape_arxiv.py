@@ -160,23 +160,30 @@ if __name__ in "__main__":
     get_proxies()
 
 
-    codes = []
+    ofile = 'ArXiv_Scrape.txt'
+    # Create an empty file to store the results in
+    f = open(ofile, 'w')
+    f.close()
+
     for Y in range(7, 19):
+        codes = []
         for M in range(1, 13):
             codes.append("{:02d}{:02d}".format(Y, M))
 
-    # Call the arxiv API and get the author lists of each ID in each month.
-    p = Pool(16)
-    records = p.map(scrape_authors, codes)
-    # Graceful finish
-    p.terminate()
-    p.join()
+    # Every two years, store the data we have so far
+    if Y % 2 == 0:
+        # Call the arxiv API and get the author lists of each ID in each month.
+        p = Pool(16)
+        records = p.map(scrape_authors, codes)
+        # Graceful finish
+        p.terminate()
+        p.join()
 
-    with open('ArXiv_Scrape.txt', 'w') as f:
-        for entry in records:
-            for key in entry.keys():
-                authors = [x.replace(',', '').replace('"', '').replace("'") for x in entry[key]]
-                a = ','.join(authors)
-                f.write("{}, {}".format(key, a))
+        with open(ofile, 'a') as f:
+            for entry in records:
+                for key in entry.keys():
+                    authors = [x.replace(',', '').replace('"', '').replace("'") for x in entry[key]]
+                    a = ','.join(authors)
+                    f.write("{}, {}".format(key, a))
     
     os.remove('proxies.tmp')
