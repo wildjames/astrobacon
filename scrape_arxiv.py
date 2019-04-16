@@ -179,4 +179,3 @@ if __name__ in "__main__":
             for key in entry.keys():
                 a = ','.join(entry[key])
                 f.write("{}, {}".format(key, a)
-
