@@ -177,5 +177,6 @@ if __name__ in "__main__":
     with open('ArXiv_Scrape.txt', 'w') as f:
         for entry in records:
             for key in entry.keys():
-                f.write(key + str(entry[key]) + '\n')
+                a = ','.join(entry[key])
+                f.write("{}, {}".format(key, a)
 
