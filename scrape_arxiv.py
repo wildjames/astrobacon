@@ -128,7 +128,7 @@ def scrape_authors(YYMM):
         content = feedparser.parse(page.text)
         try:
             entries = content.entries[0]
-        
+
             authors = entries['authors']
             authorNames = [a['name'] for a in authors]
             # print(authorNames)
