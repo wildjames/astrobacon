@@ -58,7 +58,7 @@ def retrieve_url(url, use_proxy=True):
             with open('proxies.tmp', 'r') as f:
                 proxies = f.read().split()
 
-        headers = {'User-Agent':str(ua.chrome)}
+        headers = {'User-Agent':str(ua.random)}
         proxy = random.choice(proxies)
 
         print("Querying {} with the proxy {}".format(url, proxy))
