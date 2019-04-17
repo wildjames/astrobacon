@@ -185,7 +185,7 @@ if __name__ in "__main__":
             with open(ofile, 'a') as f:
                 for entry in records:
                     for key in entry.keys():
-                        authors = [x.replace(',', '').replace('"', '').replace("'") for x in entry[key]]
+                        authors = [x.replace(',', '').replace('"', '').replace("'", '') for x in entry[key]]
                         a = ','.join(authors)
                         f.write("{}, {}".format(key, a))
     
