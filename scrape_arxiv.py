@@ -162,7 +162,7 @@ if __name__ in "__main__":
 
 
     ofile = 'ArXiv_Scrape.txt'
-    # Create an empty file to store the results in
+    # Create an empty file to store the results in
     f = open(ofile, 'w')
     f.close()
 
@@ -171,7 +171,7 @@ if __name__ in "__main__":
         for M in range(1, 13):
             codes.append("{:02d}{:02d}".format(Y, M))
 
-    # Every two years, store the data we have so far
+    # Every two years, store the data we have so far
     if Y % 2 == 0:
         # Call the arxiv API and get the author lists of each ID in each month.
         p = Pool(16)
