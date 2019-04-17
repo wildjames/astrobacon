@@ -114,7 +114,7 @@ def scrape_authors(YYMM):
 
     data = {}
 
-    Ns = np.arange(1, 20000)
+    Ns = np.arange(1, 10000)
     random.shuffle(Ns)
     for N in Ns:
         # Construct the URL
@@ -140,7 +140,6 @@ def scrape_authors(YYMM):
                 print("\nOnly 1 author for paper http://arxiv.org/abs/{}\n".format(code))
         except:
             print("!!FAILED!! The ArXiv ID http://arxiv.org/abs/{}".format(code))
-            # If I encounter two broken links in a row, I've probably finished.
         
     return data
 
