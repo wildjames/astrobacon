@@ -58,14 +58,7 @@ if __name__ in "__main__":
         while a1 == a2:
             a2 = random.choice(authorList)
 
-
-        # Test cases
-        # a1 = 'K. Torii'
-        # a2 = 'I. A. Nekrasov'
-
-        # a1 = 'Barry Y. Welsh'
-        # a2 = 'Timothy M. Heckman'
-
+        # Try and find a path linking the two authors. If none is found, try another combination
         try:
             path = nx.dijkstra_path(G, a1, a2)
         except:
@@ -78,7 +71,7 @@ if __name__ in "__main__":
 
         print("\n\nThe two authors, {} and {}, are linked by the following chain:".format(a1, a2))
         print(path)
-        print("They're separated by {} degrees.".format(len(path)))
+        print("They're separated by {} degrees.".format(len(path)-1))
 
 
         # Add the linking path between the authors
@@ -100,41 +93,49 @@ if __name__ in "__main__":
                 
                 # Add the paper to our paper trail
                 paper_trail.append(paper)
+
+                # For each combintaion of the authors in the path that are on this paper
                 for a, b in itertools.combinations(crossover, 2):
+                    # Create a label for them
                     toLabel[tuple([a, b])] = paper
                     
+                    # Add a node for that author, if it's not already added.
                     if not b in H.nodes():
                         H.add_node(b)
                     if not a in H.nodes():
                         H.add_node(a)
                     
+                    # And join those nodes
                     H.add_edge(a, b)
 
 
-        # Fill in the other (semi-irrelevant) coauthor nodes, to get an idea of which papers are 'hub' papers
+        # Fill in the other (semi-irrelevant) coauthor nodes, to get an idea of which authors are 'hub' authors
         for author in path:
             for paper in authorPapers[author]:
                 for coauthor in paperAuthors[paper]:
                     if not coauthor in H.nodes():
                         H.add_node(coauthor)
-                    
                         H.add_edge(author, coauthor)
         
+
         Nnodes = H.number_of_nodes()
         Nconns = H.number_of_edges()
+        print("The graph has {} Authors on it, and {} links between them all".format(Nnodes, Nconns))
 
-        print("The graph has {} Authors on it, and {} links between them!".format(Nnodes, Nconns))
-
+        # Pre-compute the draw locations, so I can customise the appearance
         pos = nx.spring_layout(H)
+
+        # Set the sizes, so that authors on the path have larger nodes
         nodes = H.node()
         node_size = [100 if n in path else 3 for n in nodes]
-        node_weights = [10 if n in path else 1 for n in nodes]
 
+        # Draw the graph!
         nx.draw_networkx_labels(H, pos=pos, font_size=8, font_weight='bold', labels={i:i for i in path})
         nx.draw_networkx_edge_labels(H, pos=pos, font_size=5, edge_labels=toLabel)
         nx.draw_networkx_nodes(H, pos=pos, node_size=node_size, node_color='red')
         nx.draw_networkx_edges(H, pos=pos, alpha=0.3)
-        
+        plt.gca().set_axis_off()
+
         plt.tight_layout()
         plt.show()
 
