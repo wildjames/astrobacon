@@ -50,12 +50,13 @@ def retrieve_url(url, use_proxy=True):
     time.sleep(sleep)
 
     if use_proxy:
-
-        if random.randint(0, 10000) == 4224:
-            get_proxies()
-
         with open("proxies.tmp", 'r') as f:
             proxies = f.read().split()
+
+        if len(proxies) < 500:
+            get_proxies()
+            with open('proxies.tmp', 'r') as f:
+                proxies = f.read().split()
 
         headers = {'User-Agent':str(ua.chrome)}
         proxy = random.choice(proxies)
