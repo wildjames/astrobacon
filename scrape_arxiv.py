@@ -114,7 +114,7 @@ def scrape_authors(YYMM):
 
     data = {}
 
-    Ns = np.arange(1, 100000)
+    Ns = np.arange(1, 20000)
     random.shuffle(Ns)
     for N in Ns:
         # Construct the URL
