@@ -173,6 +173,8 @@ if __name__ in "__main__":
 
         # Every two years, store the data we have so far
         if Y % 2 == 0:
+            # update proxy list
+            get_proxies()
             # Call the arxiv API and get the author lists of each ID in each month.
             p = Pool(24)
             records = p.map(scrape_authors, codes)
