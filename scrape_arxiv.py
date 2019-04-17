@@ -46,7 +46,7 @@ def get_proxies():
 def retrieve_url(url, use_proxy=True):
     
     # Don't slam the arxiv too hard
-    sleep = np.random.rand() * 10.
+    sleep = np.random.rand() * 3.
     time.sleep(sleep)
 
     if use_proxy:
