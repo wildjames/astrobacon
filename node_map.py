@@ -8,7 +8,7 @@ from pprint import pprint
 
 if __name__ in "__main__":
     # The scraped data from ArXiv
-    dfname = 'ArXiv_OAI.txt'
+    dfname = 'ArXiv_Scrape.txt'
 
     # Store the connections as dicts of authors for now
     authorPapers = {}
@@ -18,6 +18,7 @@ if __name__ in "__main__":
     # There are some edge cases that are easier to just to handle like this
     reject = ['', '"', "'", 'USA']
 
+    print("Making a graph connecting the authors in {}".format(dfname))
     with open(dfname, 'r') as f:
         for line in f:
             line = line.strip().split(',')
@@ -32,6 +33,7 @@ if __name__ in "__main__":
                 except:
                     authorPapers[author] = [paper]
     authorList = list(authorList)
+    print("Made a graph linking {} authors".format(len(authorList)))
 
     # Init the graph
     G=nx.MultiGraph()
