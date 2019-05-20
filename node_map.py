@@ -8,7 +8,7 @@ from pprint import pprint
 
 if __name__ in "__main__":
     # The scraped data from ArXiv
-    dfname = 'ArXiv_Scrape.txt'
+    dfname = 'ArXiv_OAI.txt'
 
     # Store the connections as dicts of authors for now
     authorPapers = {}

@@ -13,7 +13,7 @@ with open('ArXiv_OAI.txt', 'w') as f:
             paper = record.metadata['id'][0]
         except:
             print("Couldn't get the paper ID!")
-            pprint(record.metadata)
+            # pprint(record.metadata)
 
             continue
 
@@ -21,7 +21,7 @@ with open('ArXiv_OAI.txt', 'w') as f:
             surnames = record.metadata['keyname']
         except:
             print("Couldn't get the paper keynames!")
-            pprint(record.metadata)
+            # pprint(record.metadata)
 
             continue
 
@@ -29,7 +29,7 @@ with open('ArXiv_OAI.txt', 'w') as f:
             forenames = record.metadata['forenames']
         except:
             print("Couldn't get the paper Forenames!")
-            pprint(record.metadata)
+            # pprint(record.metadata)
             forenames = ['' for _ in surnames]
 
 
