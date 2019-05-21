@@ -18,13 +18,13 @@ if __name__ in "__main__":
     # There are some edge cases that are easier to just to handle like this
     reject = ['', '"', "'", 'USA']
 
-    print("Making a graph connecting the authors in {}".format(dfname))
+    print("Reading the authors in {}...".format(dfname))
     with open(dfname, 'r') as f:
         for line in f:
             line = line.strip().split(',')
             paper = line[0]
             authors = [x.strip() for x in line[1:] if x.strip() not in reject]
-            
+
             paperAuthors[paper] = list(authors)
             for author in authors:
                 authorList.add(author)
@@ -33,22 +33,26 @@ if __name__ in "__main__":
                 except:
                     authorPapers[author] = [paper]
     authorList = list(authorList)
-    print("Made a graph linking {} authors".format(len(authorList)))
+    print("I have {} authors".format(len(authorList)))
+    print("I have {} papers".format(len(paperAuthors)))
 
     # Init the graph
+    print("Constructing the graph (this can take a while)...")
     G=nx.MultiGraph()
 
-
+    print("Adding authors...")
     # Add the authors to it to it
     for author in authorList:
         G.add_node(author)
 
+    print("Adding edges...")
     # Add the connections
     for author in authorPapers.keys():
         for paper in authorPapers[author]:
             for coauthor in paperAuthors[paper]:
                 G.add_edge(author, coauthor)
-    
+
+    print("Made the graph")
 
 
     a1 = 'S. J. Edberg'
@@ -78,7 +82,7 @@ if __name__ in "__main__":
 
         # Add the linking path between the authors
         H.add_nodes_from(path)
-        
+
         # I need to jump through some hoops to label these, it looks complex but the logic is fine.
         paper_trail = []
         toLabel = {}
@@ -87,12 +91,12 @@ if __name__ in "__main__":
         for paper in paperAuthors.keys():
             # Make a set, as these will be faster to process
             authors = set(paperAuthors[paper])
-            
+
             # intersection returns common elements between the two
             crossover = authors.intersection(set(path))
             if len(crossover) ==  2:
                 # print("{} has the crossover {}".format(paper, crossover))
-                
+
                 # Add the paper to our paper trail
                 paper_trail.append(paper)
 
@@ -100,13 +104,13 @@ if __name__ in "__main__":
                 for a, b in itertools.combinations(crossover, 2):
                     # Create a label for them
                     toLabel[tuple([a, b])] = paper
-                    
+
                     # Add a node for that author, if it's not already added.
                     if not b in H.nodes():
                         H.add_node(b)
                     if not a in H.nodes():
                         H.add_node(a)
-                    
+
                     # And join those nodes
                     H.add_edge(a, b)
 
@@ -118,7 +122,7 @@ if __name__ in "__main__":
                     if not coauthor in H.nodes():
                         H.add_node(coauthor)
                         H.add_edge(author, coauthor)
-        
+
 
         Nnodes = H.number_of_nodes()
         Nconns = H.number_of_edges()
